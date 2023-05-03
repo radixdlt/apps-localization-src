@@ -1,0 +1,17 @@
+{
+	"settings_appSettings": "App Settings",
+	"settings_appVersion": "App version: %s build %d",
+	"settings_authorizedDapps": "Authorized dApps",
+	"settings_backups": "Backups"
+	"settings_deleteWalletData": "Delete Wallet Data",
+	"settings_gateways": "Gateways",
+	"settings_importFromLegacyWallet": "Import from a Legacy Wallet",
+	"settings_inspectProfile": "Inspect Profile",
+	"settings_linkToConnectorHeader_linkToConnector": "Link to Connector",
+	"settings_linkToConnectorHeader_subtitle": "Scan the QR code in the Radix Wallet Connector extension",
+	"settings_linkToConnectorHeader_title": "Link your Wallet to a Desktop Browser",
+	"settings_linkedConnectors": "Linked Connectors",
+	"settings_noProfileText": "No Wallet Data Found",
+	"settings_personas": "Personas",
+	"settings_title": "Settings"
+}

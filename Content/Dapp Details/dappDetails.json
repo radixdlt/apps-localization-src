@@ -1,0 +1,13 @@
+{
+	"dAppDetails_disconnectDappPrompt": "This dApp will no longer have any authorization to see any of your persona data or accounts. You will need to choose a persona to login with if you connect to this dApp again." // ***
+	"dAppDetails_forgetDappAlert_forget": "Forget",
+	"dAppDetails_forgetDappAlert_message": "Do you really want to forget this dApp?",
+	"dAppDetails_forgetDappAlert_title": "Forget dApp?",
+	"dAppDetails_forgetThisDapp": "Forget this dApp",
+	"dAppDetails_nfts": "Associated NFTs",
+	"dAppDetails_noPersonasHeading": "No Personas have been used to connect to this dApp.",
+	"dAppDetails_personasHeading": "Here are the Personas that you have previously used to connect to this dApp.",
+	"dAppDetails_tokens": "Associated Tokens",
+	"dAppDetails_website": "Website",
+	"dappDetails_dappDefinition": "dApp Definition"
+}
