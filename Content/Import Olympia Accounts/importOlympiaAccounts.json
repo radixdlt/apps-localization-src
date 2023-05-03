@@ -7,7 +7,7 @@
 	"importOlympiaAccounts_invalidMnemonic": "Invalid Mnemonic",
 	"importOlympiaAccounts_invalidPayload": "Invalid QR code",
 	"importOlympiaAccounts_mnemonic": "Mnemonic",
-	"importOlympiaAccounts_mnemonicAndPassphrase": "Mnemonic: %s\nPasphrase: %s"
+	"importOlympiaAccounts_mnemonicAndPassphrase": "Mnemonic: %s\nPasphrase: %s",
 	"importOlympiaAccounts_mnemonics": "Mnemonics",
 	"importOlympiaAccounts_noMnemonicFound": "No mnemonic found for accounts",
 	"importOlympiaAccounts_passphrase": "Passphrase",
