@@ -1,0 +1,18 @@
+{
+	"error_dappRequest_invalidPersonaId": "Invalid persona id specified by dApp",
+	"error_dappRequest_invalidRequest": "Invalid request",
+	"error_profileLoad_decodingError": "Failed to create Wallet from backup: %@",
+	"error_profileLoad_failedToCreateProfileFromSnapshot": "Failed to create Wallet from backup, error: %@, version: %@",
+	"error_transactionFailure_commit": "Failed to commit transaction",
+	"error_transactionFailure_duplicate": "Failed to convert transaction manifest",
+	"error_transactionFailure_epoch": "Failed to get epoch",
+	"error_transactionFailure_header": "Failed to build transaction header",
+	"error_transactionFailure_manifest": "Failed to convert transaction manifest",
+	"error_transactionFailure_network": "Wrong network",
+	"error_transactionFailure_noFundsToApproveTransaction": "No funds to approve transaction",
+	"error_transactionFailure_pollStatus": "Failed to poll transaction status",
+	"error_transactionFailure_prepare": "Failed to prepare transaction",
+	"error_transactionFailure_rejected": "Transaction rejected",
+	"error_transactionFailure_rejected_by_user": "Failed to convert transaction manifest",
+	"error_transactionFailure_submit": "Failed to submit transaction"
+}
