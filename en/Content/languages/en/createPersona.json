@@ -1,0 +1,17 @@
+{
+	"createPersona_completion_explanation": "Personal data that you add to your Persona will only be shared with dApp websites with your permission in the Radix Wallet.",
+	"createPersona_completion_subtitleFirst": "You’ve created your first Persona.",
+	"createPersona_completion_subtitleNotFirst": "Your Persona has been created.",
+	"createPersona_emptyDisplayName": "Empty display name",
+	"createPersona_explanation_someDappsMayRequest": "Some dApps may request personal information, like name or email address, that can be added to your Persona. Add some of this data now if you like.",
+	"createPersona_explanation_thisWillBeShared": "This will be shared with dApps you login to",
+	"createPersona_introduction_learnAboutPersonas": "Learn about Personas",
+	"createPersona_introduction_subtitle1": "A Persona is an identity that you own and control. You can have as many as you like.",
+	"createPersona_introduction_subtitle2": "You will chosose Peronas to login to dApps, and dApps may request access to personal information associated with that Persona.",
+	"createPersona_introduction_title": "Create a Persona",
+	"createPersona_nameNewPersona_explanation": "This can be changed any time",
+	"createPersona_nameNewPersona_placeholder": "e.g. My Main Persona",
+	"createPersona_nameNewPersona_subtitle": "What would you like to call your Persona?",
+	"createPersona_requiredField": "Required field",
+	"createPersona_saveAndContinueButtonTitle": "Save and Continue"
+}
