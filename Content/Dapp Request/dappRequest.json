@@ -21,9 +21,9 @@
 	"dappRequest_chooseAccountsOngoing_subtitleExactlyOne": "Choose 1 account you wish to use with ",
 	"dappRequest_chooseAccountsOngoing_title": "Account Permission",
 	"dappRequest_chooseAccounts_createNewAccount": "Create a New Account",
-	"dappRequest_chooseAccounts_successMessage": "You are now connected to %s. You can change your preferences for this dApp in your Settings at any time." // ***
-	"dappRequest_chooseAccounts_successTitle": "dApp Connection Successful" // ***
-	"dappRequest_chooseAccounts_verificationErrorTitle": "DApp error"
+	"dappRequest_chooseAccounts_successMessage": "You are now connected to %s. You can change your preferences for this dApp in your Settings at any time.",
+	"dappRequest_chooseAccounts_successTitle": "dApp Connection Successful",
+	"dappRequest_chooseAccounts_verificationErrorTitle": "DApp error",
 	"dappRequest_completion_subtitle": "Request from %s complete",
 	"dappRequest_completion_title": "Success",
 	"dappRequest_login_choosePersona": "Choose a Persona",
