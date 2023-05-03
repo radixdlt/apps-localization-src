@@ -1,5 +1,5 @@
 {
-	"dAppDetails_disconnectDappPrompt": "This dApp will no longer have any authorization to see any of your persona data or accounts. You will need to choose a persona to login with if you connect to this dApp again." // ***
+	"dAppDetails_disconnectDappPrompt": "This dApp will no longer have any authorization to see any of your persona data or accounts. You will need to choose a persona to login with if you connect to this dApp again.",
 	"dAppDetails_forgetDappAlert_forget": "Forget",
 	"dAppDetails_forgetDappAlert_message": "Do you really want to forget this dApp?",
 	"dAppDetails_forgetDappAlert_title": "Forget dApp?",
