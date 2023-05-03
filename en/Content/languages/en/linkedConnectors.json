@@ -1,0 +1,8 @@
+{
+	"linkedConnectors_linkNewConnector": "Link New Connector",
+	"linkedConnectors_removeConnectionAlert_message": "You will no longer be able to connect your wallet to this device and browser combination",
+	"linkedConnectors_removeConnectionAlert_remove": "Remove",
+	"linkedConnectors_removeConnectionAlert_title": "Remove Connection",
+	"linkedConnectors_subtitle": "Your Radix Wallet is linked to the following desktop browser using the Connector browser extension.",
+	"linkedConnectors_title": "Linked Connectors"
+}
