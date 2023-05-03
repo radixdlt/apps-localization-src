@@ -2,7 +2,7 @@
 	"settings_appSettings": "App Settings",
 	"settings_appVersion": "App version: %s build %d",
 	"settings_authorizedDapps": "Authorized dApps",
-	"settings_backups": "Backups"
+	"settings_backups": "Backups",
 	"settings_deleteWalletData": "Delete Wallet Data",
 	"settings_gateways": "Gateways",
 	"settings_importFromLegacyWallet": "Import from a Legacy Wallet",
