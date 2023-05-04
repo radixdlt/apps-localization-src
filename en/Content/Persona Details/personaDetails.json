@@ -1,0 +1,19 @@
+{
+	"personaDetails_accountSharingDescription": "Here are the account names and addresses that you are currently sharing with %@.",
+	"personaDetails_authorizedDappsHeading": "Here are the dApps you have logged into with this persona.",
+	"personaDetails_editAccountSharing": "Edit Account Sharing",
+	"personaDetails_editAvatarButtonTitle": "Edit Avatar",
+	"personaDetails_editButtonTitle": "Edit",
+	"personaDetails_editPersona": "Edit Persona",
+	"personaDetails_emailAddress": "Email Address",
+	"personaDetails_firstName": "First Name",
+	"personaDetails_lastName": "Last Name",
+	"personaDetails_notSharingAnything": "You are not sharing any personal data with %@",
+	"personaDetails_personaName": "Persona Name",
+	"personaDetails_personalDataSharingDescription": "Here is the personal data that you are sharing with %@",
+	"personaDetails_phoneNumber": "Phone Number",
+	"personaDetails_removeAuthorization": "Remove Authorization",
+	"personaDetails_removeAuthorizationAlert_confirm": "Confirm",
+	"personaDetails_removeAuthorizationAlert_message": "This dApp will no longer have authorization to see data associated with this persona, unless you choose to login with it again in the future.",
+	"personaDetails_removeAuthorizationAlert_title": "Remove Authorization"
+}
