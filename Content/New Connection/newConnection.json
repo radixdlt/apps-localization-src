@@ -1,11 +1,9 @@
 {
 	"newConnection_cameraPermissionDeniedAlert_message": "Camera access is required to link to connector.",
-	"newConnection_cameraPermissionDeniedAlert_settings": "Settings",
 	"newConnection_cameraPermissionDeniedAlert_title": "Access Required",
 	"newConnection_connectionDefaultName": "Unnamed",
 	"newConnection_linking": "Linking...",
 	"newConnection_localNetworkPermissionDeniedAlert_message": "Local Network access is required to link to connector.",
-	"newConnection_localNetworkPermissionDeniedAlert_settings": "Settings",
 	"newConnection_localNetworkPermissionDeniedAlert_title": "Access Required",
 	"newConnection_saveLinkButtonTitle": "Save Link",
 	"newConnection_subtitle": "Scan your QR code to link your wallet with a browser extension",
