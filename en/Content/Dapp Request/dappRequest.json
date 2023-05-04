@@ -33,7 +33,6 @@
 	"dappRequest_login_newDappSubtitle": " is requesting you login for the first time with a Persona.",
 	"dappRequest_login_newDappTitle": "New Login Request",
 	"dappRequest_metadataLoadingAlert_message": "Danger! Bad dApp config or you're being spoofed!",
-	"dappRequest_metadataLoadingAlert_retryButtonTitle": "Retry",
 	"dappRequest_metadataLoadingPrompt": "Loading...",
 	"dappRequest_metadata_unknownName": "Unknown dApp",
 	"dappRequest_oneTimePersonalData_chooseDataToProvide": "Choose the data to provide",
@@ -50,6 +49,5 @@
 	"dappRequest_requestMalformedAlert_message": "Interaction received from dApp does not contain any valid requests.",
 	"dappRequest_requestPersonaNotFoundAlert_message": "Persona specified by dApp does not exist.",
 	"dappRequest_requestWrongNetworkAlert_message": "Request received from dApp for network %@, but you are currently connected to %@.",
-	"dappRequest_responseFailureAlert_message": "Failed to send response payload back to dApp.",
-	"dappRequest_responseFailureAlert_retry": "Retry"
+	"dappRequest_responseFailureAlert_message": "Failed to send response payload back to dApp."
 }
