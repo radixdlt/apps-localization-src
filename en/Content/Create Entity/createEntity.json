@@ -5,5 +5,6 @@
 	"createEntity_completion_destinationHome": "Account List",
 	"createEntity_completion_destinationPersonaList": "Persona List",
 	"createEntity_completion_goToDestination": "Go to %s",
-	"createEntity_completion_title": "Congratulations"
+	"createEntity_completion_title": "Congratulations",
+	"createEntity_nameNewEntity_explanation": "This can be changed any time"
 }
