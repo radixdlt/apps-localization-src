@@ -3,7 +3,6 @@
 	"createAccount_completion_subtitleFirst": "You’ve created your first Account.",
 	"createAccount_completion_subtitleNotFirst": "Your Account has been created.",
 	"createAccount_introduction_title": "Create an Account",
-	"createAccount_nameNewAccount_explanation": "This can be changed any time",
 	"createAccount_nameNewAccount_placeholder": "e.g. My Main Account",
 	"createAccount_nameNewAccount_subtitle": "What would you like to call your Account?",
 	"createAccount_titleFirst": "Create First Account",
