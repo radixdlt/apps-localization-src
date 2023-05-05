@@ -10,7 +10,7 @@
 	"createPersona_introduction_subtitle2": "You will chosose Peronas to login to dApps, and dApps may request access to personal information associated with that Persona.",
 	"createPersona_introduction_title": "Create a Persona",
 	"createPersona_nameNewPersona_placeholder": "e.g. My Main Persona",
-	"createPersona_nameNewPersona_subtitle": "What would you like to call your Persona?",
+	"createPersona_nameNewPersona_subtitle": "What would you like to call your persona?",
 	"createPersona_requiredField": "Required field",
 	"createPersona_saveAndContinueButtonTitle": "Save and Continue"
 }
