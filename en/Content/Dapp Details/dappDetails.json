@@ -9,5 +9,6 @@
 	"dAppDetails_personasHeading": "Here are the Personas that you have previously used to connect to this dApp.",
 	"dAppDetails_tokens": "Associated Tokens",
 	"dAppDetails_website": "Website",
-	"dappDetails_dappDefinition": "dApp Definition"
+	"dappDetails_dappDefinition": "dApp Definition",
+	"dappDetails_missingDescription": "Missing description"
 }
