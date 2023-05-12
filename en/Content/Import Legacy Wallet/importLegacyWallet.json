@@ -1,0 +1,17 @@
+{
+	"importLegacyWallet_completion_titleManyAccounts": "Imported #%@ accounts.",
+	"importLegacyWallet_completion_titleNoAccounts": "No accounts imported.",
+	"importLegacyWallet_completion_titleOneAccount": "Imported 1 account.",
+	"importLegacyWallet_scanQRCodeInstructions": "Open your Olympia Wallet and export the accounts you would like to migrate to this wallet.",
+	"importLegacyWallet_selectAccountsToImport_accountType": "Type",
+	"importLegacyWallet_selectAccountsToImport_derivationPath": "Path",
+	"importLegacyWallet_selectAccountsToImport_deselectAll": "Deselect all",
+	"importLegacyWallet_selectAccountsToImport_importManyAccounts": "Import %@ accounts",
+	"importLegacyWallet_selectAccountsToImport_importOneAcccount": "Import 1 account",
+	"importLegacyWallet_selectAccountsToImport_importZeroAccounts": "Import accounts",
+	"importLegacyWallet_selectAccountsToImport_name": "Name",
+	"importLegacyWallet_selectAccountsToImport_olympiaAddress": "Olympia Address",
+	"importLegacyWallet_selectAccountsToImport_selectAllNonImported": "Select all non imported",
+	"importLegacyWallet_selectAccountsToImport_unnamed": "Unnamed",
+	"importLegacyWallet_title": "Import Legacy Wallet"
+}
