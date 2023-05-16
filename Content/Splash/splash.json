@@ -1,9 +1,11 @@
 {
-	"splash_incompatibleProfileVersionAlert_delete": "Delete Wallet Data",
-	"splash_incompatibleProfileVersionAlert_message": "For this Preview wallet version, you must delete your wallet data to continue.",
-	"splash_incompatibleProfileVersionAlert_title": "Wallet Data is Incompatible",
-	"splash_passcodeCheckFailedAlert_message": "Passcode are not set up. Please update settings.",
-	"splash_passcodeCheckFailedAlert_title": "Warning",
-	"splash_passcodeNotSetMessage": "This app requires your phone to have a passcode set up",
-	"splash_passcodeNotSetTitle": "Passcode not set up"
+	"splash_passcodeNotSetTitle" = "Passcode not set up";
+	"splash_passcodeNotSetMessage" = "This app requires your phone to have a passcode set up";
+
+	"splash_incompatibleProfileVersionAlert_delete" = "Delete Wallet Data";
+	"splash_incompatibleProfileVersionAlert_message" = "For this Preview wallet version, you must delete your wallet data to continue.";
+	"splash_incompatibleProfileVersionAlert_title" = "Wallet Data is Incompatible";
+
+	"splash_passcodeCheckFailedAlert_title" = "Warning";
+	"splash_passcodeCheckFailedAlert_message" = "Passcode is not set up. Please update settings.";
 }

@@ -1,0 +1,22 @@
+{
+	"createEntity_completion_destinationChooseAccounts" = "Choose Accounts";
+	"createEntity_completion_destinationChoosePersonas" = "Choose Personas";
+	"createEntity_completion_destinationGateways" = "Gateways";
+	"createEntity_completion_destinationHome" = "Account List";
+	"createEntity_completion_destinationPersonaList" = "Persona List";
+	"createEntity_completion_goToDestination" = "Go to %@";
+	"createEntity_completion_title" = "Congratulations";
+
+	"createEntity_ledger_addNewLedger" = "Add New Ledger";
+	"createEntity_ledger_addedHeading" = "Added";
+	"createEntity_ledger_createAccount" = "Create Ledger Account";
+	"createEntity_ledger_createPersona" = "Create Ledger Persona";
+	"createEntity_ledger_subtitleNoLedgers" = "You have no Ledgers added, add a ledger to get started...";
+	"createEntity_ledger_subtitleSelectLedger" = "Select Ledger to use";
+	"createEntity_ledger_useLedger" = "Use Ledger";
+	"createEntity_ledger_usedHeading" = "Used";
+
+	"createEntity_nameNewEntity_explanation" = "This can be changed any time";
+	"createEntity_nameNewEntity_ledgerTitle" = "Create with Ledger hardware wallet";
+	"createEntity_nameNewEntity_ledgerSubtitle" = "Requires you to sign transactions using your Ledger";
+}
