@@ -7,7 +7,11 @@
 	"common_none": "None",
 	"common_ok": "OK",
 	"common_persona": "Persona",
+	"common_history": "History",
 	"common_retry": "Retry",
+	"common_remove": "Remove",
 	"common_somethingWentWrong": "Something went wrong",
-	"common_systemSettings": "Settings"
+	"common_systemSettings": "Settings",
+	"common_confirm": "Confirm",
+	"common_save": "Save"
 }
