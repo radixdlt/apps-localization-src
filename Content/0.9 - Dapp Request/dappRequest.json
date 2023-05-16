@@ -41,7 +41,7 @@
 
 	"dAppRequest_personalDataPermission_title": "Personal Data Permission"
 	"dAppRequest_personalDataPermission_subtitle": "*%s* is requesting permission to *always* be able to view the following personal data when you login with this Persona."
-	"dAppRequest_personalDataPermission_updateInSettingsExplanation": "You can update this permission in your settings at anA time."
+	"dAppRequest_personalDataPermission_updateInSettingsExplanation": "You can update this permission in your settings at any time."
 
 	"dAppRequest_requestMalformedAlert_message": "Interaction received from dApp does not contain any valid requests."
 	"dAppRequest_requestPersonaNotFoundAlert_message": "Persona specified by dApp does not exist."
@@ -51,7 +51,7 @@
 	"dAppRequest_completion_title": "Success"
 	"dAppRequest_completion_subtitle": "Request from %s complete"
 
-	"dAppRequest_metadataLoadingAlert_message": "Danger! Bad dApp config or you\'re being spoofed!"
+	"dAppRequest_metadataLoadingAlert_message": "Danger! Bad dApp config or you're being spoofed!"
 	"dAppRequest_metadataLoadingPrompt": "Loading..."
 	"dAppRequest_metadata_unknownName": "Unknown dApp"
 

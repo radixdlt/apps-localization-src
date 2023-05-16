@@ -1,6 +1,6 @@
 {
-	"transaction_status_completing_text" = "Completing Transaction…";
-	"transaction_status_success_title" = "Success";
-	"transaction_status_success_text" = "Your transaction was successful";
-	"transaction_status_failure_title" = "Something went wrong";
+	"transaction_status_completing_text": "Completing Transaction…"
+	"transaction_status_success_title": "Success"
+	"transaction_status_success_text": "Your transaction was successful"
+	"transaction_status_failure_title": "Something went wrong"
 }
