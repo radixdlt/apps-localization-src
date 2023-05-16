@@ -14,7 +14,7 @@
 
 	"dAppRequest_accountPermission_subtitle": "*%s* is requesting permission to *always* be able to view account information when you login with this Persona.",
 
-	"dAppRequest_accountPermission_updateInSettingsExplanation": "You can update this permission in your settings at anA time.",
+	"dAppRequest_accountPermission_updateInSettingsExplanation": "You can update this permission in your settings at any time.",
 
 	"dAppRequest_chooseAccounts_createNewAccount": "Create a New Account",
 	"dAppRequest_chooseAccounts_successMessage": "You are now connected to %s. You can change your preferences for this dApp in your Settings at any time.",
@@ -41,7 +41,7 @@
 
 	"dAppRequest_personalDataPermission_title": "Personal Data Permission",
 	"dAppRequest_personalDataPermission_subtitle": "*%s* is requesting permission to *always* be able to view the following personal data when you login with this Persona.",
-	"dAppRequest_personalDataPermission_updateInSettingsExplanation": "You can update this permission in your settings at any time.",
+	"dAppRequest_personalDataPermission_updateInSettingsExplanation": "You can update this permission in your Settings at any time.",
 
 	"dAppRequest_requestMalformedAlert_message": "Interaction received from dApp does not contain any valid requests.",
 	"dAppRequest_requestPersonaNotFoundAlert_message": "Persona specified by dApp does not exist.",
