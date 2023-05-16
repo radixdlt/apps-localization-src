@@ -1,33 +1,33 @@
 {
-	"assetDetails_resourceAddress": "Address"
-	"assetDetails_name": "Name"
-	"assetDetails_currentSupply": "Current Supply"
-	"assetDetails_supplyUnkown": "Unknown"
-	"assetDetails_behavior": "Behavior"
-	"assetDetails_associatedDapps": "Associated dApps"
+	"assetDetails_resourceAddress": "Address",
+	"assetDetails_name": "Name",
+	"assetDetails_currentSupply": "Current Supply",
+	"assetDetails_supplyUnkown": "Unknown",
+	"assetDetails_behavior": "Behavior",
+	"assetDetails_associatedDapps": "Associated dApps",
 
-	"assetDetails_tokenDetails_noTokens": "You have no Tokens"
-	"assetDetails_tokenDetails_whatAreTokens": "What are Tokens?"
+	"assetDetails_tokenDetails_noTokens": "You have no Tokens",
+	"assetDetails_tokenDetails_whatAreTokens": "What are Tokens?",
 
-	"assetDetails_NFTDetails_noNfts": "You have no NFTs"
-	"assetDetails_NFTDetails_whatAreNfts": "What are NFTs?"
-	"assetDetails_NFTDetails_id": "ID"
-	"assetDetails_NFTDetails_name": "Name"
-	"assetDetails_NFTDetails_resourceName": "Name"
-	"assetDetails_NFTDetails_nftPlural": "%d NFTs"
-	"assetDetails_NFTDetails_ownedOfTotal": "%d of %d"
+	"assetDetails_NFTDetails_noNfts": "You have no NFTs",
+	"assetDetails_NFTDetails_whatAreNfts": "What are NFTs?",
+	"assetDetails_NFTDetails_id": "ID",
+	"assetDetails_NFTDetails_name": "Name",
+	"assetDetails_NFTDetails_resourceName": "Name",
+	"assetDetails_NFTDetails_nftPlural": "%d NFTs",
+	"assetDetails_NFTDetails_ownedOfTotal": "%d of %d",
 
-	"assetDetails_poolUnitDetails_noPoolUnits": "You have no Pool units"
-	"assetDetails_poolUnitDetails_whatArePoolUnits": "What are Pool units?"
+	"assetDetails_poolUnitDetails_noPoolUnits": "You have no Pool units",
+	"assetDetails_poolUnitDetails_whatArePoolUnits": "What are Pool units?",
 
-	"assetDetails_badgeDetails_noBadges": "You have no badges"
-	"assetDetails_badgeDetails_whatAreBadges": "What are badges?"
+	"assetDetails_badgeDetails_noBadges": "You have no badges",
+	"assetDetails_badgeDetails_whatAreBadges": "What are badges?",
 
-	"assetDetails_assetBehavior_canIncreaseSupply": "The supply of this asset can be increased or decreased"
-	"assetDetails_assetBehavior_canChangeName": "Naming and information about this asset can be changed."
-	"assetDetails_assetBehavior_canRestrictMovement": "Movement of this asset can be restricted in the future."
+	"assetDetails_assetBehavior_canIncreaseSupply": "The supply of this asset can be increased or decreased",
+	"assetDetails_assetBehavior_canChangeName": "Naming and information about this asset can be changed.",
+	"assetDetails_assetBehavior_canRestrictMovement": "Movement of this asset can be restricted in the future.",
 
-	"assetDetails_hideAsset_title": "Hide Asset"
-	"assetDetails_hideAsset_message": "Hide this asset in your Radix Wallet? You can always unhide it in your account settings."
+	"assetDetails_hideAsset_title": "Hide Asset",
+	"assetDetails_hideAsset_message": "Hide this asset in your Radix Wallet? You can always unhide it in your account settings.",
 	"assetDetails_hideAsset_button": "Hide Asset"
 }

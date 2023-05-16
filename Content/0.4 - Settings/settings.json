@@ -1,19 +1,19 @@
 {
-	"settings_title": "Settings"
-	"settings_linkedConnectors": "Linked Connectors"
-	"settings_gateways": "Gateways"
-	"settings_authorizedDapps": "Authorized dApps"
-	"settings_personas": "Personas"
-	"settings_appSettings": "App Settings"
-	"settings_backups": "Backups"
-	"settings_importFromLegacyWallet": "Import from a Legacy Wallet"
+	"settings_title": "Settings",
+	"settings_linkedConnectors": "Linked Connectors",
+	"settings_gateways": "Gateways",
+	"settings_authorizedDapps": "Authorized dApps",
+	"settings_personas": "Personas",
+	"settings_appSettings": "App Settings",
+	"settings_backups": "Backups",
+	"settings_importFromLegacyWallet": "Import from a Legacy Wallet",
 
-	"settings_appVersion": "Version: %@ build #%@"
-	"settings_deleteWalletData": "Delete Wallet Data"
-	"settings_inspectProfile": "Inspect Profile"
-	"settings_noProfileText": "No Wallet Data Found"
+	"settings_appVersion": "Version: %@ build #%@",
+	"settings_deleteWalletData": "Delete Wallet Data",
+	"settings_inspectProfile": "Inspect Profile",
+	"settings_noProfileText": "No Wallet Data Found",
 
-	"settings_linkToConnectorHeader_title": "Link your Wallet to a Desktop Browser"
-	"settings_linkToConnectorHeader_subtitle": "Scan the QR code in the Radix Wallet Connector extension"
+	"settings_linkToConnectorHeader_title": "Link your Wallet to a Desktop Browser",
+	"settings_linkToConnectorHeader_subtitle": "Scan the QR code in the Radix Wallet Connector extension",
 	"settings_linkToConnectorHeader_linkToConnector": "Link to Connector"
 }
