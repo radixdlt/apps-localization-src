@@ -1,6 +1,6 @@
 {
 	"backup_disabledText": "Back up is turned off",
-	"backup_lastBackedUp": "Last Backed up: %@",
+	"backup_lastBackedUp": "Last Backed up: %s",
 	"backup_noLastBackUp": "Not Backed up yet",
 	"backup_openSystemBackupSettings": "Open System Backup Settings",
 

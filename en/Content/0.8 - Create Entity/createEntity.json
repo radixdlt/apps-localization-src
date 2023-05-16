@@ -4,7 +4,7 @@
 	"createEntity_completion_destinationGateways": "Gateways",
 	"createEntity_completion_destinationHome": "Account List",
 	"createEntity_completion_destinationPersonaList": "Persona List",
-	"createEntity_completion_goToDestination": "Go to %@",
+	"createEntity_completion_goToDestination": "Go to %s",
 	"createEntity_completion_title": "Congratulations",
 
 	"createEntity_ledger_addNewLedger": "Add New Ledger",

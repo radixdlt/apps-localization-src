@@ -4,7 +4,7 @@
 	"dAppRequest_login_titleNewDapp": "New Login Request",
 	"dAppRequest_login_subtitleNewDapp": "%s  is requesting you to login for the first time with a Persona.",
 	"dAppRequest_login_choosePersona": "Choose a Persona",
-	"dAppRequest_login_lastLoginWasOn": "Your last login was on %@",
+	"dAppRequest_login_lastLoginWasOn": "Your last login was on %s",
 
 	"dAppRequest_accountPermission_title": "Account Permission",
 	"dAppRequest_accountPermission_numberOfAccountsAtLeast": "%d or more accounts",
@@ -45,7 +45,7 @@
 
 	"dAppRequest_requestMalformedAlert_message": "Interaction received from dApp does not contain any valid requests.",
 	"dAppRequest_requestPersonaNotFoundAlert_message": "Persona specified by dApp does not exist.",
-	"dAppRequest_requestWrongNetworkAlert_message": "Request received from dApp for network %@, but you are currentlA connected to %@.",
+	"dAppRequest_requestWrongNetworkAlert_message": "Request received from dApp for network %@, but you are currently connected to %@.",
 	"dAppRequest_responseFailureAlert_message": "Failed to send response payload back to dApp.",
 
 	"dAppRequest_completion_title": "Success",

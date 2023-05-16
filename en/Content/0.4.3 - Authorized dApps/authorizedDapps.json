@@ -15,15 +15,15 @@
 
 	"authorizedDapps_personaDetails_editAvatarButtonTitle": "Edit Avatar",
 	"authorizedDapps_personaDetails_personaLabelHeading": "Persona Label",
-	"authorizedDapps_personaDetails_personalDataSharingDescription": "Here is the personal data that you are sharing with %@",
-	"authorizedDapps_personaDetails_notSharingAnything": "You are not sharing any personal data with %@",
+	"authorizedDapps_personaDetails_personalDataSharingDescription": "Here is the personal data that you are sharing with %s",
+	"authorizedDapps_personaDetails_notSharingAnything": "You are not sharing any personal data with %s",
 	"authorizedDapps_personaDetails_firstName": "First Name",
 	"authorizedDapps_personaDetails_lastName": "Last Name",
 	"authorizedDapps_personaDetails_emailAddress": "Email Address",
 	"authorizedDapps_personaDetails_phoneNumber": "Phone Number",
 	"authorizedDapps_personaDetails_editPersona": "Edit Persona",
 	"authorizedDapps_personaDetails_authorizedDappsHeading": "Here are the dApps you have logged into with this persona.",
-	"authorizedDapps_personaDetails_accountSharingDescription": "Here are the account names and addresses that you are currently sharing with %@.",
+	"authorizedDapps_personaDetails_accountSharingDescription": "Here are the account names and addresses that you are currently sharing with %s.",
 	"authorizedDapps_personaDetails_editAccountSharing": "Edit Account Sharing",
 	"authorizedDapps_personaDetails_removeAuthorization": "Disconnect Persona from this dApp",
 
