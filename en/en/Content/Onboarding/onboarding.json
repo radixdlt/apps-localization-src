@@ -1,0 +1,10 @@
+{
+	"onboarding_newUser": "I'm a new Radix Wallet user",
+	"onboarding_restoreFromBackup": "Restore Wallet from Backup",
+	"onboarding_step1_title": "Welcome to the Radix Wallet",
+	"onboarding_step1_subtitle": "Your direct connection to the Radix Network",
+	"onboarding_step2_title": "A World of Possibilities",
+	"onboarding_step2_subtitle": "Let's get started",
+	"onboarding_step3_title": "Your phone is your login",
+	"onboarding_step3_subtitle": "Connect and transact securely with a world of web3 dApps, tokens, NFTs, and much more"
+}
