@@ -1,3 +1,5 @@
 files:
   - source: Content/*/*.json
+    ignore:
+      - /en/
     translation: /%two_letters_code%/%original_path%/%original_file_name%
