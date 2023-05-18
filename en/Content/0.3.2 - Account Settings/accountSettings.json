@@ -45,5 +45,6 @@
 	"accountSettings_behaviors_removableByThirdParty": "A third party can remove this asset from accounts and dApps.",
 	"accountSettings_behaviors_removableByAnyone": "Anyone can remove this asset from accounts and dApps.",
 	"accountSettings_behaviors_nftDataChangeable": "Data that is set on these NFTs can be changed.",
-	"accountSettings_behaviors_nftDataChangeableByAnyone": "Anyone can change data that is set on these NFTs."
+	"accountSettings_behaviors_nftDataChangeableByAnyone": "Anyone can change data that is set on these NFTs.",
+	"accountSettings_thirdPartyDeposits_denyAllWarning": "This account will not be able to receive \"air drops\" or be used by a trusted contact to assist with account recovery."
 }
