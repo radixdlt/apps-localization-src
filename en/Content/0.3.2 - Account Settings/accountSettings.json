@@ -20,7 +20,7 @@
 	"accountSettings_hideAccount_title": "Hide This Account",
 	"accountSettings_hideAccount_message": "Hide this account in your wallet? You can always unhide it from the main application settings.",
 	"accountSettings_hideAccount_button": "Hide Account",
-	"accountSettings_thirdPartyDeposits_text": "Choose if you want to allow third-parties to directly deposit assets into your account. Deposits that you approve yourself in your Radix Wallet are always accepted.",
+	"accountSettings_thirdPartyDeposits_text": "This account will not be able to receive “air drops” or be used by a trusted contact to assist with account recovery.",
 	"accountSettings_thirdPartyDeposits_acceptAll": "Accept all deposits",
 	"accountSettings_thirdPartyDeposits_acceptAllSubtitle": "Allow third-parties to deposit any asset",
 	"accountSettings_thirdPartyDeposits_onlyKnown": "Only accept known",
@@ -45,6 +45,5 @@
 	"accountSettings_behaviors_removableByThirdParty": "A third party can remove this asset from accounts and dApps.",
 	"accountSettings_behaviors_removableByAnyone": "Anyone can remove this asset from accounts and dApps.",
 	"accountSettings_behaviors_nftDataChangeable": "Data that is set on these NFTs can be changed.",
-	"accountSettings_behaviors_nftDataChangeableByAnyone": "Anyone can change data that is set on these NFTs.",
-	"accountSettings_thirdPartyDeposits_denyAllWarning": "This account will not be able to receive \"air drops\" or be used by a trusted contact to assist with account recovery."
+	"accountSettings_behaviors_nftDataChangeableByAnyone": "Anyone can change data that is set on these NFTs."
 }
