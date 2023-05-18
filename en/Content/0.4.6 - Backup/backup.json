@@ -3,6 +3,7 @@
 	"backup_lastBackedUp": "Last Backed up: %s",
 	"backup_noLastBackUp": "Not Backed up yet",
 	"backup_openSystemBackupSettings": "Open System Backup Settings",
+
 	"backup_backupWalletData_title": "Backup Wallet Data",
 	"backup_backupWalletData_message": "Warning: If disabled you might lose access to accounts/personas."
 }
