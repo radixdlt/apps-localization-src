@@ -6,7 +6,6 @@
 	"createEntity_completion_destinationPersonaList": "Persona List",
 	"createEntity_completion_goToDestination": "Go to %s",
 	"createEntity_completion_title": "Congratulations",
-
 	"createEntity_ledger_addNewLedger": "Add New Ledger",
 	"createEntity_ledger_addedHeading": "Added",
 	"createEntity_ledger_createAccount": "Create Ledger Account",
@@ -15,7 +14,6 @@
 	"createEntity_ledger_subtitleSelectLedger": "Select Ledger to use",
 	"createEntity_ledger_useLedger": "Use Ledger",
 	"createEntity_ledger_usedHeading": "Used",
-
 	"createEntity_nameNewEntity_explanation": "This can be changed any time",
 	"createEntity_nameNewEntity_ledgerTitle": "Create with Ledger hardware wallet",
 	"createEntity_nameNewEntity_ledgerSubtitle": "Requires you to sign transactions using your Ledger"
