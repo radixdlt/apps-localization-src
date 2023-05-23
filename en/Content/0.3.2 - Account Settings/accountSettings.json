@@ -13,13 +13,17 @@
 	"accountSettings_hideAccount": "Hide Account",
 	"accountSettings_getXrdTestTokens": "Get RCnet XRD Test Tokens",
 	"accountSettings_loadingPrompt": "This may take several seconds, please wait for completion",
+
 	"accountSettings_renameAccount_title": "Rename Account",
 	"accountSettings_renameAccount_subtitle": "Enter a new label for this account",
+
 	"accountSettings_accountColor_text": "Select the background color for this Account",
 	"accountSettings_accountColor_selected": "Selected",
+
 	"accountSettings_hideAccount_title": "Hide This Account",
 	"accountSettings_hideAccount_message": "Hide this account in your wallet? You can always unhide it from the main application settings.",
 	"accountSettings_hideAccount_button": "Hide Account",
+
 	"accountSettings_thirdPartyDeposits_text": "Choose if you want to allow third-parties to directly deposit assets into your account. Deposits that you approve yourself in your Radix Wallet are always accepted.",
 	"accountSettings_thirdPartyDeposits_acceptAll": "Accept all deposits",
 	"accountSettings_thirdPartyDeposits_acceptAllSubtitle": "Allow third-parties to deposit any asset",
