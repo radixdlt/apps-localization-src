@@ -15,11 +15,9 @@
 	"transactionReview_unknownComponents": "%d Unknown Components",
 	"transactionReview_withdrawalsHeading": "Withdrawing",
 	"transactionReview_xrdAmount": "XRD %s",
-
 	"transactionReview_networkFee_heading": "Network Fee",
 	"transactionReview_networkFee_congestedText": "The network is currently congested. Add a tip to speed up your transfer.",
 	"transactionReview_networkFee_customizeButtonTitle": "Customize",
-
 	"transactionReview_guarantees_title": "Customize Guarantees",
 	"transactionReview_guarantees_subtitle": "Protect yourself by setting guaranteed minimums for estimated deposits",
 	"transactionReview_guarantees_applyButtonText": "Apply",
