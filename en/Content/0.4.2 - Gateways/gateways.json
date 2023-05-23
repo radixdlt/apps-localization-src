@@ -2,15 +2,18 @@
 	"gateways_title": "Gateways",
 	"gateways_subtitle": "Choose the gateway your wallet will use to connect. Only change this if you know what you’re doing.",
 	"gateways_whatIsAGateway": "What is a Gateway",
-	"gateways_rcNetGateway": "RCNet Gateway",
+	"gateways_rcNetGateway": "RCnet Gateway",
 	"gateways_addNewGatewayButtonTitle": "Add New Gateway",
+
 	"gateways_addNewGateway_title": "Add New Gateway",
 	"gateways_addNewGateway_subtitle": "Enter a Gateway URL",
 	"gateways_addNewGateway_textFieldPlaceholder": "Enter full URL",
 	"gateways_addNewGateway_addGatewayButtonTitle": "Add Gateway",
+
 	"gateways_addNewGateway_errorDuplicateURL": "This url is already added",
 	"gateways_addNewGateway_errorNoGatewayFound": "No Gateway found at specified URL",
 	"gateways_addNewGateway_establishingConnectionErrorMessage": "There was an error in establishing a connection",
+
 	"gateways_removeGatewayAlert_title": "Remove Gateway",
 	"gateways_removeGatewayAlert_message": "You will no longer be able to connect to this Gateway"
 }
