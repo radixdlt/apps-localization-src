@@ -2,7 +2,7 @@
 	"gateways_title": "Gateways",
 	"gateways_subtitle": "Choose the gateway your wallet will use to connect. Only change this if you know what you’re doing.",
 	"gateways_whatIsAGateway": "What is a Gateway",
-	"gateways_rcNetGateway": "RCnet Gateway",
+	"gateways_rcNetGateway": "RCNet Gateway",
 	"gateways_addNewGatewayButtonTitle": "Add New Gateway",
 	"gateways_addNewGateway_title": "Add New Gateway",
 	"gateways_addNewGateway_subtitle": "Enter a Gateway URL",
