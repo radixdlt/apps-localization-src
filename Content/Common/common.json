@@ -6,6 +6,7 @@
 	"common_errorAlertTitle": "An Error Occurred",
 	"common_none": "None",
 	"common_ok": "OK",
+	"common_done": "Done",
 	"common_persona": "Persona",
 	"common_history": "History",
 	"common_retry": "Retry",
@@ -13,5 +14,6 @@
 	"common_somethingWentWrong": "Something went wrong",
 	"common_systemSettings": "Settings",
 	"common_confirm": "Confirm",
-	"common_save": "Save"
+	"common_save": "Save",
+	"common_invalid": "Invalid"
 }

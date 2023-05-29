@@ -1,0 +1,13 @@
+{
+	"importMnemonic_wordHeading": "word #%d",
+
+	"importMnemonic_passphrase": "Passphrase",
+	"importMnemonic_passphrasePlaceholder": "Passphrase",
+	"importMnemonic_passphraseHint": "BIP39 Passphrase is often called a '25th word'.",
+
+	"importMnemonic_fewerWords": "Fewer words",
+	"importMnemonic_moreWords": "More words",
+
+	"importMnemonic_checksumFailure": "Mnemonic not checksummed",
+	"importMnemonic_importMnemonic": "Import mnemonic",
+}
