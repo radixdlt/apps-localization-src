@@ -15,5 +15,9 @@
 	"common_systemSettings": "Settings",
 	"common_confirm": "Confirm",
 	"common_save": "Save",
-	"common_invalid": "Invalid"
+	"common_invalid": "Invalid",
+	"common_public": "Public",
+	"common_choose": "Choose",
+	"common_max": "Max",
+	"common_optional": "Optional"
 }

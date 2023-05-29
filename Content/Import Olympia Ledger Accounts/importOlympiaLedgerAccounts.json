@@ -1,0 +1,5 @@
+{
+	"importOlympiaLedgerAccounts_unverifiedAccountsLeft": "#%d accounts left to import",
+	"importOlympiaLedgerAccounts_importLedgersAndAccounts": "Imported ledgers and accounts",
+	"importOlympiaLedgerAccounts_accountCount": "%@ - #%d accounts"
+}
