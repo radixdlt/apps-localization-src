@@ -4,7 +4,7 @@
 	"linkedConnectors_lastConnected": "Last connected %s",
 	"linkedConnectors_linkNewConnector": "Link New Connector",
 	"linkedConnectors_newConnection_title": "Link New Connector",
-	"linkedConnectors_newConnection_subtitle": "Scan your QR code to link your wallet with a browser extension",
+	"linkedConnectors_newConnection_subtitle": "Scan the QR code shown in the Radix Connector browser extension",
 	"linkedConnectors_newConnection_connectionDefaultName": "Unnamed",
 	"linkedConnectors_newConnection_linking": "Linking...",
 	"linkedConnectors_newConnection_textFieldPlaceholder": "Name of Connector",
