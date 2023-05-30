@@ -2,6 +2,8 @@
 	"importLegacyWallet_title": "Import Legacy Wallet",
 
 	"importLegacyWallet_scanQRCodeInstructions": "Open your Olympia Wallet and export the accounts you would like to migrate to this wallet.",
+	"importLegacyWallet_scannedLabel": "Scanned: %d/%d",
+	"importLegacyWallet_alreadyImportedLabel": "Already imported",
 
 	"importLegacyWallet_selectAccountsToImport_accountType": "Type",
 	"importLegacyWallet_selectAccountsToImport_derivationPath": "Path",
