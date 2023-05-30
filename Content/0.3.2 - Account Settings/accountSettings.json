@@ -66,8 +66,5 @@
 	"accountSettings_debug_createFungibleTokens": "Create Multiple Fungible Tokens",
 	"accountSettings_debug_creatingTokens": "Creating Tokens",
 	"accountSettings_debug_createNFTs": "Create Multiple NFTs",
-	"accountSettings_debug_creatingNFTs": "Creating NFTs",
-
-	"accountSettings_debug_turnIntoDappDefinition": "Turn into dApp Definition account type",
-	"accountSettings_debug_turnIntoDappDefinition": "Turn into dApp Definition account type"
+	"accountSettings_debug_creatingNFTs": "Creating NFTs"
 }

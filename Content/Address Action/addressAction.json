@@ -1,5 +1,6 @@
 {
 	"addressAction_copyAddress": "Copy Address",
+	"addressAction_copiedToClipboard": "Copied to clipboard",
 	"addressAction_copyNftId": "Copy NFT ID",
 	"addressAction_copyTransactionId": "Copy Transaction ID",
 	"addressAction_noWebBrowserInstalled": "There is no web browser installed in this device",
