@@ -6,6 +6,10 @@
 	"homePage_subtitle": "Welcome, here are all your accounts on the Radix Network",
 	"homePage_title": "Radix Wallet",
 	"homePage_totalValue": "Total value",
+	"homePage_accountsTag_dAppDefinition": "dapp definition",
+	"homePage_accountsTag_legacySoftware": "Legacy",
+	"homePage_accountsTag_ledgerLegacy": "Legacy (Ledger)",
+	"homePage_accountsTag_ledgerBabylon": "Ledger",
 	"homePage_visitDashboard_title": "Visit the Radix Dashboard",
 	"homePage_visitDashboard_subtitle": "Ready to get started using the Radix Network and your Wallet?"
 }
