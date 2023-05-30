@@ -14,5 +14,5 @@
 	"ledgerHardwareDevices_subtitleNoLedgers": "You have no Ledgers added, add a ledger to get started...",
 	"ledgerHardwareDevices_subtitleSelectLedger": "Choose a Ledger hardware wallet device",
 	"ledgerHardwareDevices_subtitleAllLedgers": "Here are all the Ledger devices you have connected to",
-	"ledgerHardwareDevices_subtitleFailure": "Could not find Ledger devices",
+	"ledgerHardwareDevices_subtitleFailure": "Could not find Ledger devices"
 }
