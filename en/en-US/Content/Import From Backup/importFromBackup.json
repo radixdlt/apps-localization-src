@@ -1,0 +1,16 @@
+{
+	"restoreFromBackup_navigationTitle": "Wallet Data Backup",
+	"restoreFromBackup_importBackupWallet": "Import Backup Wallet data",
+	"restoreFromBackup_cloudBackupWallet": "Cloud Backup Wallet data:",
+	"restoreFromBackup_useICloudBackup": "Use iCloud Backup Data",
+	"restoreFromBackup_noCloudBackup": "No Cloud Backup Data",
+	"restoreFromBackup_thisDevice": "This Device",
+	"restoreFromBackup_creatingDevice": "Creating Device: %@",
+	"restoreFromBackup_creationDateLabel": "Creation Date: %@",
+	"restoreFromBackup_lastUsedOnDeviceLabel": "Last used on device: %@",
+	"restoreFromBackup_lastModifedDateLabel": "Last Modified Date: %@",
+	"restoreFromBackup_numberOfNetworksLabel": "Number of networks: %d",
+	"restoreFromBackup_totalAccountsNumberLabel": "Number of total accounts: %d",
+	"restoreFromBackup_totalPersonasNumberLabel": "Number of total personas: %d",
+	"restoreFromBackup_incompatibleWalletDataLabel": "Incompatible Wallet data"
+}

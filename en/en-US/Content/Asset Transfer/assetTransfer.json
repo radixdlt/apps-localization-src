@@ -1,0 +1,19 @@
+{
+	"assetTransfer_transactionMessage": "Message",
+	"assetTransfer_qrScanInstructions": "Scan a QR code of a Radix account address",
+	"assetTransfer_sendTransferButton": "Send Transfer Request",
+	"assetTransfer_accountList_fromLabel": "From",
+	"assetTransfer_header_transfer": "Transfer",
+	"assetTransfer_header_addMessageButton": "Add Message",
+	"assetTransfer_chooseReceivingAccount_invalidAddressError": "Invalid address",
+	"assetTransfer_chooseReceivingAccount_alreadyAddedError": "Account already added",
+	"assetTransfer_chooseReceivingAccount_navigationTitle": "Choose Receiving Account",
+	"assetTransfer_chooseReceivingAccount_enterManually": "Enter an account address manually",
+	"assetTransfer_chooseReceivingAccount_chooseOwnAccount": "Or choose one of your own accounts",
+	"assetTransfer_chooseReceivingAccount_scanQRNavigationTitle": "Scan QR Code",
+	"assetTransfer_chooseReceivingAccount_addressFieldPlaceholder": "Enter or paste address",
+	"assetTransfer_fungibleResource_totalExceedsBalance": "The total amount exceeds your current balance",
+	"assetTransfer_fungibleResource_balance": "Balance: %@",
+	"assetTransfer_receivingAccount_chooseAccountButton": "Choose Account",
+	"assetTransfer_receivingAccount_addAssetsButton": "Add Assets"
+}
