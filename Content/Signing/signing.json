@@ -1,0 +1,4 @@
+{
+	"signing_withDeviceFactorSource_signTransaction": "Sign transaction with phone",
+	"signing_withDeviceFactorSource_idLabel": "Factor Source ID: %@"
+}

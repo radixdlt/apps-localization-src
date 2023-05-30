@@ -43,6 +43,22 @@
 	"dAppRequest_personalDataPermission_subtitle": "*%s* is requesting permission to *always* be able to view the following personal data when you login with this Persona.",
 	"dAppRequest_personalDataPermission_updateInSettingsExplanation": "You can update this permission in your Settings at any time.",
 
+	"dAppRequest_validationOutcome_subtitleBadContent": "Invalid content",
+	"dAppRequest_validationOutcome_subtitleIncompatibleVersion": "Incompatible connector extension",
+	"dAppRequest_validationOutcome_subtitleWrongNetworkID": "Network mismatch",
+
+	"dAppRequest_validationOutcome_devExplanationBadContent": "Invalid value of `numberOfAccountsInvalid`: must not be be `exactly(0)` nor can `quantity` be negative",
+	"dAppRequest_validationOutcome_devExplanationIncompatibleVersion": "%@ (CE: %@, wallet: %@)",
+	"dAppRequest_validationOutcome_devExplanationInvalidOrigin": "'%@' is not valid origin.",
+	"dAppRequest_validationOutcome_devExplanationInvalidDappDefinitionAddress": "'%@' is not valid account address.",
+
+	"dAppRequest_validationOutcome_shortExplanationBadContent": "Invalid data in request",
+	"dAppRequest_validationOutcome_shortExplanationIncompatibleVersionCEGreater": "Update Wallet",
+	"dAppRequest_validationOutcome_shortExplanationIncompatibleVersionCENotGreater": "Update Connector Extension",
+	"dAppRequest_validationOutcome_shortExplanationInvalidOrigin": "Invalid origin",
+	"dAppRequest_validationOutcome_shortExplanationInvalidDappDefinitionAddress": "Invalid dAppDefinitionAddress",
+	"dAppRequest_validationOutcome_shortExplanationP2PError": "P2P connection error",
+
 	"dAppRequest_requestMalformedAlert_message": "Interaction received from dApp does not contain any valid requests.",
 	"dAppRequest_requestPersonaNotFoundAlert_message": "Persona specified by dApp does not exist.",
 	"dAppRequest_requestWrongNetworkAlert_message": "Request received from dApp for network %@, but you are currently connected to %@.",

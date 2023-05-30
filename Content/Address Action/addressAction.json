@@ -1,7 +1,12 @@
 {
 	"addressAction_copyAddress": "Copy Address",
+	"addressAction_copiedToClipboard": "Copied to clipboard",
 	"addressAction_copyNftId": "Copy NFT ID",
 	"addressAction_copyTransactionId": "Copy Transaction ID",
 	"addressAction_noWebBrowserInstalled": "There is no web browser installed in this device",
-	"addressAction_viewOnDashboard": "View on Radix Dashboard"
+	"addressAction_viewOnDashboard": "View on Radix Dashboard",
+	"addressAction_showAccountQR": "Show QR code for account",
+
+	"addressAction_qrCodeView_qrCodeLabel": "QR code for an account",
+	"addressAction_qrCodeView_failureLabel": "Could not create QR code"
 }
