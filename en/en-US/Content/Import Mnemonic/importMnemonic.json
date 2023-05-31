@@ -14,5 +14,8 @@
 	"importMnemonic_offDevice_locationPlaceholder": "In that book my mother used to read to me at my best childhoods summer vacation place",
 	"importMnemonic_offDevice_locationHint": "Without revealing location, vague hint on where this mnemonic is backed up, if anywhere.",
 	"importMnemonic_offDevice_saveWithDescription": "Save with description",
-	"importMnemonic_offDevice_saveWithoutDescription": "Save without description"
+	"importMnemonic_offDevice_saveWithoutDescription": "Save without description",
+	"importMnemonic_tempAndroid_changeSeedPhrase": "Change seed phrase length",
+	"importMnemonic_tempAndroid_seedLength": "%d word seed phrase",
+	"importMnemonic_tempAndroid_heading": "Recover Mnemonic"
 }
