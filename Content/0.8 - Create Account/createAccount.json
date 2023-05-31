@@ -5,6 +5,7 @@
 
 	"createAccount_nameNewAccount_placeholder": "e.g. My Main Account",
 	"createAccount_nameNewAccount_subtitle": "What would you like to call your account?",
+	"createAccount_nameNewAccount_continue": "Continue",
 
 	"createAccount_introduction_title": "Create an Account",
 	"createAccount_titleFirst": "Create First Account",
