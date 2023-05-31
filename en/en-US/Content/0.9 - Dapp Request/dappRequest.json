@@ -59,7 +59,7 @@
 	"dAppRequest_completion_title": "Success",
 	"dAppRequest_completion_subtitle": "Request from %s complete",
 	"dAppRequest_metadataLoadingAlert_message": "Danger! Bad dApp config or you're being spoofed!",
-	"dAppRequest_metadataLoadingPrompt": "Loading...",
+	"dAppRequest_metadataLoadingPrompt": "Loading…",
 	"dAppRequest_metadata_unknownName": "Unknown dApp",
 	"dAppRequest_personalDataBox_edit": "Edit",
 	"dAppRequest_personalDataBox_requiredInformation": "Required information:"
