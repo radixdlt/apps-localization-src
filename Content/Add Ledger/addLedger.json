@@ -5,6 +5,7 @@
 	"addLedger_addDevice_title": "Add Ledger Device.",
 	"addLedger_addDevice_body1": "Let’s set up a Ledger hardware wallet device. You will be able to use it to create new Ledger-secured Accounts, or import Ledger-secured Accounts from the Radix Olympia Desktop Wallet.",
 	"addLedger_addDevice_body2": "Connect your Ledger to a computer running a linked Radix Connector browser extension, and make sure the Radix Babylon app is running on the Ledger device.",
+	"addLedger_addDevice_continue": "Continue",
 
 	"addLedger_nameLedger_title": "Name Your Ledger",
 	"addLedger_nameLedger_body": "Enter a name for this Ledger device",

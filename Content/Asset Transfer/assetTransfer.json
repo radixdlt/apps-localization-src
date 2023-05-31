@@ -3,6 +3,8 @@
 	"assetTransfer_qrScanInstructions": "Scan a QR code of a Radix account address",
 	"assetTransfer_sendTransferButton": "Send Transfer Request",
 	"assetTransfer_accountList_fromLabel": "From",
+	"assetTransfer_accountList_toLabel": "To",
+	"assetTransfer_accountList_addAccountButton": "Add Account",
 
 	"assetTransfer_header_transfer": "Transfer",
 	"assetTransfer_header_addMessageButton": "Add Message",

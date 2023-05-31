@@ -1,6 +1,7 @@
 {
 	"ledgerHardwareDevices_linkConnectorAlert_title": "Link a Connector",
 	"ledgerHardwareDevices_linkConnectorAlert_message": "To use a Ledger hardware wallet device, it must be connected to a computer running the Radix Connector browser extension.\n\nInstall the Connector extension, open it to see the linking QR code, and tap continue.",
+	"ledgerHardwareDevices_linkConnectorAlert_continue": "Continue",
 
 	"ledgerHardwareDevices_navigationTitleAllowSelection": "Choose Ledger Device",
 	"ledgerHardwareDevices_navigationTitleGeneral": "Ledger Hardware Wallets",
@@ -10,6 +11,8 @@
 	"ledgerHardwareDevices_addNewLedger": "Add New Ledger",
 	"ledgerHardwareDevices_addedHeading": "Added",
 	"ledgerHardwareDevices_usedHeading": "Used",
+
+	"ledgerHardwareDevices_continueWithLedger": "Continue",
 
 	"ledgerHardwareDevices_subtitleNoLedgers": "You have no Ledgers added, add a ledger to get started...",
 	"ledgerHardwareDevices_subtitleSelectLedger": "Choose a Ledger hardware wallet device",

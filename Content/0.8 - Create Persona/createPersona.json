@@ -12,9 +12,11 @@
 	"createPersona_introduction_subtitle1": "A Persona is an identity that you own and control. You can have as many as you like.",
 	"createPersona_introduction_subtitle2": "You will chosose Peronas to login to dApps, and dApps may request access to personal information associated with that Persona.",
 	"createPersona_introduction_learnAboutPersonas": "Learn about Personas",
+	"createPersona_introduction_continue": "Continue",
 
 	"createPersona_nameNewPersona_subtitle": "What would you like to call your persona?",
 	"createPersona_nameNewPersona_placeholder": "e.g. My Main Persona",
+	"createPersona_nameNewPersona_continue": "Continue",
 
 	"createPersona_requiredField": "Required field",
 
