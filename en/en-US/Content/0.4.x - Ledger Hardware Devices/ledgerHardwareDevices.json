@@ -9,8 +9,8 @@
 	"ledgerHardwareDevices_addedHeading": "Added",
 	"ledgerHardwareDevices_usedHeading": "Last Used",
 	"ledgerHardwareDevices_continueWithLedger": "Continue",
-	"ledgerHardwareDevices_subtitleNoLedgers": "You have no Ledgers added, add a ledger to get started…",
+	"ledgerHardwareDevices_subtitleNoLedgers": "No Ledger devices have been added.",
 	"ledgerHardwareDevices_subtitleSelectLedger": "Choose a Ledger device to use",
-	"ledgerHardwareDevices_subtitleAllLedgers": "Here are all the Ledger devices you have connected to",
+	"ledgerHardwareDevices_subtitleAllLedgers": "Here are all the Ledger devices you have added.",
 	"ledgerHardwareDevices_subtitleFailure": "Could not find Ledger devices"
 }
