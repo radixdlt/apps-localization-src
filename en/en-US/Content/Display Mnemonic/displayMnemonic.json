@@ -1,7 +1,7 @@
 {
 	"displayMnemonics_cautionAlert_title": "Use Caution",
-	"displayMnemonics_cautionAlert_revealButtonLabel": "Reveal Seed phrase",
-	"displayMnemonics_cautionAlert_message": "Make sure no person or camera can see your display. Don't read or mouth the words. We have prevented you from taking screenshots",
+	"displayMnemonics_cautionAlert_revealButtonLabel": "Reveal Seed Phrase",
+	"displayMnemonics_cautionAlert_message": "A seed phrase provides full control of its Accounts. Do not view in a public area. Back up the seed phrase words securely. Screenshots are disabled.",
 	"displayMnemonics_labelSeedPhraseKindOlympia": "Legacy Seed Phrase",
 	"displayMnemonics_labelSeedPhraseKind": "Main Seed Phrase",
 	"displayMnemonics_labelDateOlympia": "Imported on",
