@@ -1,6 +1,6 @@
 {
 	"linkedConnectors_title": "Linked Connectors",
-	"linkedConnectors_subtitle": "Your Radix Wallet is linked to the following desktop browser using the Connector browser extension.",
+	"linkedConnectors_subtitle": "Connect your Radix Wallet to desktop web browsers by linking to the Radix Connector browser extension. Here are your linked Connectors.",
 	"linkedConnectors_lastConnected": "Last connected %s",
 	"linkedConnectors_linkNewConnector": "Link New Connector",
 
@@ -9,16 +9,16 @@
 
 	"linkedConnectors_newConnection_connectionDefaultName": "Unnamed",
 	"linkedConnectors_newConnection_linking": "Linking…",
-	"linkedConnectors_newConnection_textFieldPlaceholder": "Name of Connector",
-	"linkedConnectors_newConnection_textFieldHint": "Name this Connector, e.g. \"Chrome on Macbook Pro\"",
-	"linkedConnectors_newConnection_saveLinkButtonTitle": "Save Link",
+	"linkedConnectors_newConnection_textFieldPlaceholder": "e.g. Chrome on Personal Laptop",
+	"linkedConnectors_newConnection_textFieldHint": "Give a name to this Radix Connector",
+	"linkedConnectors_newConnection_saveLinkButtonTitle": "Save Link and Continue",
 
 	"linkedConnectors_removeConnectionAlert_title": "Remove Connection",
-	"linkedConnectors_removeConnectionAlert_message": "You will no longer be able to connect your wallet to this device and browser combination",
+	"linkedConnectors_removeConnectionAlert_message": "Your Radix Wallet will no longer automatically connect to this Radix Connector.",
 
 	"linkedConnectors_cameraPermissionDeniedAlert_title": "Access Required",
-	"linkedConnectors_cameraPermissionDeniedAlert_message": "Camera access is required to link to connector.",
+	"linkedConnectors_cameraPermissionDeniedAlert_message": "Camera access is required to link to a Connector.",
 
 	"linkedConnectors_localNetworkPermissionDeniedAlert_title": "Access Required",
-	"linkedConnectors_localNetworkPermissionDeniedAlert_message": "Local Network access is required to link to connector."
+	"linkedConnectors_localNetworkPermissionDeniedAlert_message": "Local network access is required to link to a Connector."
 }
