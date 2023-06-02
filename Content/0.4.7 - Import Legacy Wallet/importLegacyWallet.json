@@ -1,7 +1,7 @@
 {
-	"importLegacyWallet_title": "Import Legacy Wallet",
+	"importLegacyWallet_title": "Legacy Wallet Import",
 
-	"importLegacyWallet_scanQRCodeInstructions": "Open your Olympia Wallet and export the accounts you would like to migrate to this wallet.",
+	"importLegacyWallet_scanQRCodeInstructions": "Use the export feature of your Radix Olympia Desktop Wallet to choose the accounts to export and generate an export QR code.",
 	"importLegacyWallet_scannedLabel": "Scanned: %d/%d",
 	"importLegacyWallet_alreadyImportedLabel": "Already imported",
 

@@ -16,14 +16,14 @@
 	"transactionReview_withdrawalsHeading": "Withdrawing",
 	"transactionReview_xrdAmount": "XRD %s",
 
-	"transactionReview_networkFee_heading": "Network Fee",
+	"transactionReview_networkFee_heading": "Transaction Fee",
 	"transactionReview_networkFee_congestedText": "The network is currently congested. Add a tip to speed up your transfer.",
 	"transactionReview_networkFee_customizeButtonTitle": "Customize",
 
 	"transactionReview_guarantees_title": "Customize Guarantees",
 	"transactionReview_guarantees_subtitle": "Protect yourself by setting guaranteed minimums for estimated deposits",
 	"transactionReview_guarantees_applyButtonText": "Apply",
-	"transactionReview_guarantees_howDoGuaranteesWork": "How do Guarantees work",
+	"transactionReview_guarantees_howDoGuaranteesWork": "How do guarantees work?",
 	"transactionReview_guarantees_setGuaranteedMinimum": "Set guaranteed minimum %%",
 
 	"transactionReview_prepareForSigning_navigationTitle": "Preparing Transaction",
@@ -40,7 +40,7 @@
 	"transactionReview_submitTransaction_displayFailed": "Failed",
 	"transactionReview_submitTransaction_displayCommitted": "Successfully committed",
 
-	"transactionReview_submitTransaction_txID": "TXID",
+	"transactionReview_submitTransaction_txID": "Transaction ID",
 	"transactionReview_submitTransaction_status": "Status",
 	"transactionReview_submitTransaction_navigationTitle": "Submitting Transaction"
 }

@@ -2,9 +2,9 @@
 	"signing_withDeviceFactorSource_signTransaction": "Sign transaction with phone",
 	"signing_withDeviceFactorSource_idLabel": "Factor Source ID: %@",
 
-	"signing_useLedgerPurpose_createAccount": "Creating account",
+	"signing_useLedgerPurpose_createAccount": "Creating Account",
 	"signing_useLedgerPurpose_createAuthSigningKey": "Creating auth key",
-	"signing_useLedgerPurpose_signAuth": "Sign auth challenge",
+	"signing_useLedgerPurpose_signAuth": "Sign proof",
 	"signing_useLedgerPurpose_signTX": "Sign transaction",
 	"signing_useLedgerPurpose_importLegacyAccounts": "Import Legacy Accounts",
 
