@@ -6,9 +6,9 @@
 	"editPersona_error_requiredByDapp": "Required field for this dApp",
 	"editPersona_addAField": "Add a Field",
 	"editPersona_addAField_title": "Add a Field",
-	"editPersona_addAField_subtitle": "Select from the following fields to add them to this persona.",
-	"editPersona_addAField_add": "Add",
+	"editPersona_addAField_subtitle": "Choose one or more data fields to add to this Persona.",
+	"editPersona_addAField_add": "Add Data Fields",
 	"editPersona_closeConfirmationDialog_discardChanges": "Discard Changes",
 	"editPersona_closeConfirmationDialog_keepEditing": "Keep Editing",
-	"editPersona_closeConfirmationDialog_message": "Are you sure you want to discard changes to this persona?"
+	"editPersona_closeConfirmationDialog_message": "Are you sure you want to discard changes to this Persona?"
 }
