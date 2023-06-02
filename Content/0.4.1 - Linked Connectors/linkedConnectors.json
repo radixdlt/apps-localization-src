@@ -7,11 +7,12 @@
 	"linkedConnectors_newConnection_title": "Link New Connector",
 	"linkedConnectors_newConnection_subtitle": "Scan the QR code shown in the Radix Connector browser extension",
 
-	"linkedConnectors_newConnection_connectionDefaultName": "Unnamed",
 	"linkedConnectors_newConnection_linking": "Linking…",
-	"linkedConnectors_newConnection_textFieldPlaceholder": "e.g. Chrome on Personal Laptop",
-	"linkedConnectors_newConnection_textFieldHint": "Give a name to this Radix Connector",
-	"linkedConnectors_newConnection_saveLinkButtonTitle": "Save Link and Continue",
+
+	"linkedConnectors_nameNewConnector_title": "Name New Connector",
+	"linkedConnectors_nameNewConnector_textFieldPlaceholder": "e.g. Chrome on Personal Laptop",
+	"linkedConnectors_nameNewConnector_textFieldHint": "Give a name to this Radix Connector",
+	"linkedConnectors_nameNewConnector_saveLinkButtonTitle": "Save Link and Continue",
 
 	"linkedConnectors_removeConnectionAlert_title": "Remove Connection",
 	"linkedConnectors_removeConnectionAlert_message": "Your Radix Wallet will no longer automatically connect to this Radix Connector.",
