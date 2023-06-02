@@ -2,13 +2,11 @@
 	"signing_withDeviceFactorSource_signTransaction": "Sign transaction with phone",
 	"signing_withDeviceFactorSource_idLabel": "Factor Source ID: %@",
 
-	"signing_useLedgerPurpose_createAccount": "Creating Account",
-	"signing_useLedgerPurpose_createAuthSigningKey": "Creating auth key",
-	"signing_useLedgerPurpose_signAuth": "Sign proof",
-	"signing_useLedgerPurpose_signTX": "Sign transaction",
-	"signing_useLedgerPurpose_importLegacyAccounts": "Import Legacy Accounts",
-
 	"signing_useLedgerLabel_Ledger": "Ledger",
 	"signing_useLedgerLabel_lastUsed": "Last used",
-	"signing_useLedgerLabel_addedOn": "Added on"
+	"signing_useLedgerLabel_addedOn": "Added on",
+
+	"signing_signatureRequest_title": "Signature Request",
+	"signing_signatureRequest_body": "Make sure the following **Ledger hardware wallet device** is connected to a computer with a linked Radix Connector browser extension, and the Radix Babylon app is launched on the device.",
+	"signing_signatureRequest_instructions": "Review and sign the transaction on the Ledger device to continue."
 }
