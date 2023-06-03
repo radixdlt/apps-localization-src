@@ -7,5 +7,7 @@
 	"createAccount_nameNewAccount_continue": "Continue",
 	"createAccount_introduction_title": "Create an Account",
 	"createAccount_titleFirst": "Create First Account",
-	"createAccount_titleNotFirst": "Create New Account"
+	"createAccount_titleNotFirst": "Create New Account",
+	"createAccount_derivePublicKeys_title": "Creating Account",
+	"createAccount_derivePublicKeys_subtitle": "Deriving public keys"
 }
