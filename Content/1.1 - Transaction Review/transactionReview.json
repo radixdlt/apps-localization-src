@@ -29,10 +29,10 @@
 	"transactionReview_prepareForSigning_navigationTitle": "Preparing Transaction",
 	"transactionReview_prepareForSigning_body": "Preparing transaction for signing",
 
-	"transactionReview_selectFeePayer_navigationTitle": "Select Fee Payer",
-	"transactionReview_selectFeePayer_selectAccount": "Select account to pay %@ tx fee with",
-	"transactionReview_selectFeePayer_body": "The transaction you are about to sign does not involve any of your accounts so you must choose an account to pay the transaction fee with.",
-	"transactionReview_selectFeePayer_confirmButton": "Confirm Fee Payer",
+	"transactionReview_selectFeePayer_navigationTitle": "Select Fee Account",
+	"transactionReview_selectFeePayer_selectAccount": "Select Account:",
+	"transactionReview_selectFeePayer_body": "Please select an Account with enough XRD to pay 10 XRD fee for this transaction.",
+	"transactionReview_selectFeePayer_confirmButton": "Continue",
 
 	"transactionReview_submitTransaction_displaySubmitting": "Submitting",
 	"transactionReview_submitTransaction_displaySubmittedUnknown": "Submitted but not confirmed",
