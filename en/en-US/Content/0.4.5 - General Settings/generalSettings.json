@@ -4,7 +4,7 @@
 	"generalSettings_developerMode_title": "Developer Mode",
 	"generalSettings_developerMode_subtitle": "Warning: Disables website validity checks",
 	"generalSettings_profileSync_title": "Sync Wallet Data to iCloud",
-	"generalSettings_profileSync_subtitle": "Warning: If disabled you might lose access to accounts/personas.",
+	"generalSettings_profileSync_subtitle": "Warning: If disabled you might lose access to your Accounts and Personas.",
 	"generalSettings_verboseLedgerMode_title": "Verbose Ledger transaction signing",
 	"generalSettings_verboseLedgerMode_subtitle": "When signing with your Ledger hardware wallet, should all instructions be displayed?",
 	"generalSettings_confirmCloudSyncDisableAlert_title": "Disabling iCloud sync will delete the iCloud backup data, are you sure you want to disable iCloud sync?"
