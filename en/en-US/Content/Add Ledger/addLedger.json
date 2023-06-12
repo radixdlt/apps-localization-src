@@ -7,6 +7,7 @@
 	"addLedger_addDevice_continue": "Continue",
 	"addLedger_nameLedger_title": "Name Your Ledger",
 	"addLedger_nameLedger_body": "Enter a label for this Ledger device",
+	"addLedger_nameLedger_detectedType": "Detected type: %@",
 	"addLedger_nameLedger_namePlaceholder": "Green Ledger Nano S+",
 	"addLedger_nameLedger_continueButtonTitle": "Save and Continue"
 }
