@@ -15,5 +15,6 @@
 	"importLegacyWallet_selectAccountsToImport_unnamed": "Unnamed",
 	"importLegacyWallet_completion_titleNoAccounts": "No accounts imported.",
 	"importLegacyWallet_completion_titleOneAccount": "Imported 1 account.",
-	"importLegacyWallet_completion_titleManyAccounts": "Imported #%d accounts."
+	"importLegacyWallet_completion_titleManyAccounts": "Imported #%d accounts.",
+	"importLegacyWallet_hardwareImport_skipButton": "Skip remaining accounts"
 }
