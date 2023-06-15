@@ -1,17 +1,15 @@
 {
-	"homePage_applySecuritySettings": "Apply Security Settings",
+	"homePage_applySecuritySettings": "Backup your seed phrase",
 	"homePage_backedUpMnemonicHeading": "I have backed up this seed phrase",
 	"homePage_createNewAccount": "Create a New Account",
 	"homePage_legacyAccountHeading": "Legacy",
 	"homePage_subtitle": "Welcome. Here are all your Accounts on the Radix Network.",
 	"homePage_title": "Radix Wallet",
 	"homePage_totalValue": "Total value",
-
 	"homePage_accountsTag_dAppDefinition": "dApp Definition",
 	"homePage_accountsTag_legacySoftware": "Legacy",
 	"homePage_accountsTag_ledgerLegacy": "Legacy (Ledger)",
 	"homePage_accountsTag_ledgerBabylon": "Ledger",
-
 	"homePage_visitDashboard_title": "Visit the Radix Dashboard",
 	"homePage_visitDashboard_subtitle": "Ready to get started using the Radix Network and your Wallet?"
 }
