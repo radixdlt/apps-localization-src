@@ -3,5 +3,5 @@
 	"transaction_status_success_title": "Success",
 	"transaction_status_success_text": "Your transaction was successful",
 	"transaction_status_failure_title": "Something went wrong",
-	"transaction_status_dismiss_dialog_message": "Dismissing this modal will not cancel this transaction, but you will not get any more notifications regarding the transaction's status."
+	"transaction_status_dismiss_dialog_message": "Stop waiting for transaction result? The transaction will not be canceled."
 }
