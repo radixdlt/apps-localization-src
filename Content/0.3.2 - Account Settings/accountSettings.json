@@ -54,17 +54,5 @@
 	"accountSettings_behaviors_removableByThirdParty": "A third party can remove this asset from accounts and dApps.",
 	"accountSettings_behaviors_removableByAnyone": "Anyone can remove this asset from accounts and dApps.",
 	"accountSettings_behaviors_nftDataChangeable": "Data that is set on these NFTs can be changed.",
-	"accountSettings_behaviors_nftDataChangeableByAnyone": "Anyone can change data that is set on these NFTs.",
-
-	"accountSettings_debug_turnIntoDappDefinition": "Turn into dApp Definition account type",
-	"accountSettings_debug_createAndUploadAuthKey": "Create & Upload Auth Key",
-	"accountSettings_debug_createFungibleToken": "Create Fungible Token",
-	"accountSettings_debug_creatingToken": "Creating Token",
-	"accountSettings_debug_createNFT": "Create NFT",
-	"accountSettings_debug_creatingNFT": "Creating NFT",
-
-	"accountSettings_debug_createFungibleTokens": "Create Multiple Fungible Tokens",
-	"accountSettings_debug_creatingTokens": "Creating Tokens",
-	"accountSettings_debug_createNFTs": "Create Multiple NFTs",
-	"accountSettings_debug_creatingNFTs": "Creating NFTs"
+	"accountSettings_behaviors_nftDataChangeableByAnyone": "Anyone can change data that is set on these NFTs."
 }
