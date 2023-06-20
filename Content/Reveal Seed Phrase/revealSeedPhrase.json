@@ -1,0 +1,9 @@
+{
+	"revealSeedPhrase_title": "Reveal Seed Phrase",
+	"revealSeedPhrase_subtitle": "For your safety, make sure no one is looking at your screen. Taking a screen shot has been disabled.",
+	"revealSeedPhrase_wordLabel": "Word %d",
+	"revealSeedPhrase_passphrase": "Passphrase",
+	"revealSeedPhrase_warningDialog_title": "Use Caution",
+	"revealSeedPhrase_warningDialog_subtitle": "Are you sure you have backed up your seed phrase?",
+	"revealSeedPhrase_warningDialog_confirmButton": "I have backed up this seed phrase"
+}
