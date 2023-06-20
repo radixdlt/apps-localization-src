@@ -1,6 +1,6 @@
 {
 	"revealSeedPhrase_title": "Reveal Seed Phrase",
-	"revealSeedPhrase_warning": "For your safety, make sure no one is looking at your screen. Taking a screen shot has been disabled.",
+	"revealSeedPhrase_subtitle": "For your safety, make sure no one is looking at your screen. Taking a screen shot has been disabled.",
 	"revealSeedPhrase_wordLabel": "Word %d",
 	"revealSeedPhrase_passphrase": "Passphrase",
 	"revealSeedPhrase_warningDialog_title": "Use Caution",
