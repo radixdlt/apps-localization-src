@@ -2,21 +2,9 @@
 	"displayMnemonics_cautionAlert_title": "Use Caution",
 	"displayMnemonics_cautionAlert_revealButtonLabel": "Reveal Seed Phrase",
 	"displayMnemonics_cautionAlert_message": "A seed phrase provides full control of its Accounts. Do not view in a public area. Back up the seed phrase words securely. Screenshots are disabled.",
-	"displayMnemonics_labelSeedPhraseKindOlympia": "Legacy Seed Phrase",
-	"displayMnemonics_labelSeedPhraseKind": "Main Seed Phrase",
-	"displayMnemonics_labelDateOlympia": "Imported on",
-	"displayMnemonics_labelDate": "Generated on",
 	"displayMnemonics_seedPhrases": "Seed Phrases",
 	"displayMnemonics_connectedAccountsLabel_one": "Connected to %d account",
 	"displayMnemonics_connectedAccountsLabel_many": "Connected to %d accounts",
 	"displayMnemonics_seedPhraseSecurityInfo": "You are responsible for the security of your Seed Phrase",
-	"displayMnemonics_backUpWarning": "Back up this Seed Phrase",
-
-	"revealSeedPhrase_title": "Reveal Seed Phrase",
-	"revealSeedPhrase_subtitle": "For your safety, make sure no one is looking at your screen. Taking a screen shot has been disabled.",
-	"revealSeedPhrase_wordLabel": "Word %d",
-	"revealSeedPhrase_passphrase": "Passphrase",
-	"revealSeedPhrase_warningDialog_title": "Use Caution",
-	"revealSeedPhrase_warningDialog_subtitle": "Are you sure you have backed up your seed phrase?",
-	"revealSeedPhrase_warningDialog_confirmButton": "I have backed up this seed phrase"
+	"displayMnemonics_backUpWarning": "Back up this Seed Phrase"
 }
