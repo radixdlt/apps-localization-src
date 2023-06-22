@@ -6,4 +6,26 @@
 
 	"androidProfileBackup_backupWalletData_title": "Backup Wallet Data",
 	"androidProfileBackup_backupWalletData_message": "Warning: If disabled you might lose access to your Accounts and Personas."
+
+	"iOSProfileBackup_profileSync_title": "Sync Wallet Data to iCloud",
+	"iOSProfileBackup_profileSync_subtitle": "Warning: If disabled you might lose access to your Accounts and Personas.",
+
+	"iOSProfileBackup_navigationTitle": "Wallet Data Backup",
+
+	"iOSProfileBackup_importBackupWallet": "Import From Backup",
+	"iOSProfileBackup_cloudBackupWallet": "Available backups:",
+	"iOSProfileBackup_useICloudBackup": "Use iCloud Backup Data",
+	"iOSProfileBackup_noCloudBackup": "No backups found in iCloud",
+
+	"iOSProfileBackup_thisDevice": "This Device",
+	"iOSProfileBackup_creatingDevice": "Backup created by: %@",
+
+	"iOSProfileBackup_creationDateLabel": "Creation date: %@",
+	"iOSProfileBackup_lastUsedOnDeviceLabel": "Last used on device: %@",
+	"iOSProfileBackup_lastModifedDateLabel": "Last modified date: %@",
+	"iOSProfileBackup_numberOfNetworksLabel": "Number of networks: %d",
+	"iOSProfileBackup_totalAccountsNumberLabel": "Number of Accounts: %d",
+	"iOSProfileBackup_totalPersonasNumberLabel": "Number of Personas: %d",
+
+	"iOSProfileBackup_incompatibleWalletDataLabel": "Incompatible Wallet data"
 }
