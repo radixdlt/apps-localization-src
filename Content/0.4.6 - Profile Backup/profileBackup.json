@@ -1,0 +1,9 @@
+{
+	"androidProfileBackup_disabledText": "Back up is turned off",
+	"androidProfileBackup_lastBackedUp": "Last Backed up: %s",
+	"androidProfileBackup_noLastBackUp": "Not Backed up yet",
+	"androidProfileBackup_openSystemBackupSettings": "Open System Backup Settings",
+
+	"androidProfileBackup_backupWalletData_title": "Backup Wallet Data",
+	"androidProfileBackup_backupWalletData_message": "Warning: If disabled you might lose access to your Accounts and Personas."
+}
