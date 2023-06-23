@@ -1,4 +1,5 @@
 {
+	"importMnemonic_navigationTitle": "Import Seed Phrase",
 	"importMnemonic_wordHeading": "word #%d",
 	"importMnemonic_passphrase": "Passphrase",
 	"importMnemonic_passphrasePlaceholder": "Passphrase",
