@@ -5,7 +5,7 @@
 	"androidProfileBackup_openSystemBackupSettings": "Open System Backup Settings",
 
 	"androidProfileBackup_backupWalletData_title": "Backup Wallet Data",
-	"androidProfileBackup_backupWalletData_message": "Warning: If disabled you might lose access to your Accounts and Personas."
+	"androidProfileBackup_backupWalletData_message": "Warning: If disabled you might lose access to your Accounts and Personas.",
 
 	"iOSProfileBackup_profileSync_title": "Sync Wallet Data to iCloud",
 	"iOSProfileBackup_profileSync_subtitle": "Warning: If disabled you might lose access to your Accounts and Personas.",
