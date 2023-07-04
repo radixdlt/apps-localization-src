@@ -1,7 +1,7 @@
 # https://github.com/marketplace/actions/merge-pull-requests-automerge-action
 # Github allows automerge https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/incorporating-changes-from-a-pull-request/automatically-merging-a-pull-request
 # But we want to restrict it to only PR created by radixbot
-name: automerge
+name: Validate and automerge
 on:
   push:
     branches:
@@ -33,6 +33,7 @@ jobs:
         with:
           pattern: "\\.json$"
   automerge:
+    if: ${{ github.event_name == 'pull_request' }}
     runs-on: ubuntu-latest
     steps:
       - id: automerge
