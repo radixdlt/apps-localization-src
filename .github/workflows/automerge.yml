@@ -29,9 +29,6 @@ jobs:
         uses: limitusus/json-syntax-check@v2
         with:
           pattern: "\\.json$"
-  automerge:
-    runs-on: ubuntu-latest
-    steps:
       - id: automerge
         name: automerge
         uses: "pascalgn/automerge-action@v0.15.6"
