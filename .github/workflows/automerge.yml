@@ -3,6 +3,9 @@
 # But we want to restrict it to only PR created by radixbot
 name: automerge
 on:
+  push:
+    branches:
+        - validate-json
   pull_request:
     types:
       - labeled
@@ -21,6 +24,14 @@ on:
       - completed
   status: {}
 jobs:
+  validate-JSON:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: json-syntax-check
+        uses: limitusus/json-syntax-check@v2
+        with:
+          pattern: "\\.json$"
   automerge:
     runs-on: ubuntu-latest
     steps:
