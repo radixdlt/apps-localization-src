@@ -2,7 +2,7 @@
 	"createEntity_completion_destinationChooseAccounts": "Choose Accounts",
 	"createEntity_completion_destinationChoosePersonas": "Choose Personas",
 	"createEntity_completion_destinationGateways": "Gateways",
-	"createEntity_completion_destinationHome": "Account List",
+	"createEntity_completion_destinationHome": "Homepage",
 	"createEntity_completion_destinationPersonaList": "Persona List",
 	"createEntity_completion_goToDestination": "Continue to %s",
 	"createEntity_completion_title": "Congratulations",
