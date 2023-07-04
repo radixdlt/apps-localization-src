@@ -3,9 +3,6 @@
 # But we want to restrict it to only PR created by radixbot
 name: Validate and automerge
 on:
-  push:
-    branches:
-        - validate-json
   pull_request:
     types:
       - labeled
@@ -33,7 +30,6 @@ jobs:
         with:
           pattern: "\\.json$"
   automerge:
-    if: ${{ github.event_name == 'pull_request' }}
     runs-on: ubuntu-latest
     steps:
       - id: automerge
