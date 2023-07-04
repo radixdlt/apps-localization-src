@@ -4,8 +4,8 @@ on:
   push:
     branches:
         - validate-json
-    paths:
-        - '**.json'
+    # paths:
+    #     - '**.json'
 #   pull_request:
 
 jobs:
