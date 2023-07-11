@@ -8,7 +8,8 @@
 	"addLedgerDevice_addDevice_continue": "Continue",
 
 	"addLedgerDevice_nameLedger_title": "Name Your Ledger",
-	"addLedgerDevice_nameLedger_body": "Enter a label for this Ledger device",
+	"addLedgerDevice_nameLedger_body": "What would you like to call this Ledger device?",
+	"addLedgerDevice_nameLedger_fieldHint": "This will be displayed when you’re prompted to sign with this ledger",
 	"addLedgerDevice_nameLedger_detectedType": "Detected type: %@",
 	"addLedgerDevice_nameLedger_namePlaceholder": "Green Ledger Nano S+",
 	"addLedgerDevice_nameLedger_continueButtonTitle": "Save and Continue"
