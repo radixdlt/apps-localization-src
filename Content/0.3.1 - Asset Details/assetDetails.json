@@ -4,6 +4,7 @@
 	"assetDetails_currentSupply": "Current Supply",
 	"assetDetails_supplyUnkown": "Unknown",
 	"assetDetails_behavior": "Behavior",
+	"assetDetails_tags": "Tags",
 	"assetDetails_associatedDapps": "Associated dApps",
 
 	"assetDetails_tokenDetails_noTokens": "You have no Tokens",
