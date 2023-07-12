@@ -10,7 +10,7 @@
 	"linkedConnectors_newConnection_linking": "Linking…",
 
 	"linkedConnectors_nameNewConnector_title": "Name New Connector",
-	"linkedConnectors_nameNewConnector_body": "What would you like to call this Connector?",
+	"linkedConnectors_nameNewConnector_subtitle": "What would you like to call this Connector?",
 	"linkedConnectors_nameNewConnector_textFieldPlaceholder": "e.g. Chrome on Personal Laptop",
 	"linkedConnectors_nameNewConnector_textFieldHint": "Name this connector e.g. ‘Chrome on MacBook Pro’",
 	"linkedConnectors_nameNewConnector_saveLinkButtonTitle": "Continue",
