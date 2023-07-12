@@ -10,9 +10,10 @@
 	"linkedConnectors_newConnection_linking": "Linking…",
 
 	"linkedConnectors_nameNewConnector_title": "Name New Connector",
+	"linkedConnectors_nameNewConnector_subtitle": "What would you like to call this Connector?",
 	"linkedConnectors_nameNewConnector_textFieldPlaceholder": "e.g. Chrome on Personal Laptop",
-	"linkedConnectors_nameNewConnector_textFieldHint": "Give a name to this Radix Connector",
-	"linkedConnectors_nameNewConnector_saveLinkButtonTitle": "Save Link and Continue",
+	"linkedConnectors_nameNewConnector_textFieldHint": "Name this connector e.g. ‘Chrome on MacBook Pro’",
+	"linkedConnectors_nameNewConnector_saveLinkButtonTitle": "Continue",
 
 	"linkedConnectors_removeConnectionAlert_title": "Remove Connection",
 	"linkedConnectors_removeConnectionAlert_message": "You will no longer be able to connect your wallet to this device and browser combination.",
