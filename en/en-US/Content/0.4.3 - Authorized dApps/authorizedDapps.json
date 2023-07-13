@@ -29,5 +29,11 @@
 	"authorizedDapps_forgetDappAlert_forget": "Forget dApp?",
 	"authorizedDapps_removeAuthorizationAlert_title": "Remove Authorization",
 	"authorizedDapps_removeAuthorizationAlert_message": "This dApp will no longer have authorization to see data associated with this Persona, unless you choose to login with it again in the future.",
-	"authorizedDapps_removeAuthorizationAlert_confirm": "Continue"
+	"authorizedDapps_removeAuthorizationAlert_confirm": "Continue",
+	"authorizedDapps_personaDetails_name": "Name",
+	"authorizedDapps_personaDetails_nameGiven": "Given",
+	"authorizedDapps_personaDetails_nameFamily": "Family",
+	"authorizedDapps_personaDetails_nameMiddle": "Middle",
+	"authorizedDapps_personaDetails_nameVariantEastern": "eastern",
+	"authorizedDapps_personaDetails_nameVariantWestern": "western"
 }
