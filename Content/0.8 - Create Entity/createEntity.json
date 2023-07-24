@@ -1,15 +1,13 @@
 {
 	"createEntity_completion_destinationChooseAccounts": "Choose Accounts",
-	"createEntity_completion_destinationChoosePersonas": "Choose Personas",
+	"createEntity_completion_destinationChoosePersonas": "Persona Selection",
 	"createEntity_completion_destinationGateways": "Gateways",
 	"createEntity_completion_destinationHome": "Account List",
 	"createEntity_completion_destinationPersonaList": "Persona List",
 	"createEntity_completion_goToDestination": "Continue to %s",
 	"createEntity_completion_title": "Congratulations",
-
 	"createEntity_ledger_createAccount": "Create Ledger Account",
 	"createEntity_ledger_createPersona": "Create Ledger Persona",
-
 	"createEntity_nameNewEntity_explanation": "Your Account lives on the Radix Network and you can access it any time in your Wallet.",
 	"createEntity_nameNewEntity_ledgerTitle": "Create with Ledger Hardware Wallet",
 	"createEntity_nameNewEntity_ledgerSubtitle": "You will be asked to sign transactions with the Ledger device you select"
