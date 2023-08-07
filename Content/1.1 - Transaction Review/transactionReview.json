@@ -14,7 +14,7 @@
 	"transactionReview_usingDappsHeading": "Using dApps",
 	"transactionReview_unknownComponents": "%d Unknown Components",
 	"transactionReview_withdrawalsHeading": "Withdrawing From",
-	"transactionReview_xrdAmount": "XRD %s",
+	"transactionReview_xrdAmount": "%s XRD",
 	"transactionReview_networkFee_heading": "Transaction Fee",
 	"transactionReview_networkFee_congestedText": "The network is currently congested. Add a tip to speed up your transfer.",
 	"transactionReview_networkFee_customizeButtonTitle": "Customize",
