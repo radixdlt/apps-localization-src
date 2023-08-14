@@ -20,5 +20,6 @@
 
 	"createPersona_requiredField": "Required field",
 
+	"createAccount_derivePublicKeys_title": "Creating Persona",
 	"createPersona_saveAndContinueButtonTitle": "Save and Continue"
 }
