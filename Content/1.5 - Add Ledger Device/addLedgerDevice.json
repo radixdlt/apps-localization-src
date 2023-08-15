@@ -1,15 +1,13 @@
 {
 	"addLedgerDevice_alreadyAddedAlert_title": "Ledger Already Added",
 	"addLedgerDevice_alreadyAddedAlert_message": "You have already added this Ledger as: %@",
-
 	"addLedgerDevice_addDevice_title": "Add Ledger Device",
 	"addLedgerDevice_addDevice_body1": "Let’s set up a Ledger hardware wallet device. You will be able to use it to create new Ledger-secured Accounts, or import Ledger-secured Accounts from the Radix Olympia Desktop Wallet.",
 	"addLedgerDevice_addDevice_body2": "Connect your Ledger to a computer running a linked Radix Connector browser extension, and make sure the Radix Babylon app is running on the Ledger device.",
 	"addLedgerDevice_addDevice_continue": "Continue",
-
 	"addLedgerDevice_nameLedger_title": "Name Your Ledger",
 	"addLedgerDevice_nameLedger_subtitle": "What would you like to call this Ledger device?",
-	"addLedgerDevice_nameLedger_fieldHint": "This will be displayed when you’re prompted to sign with this ledger",
+	"addLedgerDevice_nameLedger_fieldHint": "This will be displayed when you’re prompted to sign with this Ledger device.",
 	"addLedgerDevice_nameLedger_detectedType": "Detected type: %@",
 	"addLedgerDevice_nameLedger_namePlaceholder": "Green Ledger Nano S+",
 	"addLedgerDevice_nameLedger_continueButtonTitle": "Save and Continue"
