@@ -46,7 +46,7 @@
 	"transactionReview_customizeNetworkFeeSheet_royaltyFee": "Royalty fee",
 	"transactionReview_customizeNetworkFeeSheet_paddingFieldLabel": "Adjust Fee Padding Amount (XRD)",
 	"transactionReview_customizeNetworkFeeSheet_tipFieldLabel": "Adjust Tip to Lock",
-	"transactionReview_customizeNetworkFeeSheet_tipFieldInfo": "(% of Execution + Finalization Fees)",
+	"transactionReview_customizeNetworkFeeSheet_tipFieldInfo": "(%% of Execution + Finalization Fees)",
 	"transactionReview_customizeNetworkFeeSheet_selectFeePayer_warning": "Please select a fee payer for the transaction fee",
 	"transactionReview_customizeNetworkFeeSheet_insufficientBalance_warning": "Insufficient balance to pay the transaction fee",
 	"transactionReview_guarantees_title": "Customize Guarantees",
