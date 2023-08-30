@@ -11,5 +11,5 @@
 	"biometrics_deviceNotSecureAlert_title": "Your device is not secured",
 	"biometrics_deviceNotSecureAlert_message": "Do you want to continue?",
 	"biometrics_deviceNotSecureAlert_openSettings": "Open Settings",
-  	"biometrics_deviceNotSecureAlert_quit": "Quit"
+	"biometrics_deviceNotSecureAlert_quit": "Quit"
 }
