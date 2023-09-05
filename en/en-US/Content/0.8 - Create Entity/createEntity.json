@@ -10,5 +10,5 @@
 	"createEntity_ledger_createPersona": "Create Ledger Persona",
 	"createEntity_nameNewEntity_explanation": "Your Account lives on the Radix Network and you can access it any time in your Wallet.",
 	"createEntity_nameNewEntity_ledgerTitle": "Create with Ledger Hardware Wallet",
-	"createEntity_nameNewEntity_ledgerSubtitle": "You will be asked to sign transactions with the Ledger device you select"
+	"createEntity_nameNewEntity_ledgerSubtitle": "You will be asked to sign transactions with the Ledger device you select."
 }

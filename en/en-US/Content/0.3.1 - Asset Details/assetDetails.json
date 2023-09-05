@@ -14,7 +14,7 @@
 	"assetDetails_NFTDetails_name": "Name",
 	"assetDetails_NFTDetails_resourceName": "Name",
 	"assetDetails_NFTDetails_nftPlural": "%d NFTs",
-	"assetDetails_NFTDetails_ownedOfTotal": "%d of %d",
+	"assetDetails_NFTDetails_ownedOfTotal": "%d NFTs of total supply %d",
 	"assetDetails_poolUnitDetails_noPoolUnits": "You have no Pool units",
 	"assetDetails_poolUnitDetails_whatArePoolUnits": "What are Pool units?",
 	"assetDetails_badgeDetails_noBadges": "You have no badges",
