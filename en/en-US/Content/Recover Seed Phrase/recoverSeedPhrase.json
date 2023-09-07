@@ -1,8 +1,8 @@
 {
     "recoverSeedPhrase_header_titleMain": "Main Seed Phrase Required",
     "recoverSeedPhrase_header_titleOther": "Seed Phrase Required",
-    "recoverSeedPhrase_header_subtitleMainSeedPhrase": "Your *Personas* and the following *Accounts* are controlled by your main seed phrase. To recover control, you must re-enter it.",
-    "recoverSeedPhrase_header_subtitleOtherSeedPhrase": "The following *Accounts* are controlled by a seed phrase. To recover control, you must re-enter it.",
+    "recoverSeedPhrase_header_subtitleMainSeedPhrase": "Your **Personas** and the following **Accounts** are controlled by your main seed phrase. To recover control, you must re-enter it.",
+    "recoverSeedPhrase_header_subtitleOtherSeedPhrase": "The following **Accounts** are controlled by a seed phrase. To recover control, you must re-enter it.",
     "recoverSeedPhrase_skipButton": "Skip This Seed Phrase For Now",
     "recoverSeedPhrase_enterButton": "Enter This Seed Phrase",
     "enterSeedPhrase_header_title": "Enter Seed Phrase",
