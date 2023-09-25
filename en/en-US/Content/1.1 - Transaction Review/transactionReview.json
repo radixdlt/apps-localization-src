@@ -66,5 +66,15 @@
 	"transactionReview_submitTransaction_displayCommitted": "Successfully committed",
 	"transactionReview_submitTransaction_txID": "Transaction ID",
 	"transactionReview_submitTransaction_status": "Status",
-	"transactionReview_submitTransaction_navigationTitle": "Submitting Transaction"
+	"transactionReview_submitTransaction_navigationTitle": "Submitting Transaction",
+	"transactionReview_accountDepositSettings_title": "Review New Deposit Settings",
+	"transactionReview_accountDepositSettings_subtitle": "Third-party deposit setting",
+	"transactionReview_accountDepositSettings_acceptAllRule": "Allow third parties to deposit *any asset* to this account.",
+	"transactionReview_accountDepositSettings_acceptKnownRule": "Allow third parties to deposit *only assets this account has already held*.",
+	"transactionReview_accountDepositSettings_denyAllRule": "*Disallow* all deposits from third parties without your consent.",
+	"transactionReview_accountDepositSettings_assetChangeAllow": "Allow",
+	"transactionReview_accountDepositSettings_assetChangeDisallow": "Disallow",
+	"transactionReview_accountDepositSettings_assetChangeClear": "Clear Exception",
+	"transactionReview_accountDepositSettings_depositorChangeAdd": "Add Depositor",
+	"transactionReview_accountDepositSettings_depositorChangeRemove": "Remove Depositor"
 }
