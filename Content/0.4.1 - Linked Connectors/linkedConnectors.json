@@ -17,7 +17,5 @@
 	"linkedConnectors_cameraPermissionDeniedAlert_title": "Access Required",
 	"linkedConnectors_cameraPermissionDeniedAlert_message": "Camera access is required to link to a Connector.",
 	"linkedConnectors_localNetworkPermissionDeniedAlert_title": "Access Required",
-	"linkedConnectors_localNetworkPermissionDeniedAlert_message": "Local network access is required to link to a Connector.",
-	"linkedConnectors_incorrectQrTitle": "Incorrect QR code scanned.",
-  	"linkedConnectors_incorrectQrMessage": "Please scan the QR code provided by your Radix Wallet Connector browser extension."
+	"linkedConnectors_localNetworkPermissionDeniedAlert_message": "Local network access is required to link to a Connector."
 }
