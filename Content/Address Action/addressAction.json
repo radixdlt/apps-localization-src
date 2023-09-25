@@ -6,6 +6,9 @@
 	"addressAction_noWebBrowserInstalled": "There is no web browser installed in this device",
 	"addressAction_viewOnDashboard": "View on Radix Dashboard",
 	"addressAction_showAccountQR": "Show Address QR Code",
+	"addressAction_verifyAddressLedger": "Verify Address with Ledger",
+	"addressAction_verifyAddressLedger_success": "Address verified",
+	"addressAction_verifyAddressLedger_error": "Verify address request failed",
 
 	"addressAction_qrCodeView_qrCodeLabel": "QR code for an account",
 	"addressAction_qrCodeView_failureLabel": "Could not create QR code"
