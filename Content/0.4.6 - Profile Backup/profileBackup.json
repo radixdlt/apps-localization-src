@@ -1,5 +1,5 @@
 {
-	"profileBackup_headerTitle": "Backing up your wallet ensures that you can  recover access to your Accounts, Personas, and wallet settings on a new phone by re-entering your seed phrase(s).\n\n**For security, backups do not contain any seed phrases or private keys. You must write them down separately.**",
+	"profileBackup_headerTitle": "Backing up your wallet ensures that you can restore access to your Accounts, Personas, and wallet settings on a new phone by re-entering your seed phrase(s).\n\n**For security, backups do not contain any seed phrases or private keys. You must write them down separately.**",
 	"profileBackup_automaticBackups_title": "Automatic Backups (recommended)",
 	"profileBackup_manualBackups_title": "Manual Backups",
 	"profileBackup_manualBackups_subtitle": "A manually exported wallet backup file may also be used for recovery, along with your seed phrase(s).\n\nOnly the **current configuration** of your wallet is backed up with each manual export.",
