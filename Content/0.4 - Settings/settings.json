@@ -9,6 +9,7 @@
 	"settings_backups": "Backups",
 	"settings_importFromLegacyWallet": "Import from a Legacy Wallet",
 	"settings_ledgerHardwareWallets": "Ledger Hardware Wallets",
+	"settings_depositGuarantees": "Deposit Guarantees",
 	"settings_multiFactor": "Multi-Factor Setup",
 	"settings_appVersion": "Version: %@ build #%@",
 	"settings_deleteWalletData": "Delete Wallet Data",
