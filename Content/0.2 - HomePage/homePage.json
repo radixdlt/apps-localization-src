@@ -12,5 +12,8 @@
 	"homePage_accountsTag_ledgerLegacy": "Legacy (Ledger)",
 	"homePage_accountsTag_ledgerBabylon": "Ledger",
 	"homePage_visitDashboard_title": "Visit the Radix Dashboard",
-	"homePage_visitDashboard_subtitle": "Ready to get started using the Radix Network and your Wallet?"
+	"homePage_visitDashboard_subtitle": "Ready to get started using the Radix Network and your Wallet?",
+	"homePage_profileOlympiaError_title": "SERIOUS ERROR - PLEASE READ",
+	"homePage_profileOlympiaError_subtitle": "Your wallet is in a rare condition that must be resolved manually. Please email support at hello@radixdlt.com with subject line BDFS ERROR. Somebody will respond and help you resolve the issue safely.",
+	"homePage_profileOlympiaError_okCountdown": "OK (%d)"
 }
