@@ -1,0 +1,3 @@
+{
+	"depositGuarantees_text": "Set the guaranteed minimum deposit to be applied whenever a deposit in a transaction can only be estimated.\n\nYou can always change the guarantee from this default in each transaction."
+}
