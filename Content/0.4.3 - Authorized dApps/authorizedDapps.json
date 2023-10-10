@@ -2,7 +2,6 @@
 	"authorizedDapps_title": "Authorized dApps",
 	"authorizedDapps_subtitle": "These are the dApps that you have logged into using the Radix Wallet.",
 	"authorizedDapps_whatIsDapp": "What is a dApp?",
-
 	"authorizedDapps_dAppDetails_dAppDefinition": "dApp Definition",
 	"authorizedDapps_dAppDetails_missingDescription": "Missing description",
 	"authorizedDapps_dAppDetails_website": "Website",
@@ -12,7 +11,6 @@
 	"authorizedDapps_dAppDetails_personasHeading": "Here are the Personas that you have used to login to this dApp.",
 	"authorizedDapps_dAppDetails_noPersonasHeading": "No Personas have been used to login to this dApp.",
 	"authorizedDapps_dAppDetails_forgetDapp": "Forget this dApp",
-
 	"authorizedDapps_personaDetails_editAvatarButtonTitle": "Edit Avatar",
 	"authorizedDapps_personaDetails_personaLabelHeading": "Persona Label",
 	"authorizedDapps_personaDetails_personalDataSharingDescription": "Here is the personal data that you are sharing with %s.",
@@ -21,25 +19,22 @@
 	"authorizedDapps_personaDetails_lastName": "Last Name",
 	"authorizedDapps_personaDetails_emailAddress": "Email Address",
 	"authorizedDapps_personaDetails_phoneNumber": "Phone Number",
-	"authorizedDapps_personaDetails_editPersona": "Edit Persona Data",
+	"authorizedDapps_personaDetails_editPersona": "Edit Persona",
 	"authorizedDapps_personaDetails_authorizedDappsHeading": "Here are the dApps you have logged into with this Persona.",
 	"authorizedDapps_personaDetails_accountSharingDescription": "Here are the Account names and addresses that you are currently sharing with %s.",
 	"authorizedDapps_personaDetails_editAccountSharing": "Edit Account Sharing",
 	"authorizedDapps_personaDetails_removeAuthorization": "Disconnect Persona from this dApp",
-
 	"authorizedDapps_forgetDappAlert_title": "Forget This dApp",
 	"authorizedDapps_forgetDappAlert_message": "Do you really want to forget this dApp and remove its permissions for all Personas?",
 	"authorizedDapps_forgetDappAlert_forget": "Forget dApp?",
-
 	"authorizedDapps_removeAuthorizationAlert_title": "Remove Authorization",
 	"authorizedDapps_removeAuthorizationAlert_message": "This dApp will no longer have authorization to see data associated with this Persona, unless you choose to login with it again in the future.",
 	"authorizedDapps_removeAuthorizationAlert_confirm": "Continue",
-
 	"authorizedDapps_personaDetails_fullName": "Full Name",
-  	"authorizedDapps_personaDetails_nameVariant": "Name Order",
-  	"authorizedDapps_personaDetails_givenName": "Given Name(s)",
-  	"authorizedDapps_personaDetails_nameFamily": "Family Name",
-  	"authorizedDapps_personaDetails_nickname": "Nickname",
-  	"authorizedDapps_personaDetails_nameVariantEastern": "Eastern style (family name first)",
-  	"authorizedDapps_personaDetails_nameVariantWestern": "Western style (given name(s) first)"
+	"authorizedDapps_personaDetails_nameVariant": "Name Order",
+	"authorizedDapps_personaDetails_givenName": "Given Name(s)",
+	"authorizedDapps_personaDetails_nameFamily": "Family Name",
+	"authorizedDapps_personaDetails_nickname": "Nickname",
+	"authorizedDapps_personaDetails_nameVariantEastern": "Eastern style (family name first)",
+	"authorizedDapps_personaDetails_nameVariantWestern": "Western style (given name(s) first)"
 }
