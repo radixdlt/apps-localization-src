@@ -87,5 +87,9 @@
 	"accountSettings_behaviors_freezableByThirdParty": "A third party can freeze this asset in place.",
 	"accountSettings_behaviors_freezableByAnyone": "Anyone can freeze this asset in place.",
 	"accountSettings_behaviors_nftDataChangeable": "Data that is set on these NFTs can be changed.",
-	"accountSettings_behaviors_nftDataChangeableByAnyone": "Anyone can change data that is set on these NFTs."
+	"accountSettings_behaviors_nftDataChangeableByAnyone": "Anyone can change data that is set on these NFTs.",
+	"accountSettings_developmentHeading": "Set development preferences",
+  	"accountSettings_devPreferences": "Dev Preferences",
+  	"accountSettings_hideThisAccount": "Hide This Account",
+  	"accountSettings_hideAccountConfirmation": "Are you sure you want to hide this account?"
 }
