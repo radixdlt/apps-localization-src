@@ -2,22 +2,19 @@
 	"ledgerHardwareDevices_linkConnectorAlert_title": "Link a Connector",
 	"ledgerHardwareDevices_linkConnectorAlert_message": "To use a Ledger hardware wallet device, it must be connected to a computer running the Radix Connector browser extension.",
 	"ledgerHardwareDevices_linkConnectorAlert_continue": "Continue",
-
 	"ledgerHardwareDevices_navigationTitleAllowSelection": "Choose Ledger",
 	"ledgerHardwareDevices_navigationTitleNoSelection": "Choose Ledger Device",
 	"ledgerHardwareDevices_navigationTitleGeneral": "Ledger Devices",
-
 	"ledgerHardwareDevices_ledgerFactorSourceInfoCaption": "What is a Ledger Factor Source",
-
 	"ledgerHardwareDevices_addNewLedger": "Add Ledger Device",
 	"ledgerHardwareDevices_addedHeading": "Added",
 	"ledgerHardwareDevices_usedHeading": "Last Used",
-
 	"ledgerHardwareDevices_continueWithLedger": "Continue",
-
 	"ledgerHardwareDevices_subtitleNoLedgers": "No Ledger devices currently added to your Radix Wallet",
 	"ledgerHardwareDevices_subtitleSelectLedger": "Choose a Ledger device to use",
 	"ledgerHardwareDevices_subtitleSelectLedgerExisting": "Choose an existing Ledger or add a new one",
 	"ledgerHardwareDevices_subtitleAllLedgers": "Here are all the Ledger devices you have added.",
-	"ledgerHardwareDevices_subtitleFailure": "Could not find Ledger devices"
+	"ledgerHardwareDevices_subtitleFailure": "Could not find Ledger devices",
+	"ledgerHardwareDevices_couldNotSign_message": "Transaction could not be signed. To sign complex transactions, please enable either \\\"blind signing\\\" or \\\"verbose mode\\\" in the Radix app on your Ledger device.",
+	"ledgerHardwareDevices_couldNotSign_title": "Could Not Sign"
 }
