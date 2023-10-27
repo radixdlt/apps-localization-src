@@ -63,6 +63,7 @@
 	"dAppRequest_metadataLoadingAlert_message": "Danger! Bad dApp configuration, or you're being spoofed!",
 	"dAppRequest_metadataLoadingPrompt": "Loading…",
 	"dAppRequest_metadata_unknownName": "Unknown dApp",
+	"dAppRequest_metadata_wallet": "Radix Wallet",
 	"dAppRequest_personalDataBox_edit": "Edit",
 	"dAppRequest_personalDataBox_requiredInformation": "Required information:"
 }

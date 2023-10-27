@@ -1,10 +1,12 @@
 {
 	"assetDetails_resourceAddress": "Address",
+	"assetDetails_validator": "Validator",
 	"assetDetails_name": "Name",
 	"assetDetails_currentSupply": "Current Supply",
 	"assetDetails_supplyUnkown": "Unknown",
 	"assetDetails_behavior": "Behavior",
 	"assetDetails_tags": "Tags",
+	"assetDetails_tags_officialRadix": "Official Radix",
 	"assetDetails_associatedDapps": "Associated dApps",
 	"assetDetails_tokenDetails_noTokens": "You have no Tokens",
 	"assetDetails_tokenDetails_whatAreTokens": "What are Tokens?",
