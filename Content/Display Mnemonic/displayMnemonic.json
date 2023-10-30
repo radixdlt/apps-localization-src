@@ -8,5 +8,6 @@
 	"displayMnemonics_connectedAccountsLabel_one": "Connected to %d Account",
 	"displayMnemonics_connectedAccountsLabel_many": "Connected to %d Accounts",
 	"displayMnemonics_seedPhraseSecurityInfo": "You are responsible for the security of your Seed Phrase",
-	"displayMnemonics_backUpWarning": "Write Down this Seed Phrase"
+	"displayMnemonics_backUpWarning": "Write Down this Seed Phrase",
+	"displayMnemonics_seedPhraseEntryWarning": "Seed Phrase Entry Required"
 }
