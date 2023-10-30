@@ -49,7 +49,7 @@
 	"accountSettings_specificAssetsDeposits_removeAsset": "Remove Asset",
 	"accountSettings_specificAssetsDeposits_removeAssetMessageDeny": "The asset will be removed from the deny list",
 	"accountSettings_specificAssetsDeposits_removeAssetMessageAllow": "The asset will be removed from the allow list",
-	"accountSettings_specificAssetsDeposits_removeAssetMessageDepositors": "The badge will be removed from the list",
+	"accountSettings_specificAssetsDeposits_removeBadgeMessageDepositors": "The badge will be removed from the list",
 	"accountSettings_specificAssetsDeposits_removeDepositor": "Remove Depositor",
 	"accountSettings_specificAssetsDeposits_removeDepositorMessage": "The depositor will be removed from the allow list",
     "accountSettings_specificAssetsDeposits": "Allow/Deny Specific Assets",
