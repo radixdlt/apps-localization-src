@@ -13,7 +13,17 @@
 	"error_transactionFailure_pollStatus": "Failed to poll transaction status",
 	"error_transactionFailure_prepare": "Failed to prepare transaction",
 	"error_transactionFailure_rejected": "Transaction rejected",
+	"error_transactionFailure_unknown": "Unknown error",
+	"error_transactionFailure_failedToFindLedger": "Failed to find ledger",
+
+	"error_transactionFailure_failedToAddLockFee": "Failed to add Transaction Fee, try a different amount of fee payer.",
+	"error_transactionFailure_failedToAddGuarantee": "Failed to add Guarantee, try a different percentage, or try skip adding a guarantee.",
+	"error_transactionFailure_reviewFailure": "A proposed transaction could not be processed.",
+
 	"error_transactionFailure_blindSigningNotEnabledButRequired": "Your current Ledger settings only allow signing of simple token transfers. Please either enable \"verbose mode\" (to see full transaction manifests) or \"blind signing mode\" (to enable signing of complex transaction manifest hashes) on your Ledger app device.",
 	"error_transactionFailure_rejectedByUser": "Failed to convert transaction manifest",
-	"error_transactionFailure_submit": "Failed to submit transaction"
+	"error_transactionFailure_submit": "Failed to submit transaction",
+	"error_personaLabel_tooLong": "Persona label too long",
+	"error_accountLabel_tooLong": "Account label too long",
+	"error_accountLabel_missing": "Account label required"
 }

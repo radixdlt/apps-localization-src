@@ -16,6 +16,7 @@
 	"account_poolUnits_unknownSymbolName": "Unknown",
 	"account_poolUnits_unknownPoolUnitName": "Unknown",
 	"account_poolUnits_details_currentRedeemableValue": "Current Redeemable Value",
+	"account_poolUnits_noTotalSupply": "Missing Total supply - could not calculate redemption value",
 
 	"account_badges": "Badges"
 }
