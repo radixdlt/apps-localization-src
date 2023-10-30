@@ -15,6 +15,10 @@
 	"ledgerHardwareDevices_subtitleSelectLedgerExisting": "Choose an existing Ledger or add a new one",
 	"ledgerHardwareDevices_subtitleAllLedgers": "Here are all the Ledger devices you have added.",
 	"ledgerHardwareDevices_subtitleFailure": "Could not find Ledger devices",
-	"ledgerHardwareDevices_couldNotSign_message": "Transaction could not be signed. To sign complex transactions, please enable either \\\"blind signing\\\" or \\\"verbose mode\\\" in the Radix app on your Ledger device.",
-	"ledgerHardwareDevices_couldNotSign_title": "Could Not Sign"
+	"ledgerHardwareDevices_couldNotSign_message": "Transaction could not be signed. To sign complex transactions, please enable either \"blind signing\" or \"verbose mode\" in the Radix app on your Ledger device.",
+	"ledgerHardwareDevices_couldNotSign_title": "Could Not Sign",
+	"ledgerHardwareDevices_verification_addressVerified": "Address verified",
+	"ledgerHardwareDevices_verification_mismatch": "Verify address: Mismatched addresses",
+	"ledgerHardwareDevices_verification_badResponse": "Verify address: Returned bad response",
+	"ledgerHardwareDevices_verification_requestFailed": "Verify address: Request failed"
 }
