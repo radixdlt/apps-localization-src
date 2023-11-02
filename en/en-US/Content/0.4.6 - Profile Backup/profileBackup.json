@@ -41,7 +41,6 @@
 	"iOSProfileBackup_importBackupWallet": "Import From Backup",
 	"iOSProfileBackup_cloudBackupWallet": "Available backups:",
 	"iOSProfileBackup_useICloudBackup": "Use iCloud Backup Data",
-	"iOSProfileBackup_noCloudBackup": "No backups found in iCloud",
 	"iOSProfileBackup_thisDevice": "This Device",
 	"iOSProfileBackup_creatingDevice": "Backup created by: %@",
 	"iOSProfileBackup_creationDateLabel": "Creation date: %@",
