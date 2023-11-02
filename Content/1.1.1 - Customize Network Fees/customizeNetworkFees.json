@@ -10,6 +10,7 @@
 	"customizeNetworkFees_changeButtonTitle": "Change",
 	"customizeNetworkFees_noneRequired": "None required",
 	"customizeNetworkFees_noneDue": "None due",
+	"customizeNetworkFees_noAccountSelected": "No account selected",
 	"customizeNetworkFees_selectFeePayer_navigationTitle": "Select Fee Payer",
 	"customizeNetworkFees_selectFeePayer_subtitle": "Select an account to pay %s XRD transaction fee",
 	"customizeNetworkFees_selectFeePayer_selectAccountButtonTitle": "Select Account",
