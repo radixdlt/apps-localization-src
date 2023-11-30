@@ -30,5 +30,6 @@
 	"importOlympiaAccounts_noMnemonicFound": "No mnemonic found for accounts",
 	"importOlympiaAccounts_noNewAccounts": "No new accounts were found on this Ledger device",
 	"importOlympiaAccounts_passphrase": "Passphrase",
-	"importOlympiaAccounts_seedPhrase": "Seed phrase"
+	"importOlympiaAccounts_seedPhrase": "Seed phrase",
+	"importOlympiaAccounts_noAddresses": "No addresses verified. The currently connected Ledger device is not related to any accounts to be imported, or has already been used."
 }

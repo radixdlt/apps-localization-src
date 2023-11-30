@@ -4,5 +4,7 @@
 	"seedPhrases_warning": "You are responsible for the security of your Seed Phrase",
 	"seedPhrases_seedPhrase_reveal": "Reveal Seed Phrase",
 	"seedPhrases_seedPhrase_oneConnectedAccount": "Connected to 1 Account",
-	"seedPhrases_seedPhrase_multipleConnectedAccounts": "Connected to %d Accounts"
+	"seedPhrases_seedPhrase_multipleConnectedAccounts": "Connected to %d Accounts",
+	"seedPhrases_seedPhrase_confirmTitle": "Confirm Your Seed Phrase",
+	"seedPhrases_seedPhrase_confirmSubtitle": "Confirm you have written down the seed phrase by entering the missing words below."
 }
