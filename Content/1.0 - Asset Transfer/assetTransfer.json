@@ -22,5 +22,6 @@
 	"assetTransfer_fungibleResource_totalExceedsBalance": "Total exceeds your current balance",
 	"assetTransfer_fungibleResource_balance": "Balance: %@",
 	"assetTransfer_receivingAccount_chooseAccountButton": "Choose Account",
-	"assetTransfer_receivingAccount_addAssetsButton": "Add Assets"
+	"assetTransfer_receivingAccount_addAssetsButton": "Add Assets",
+	"assetTransfer_extraSignature_label": "You will be asked for an extra signature"
 }
