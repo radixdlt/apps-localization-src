@@ -7,5 +7,8 @@
 	"splash_incompatibleProfileVersionAlert_title": "Wallet Data is Incompatible",
 
 	"splash_passcodeCheckFailedAlert_title": "Warning",
-	"splash_passcodeCheckFailedAlert_message": "Passcode is not set up. Please update settings."
+	"splash_passcodeCheckFailedAlert_message": "Passcode is not set up. Please update settings.",
+
+	"splash_rootDetection_title": "Hey, this device looks rooted!  Don’t use the Wallet!",
+	"splash_rootDetection_acknowledgeButton": "I understand the risk"
 }
