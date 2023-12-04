@@ -8,8 +8,7 @@
     "accountRecoveryScan_inProgress_nameOfRecoveredAccount": "Unnamed",
     "accountRecoveryScan_inProgress_scanningNetwork": "Scanning network",
     "accountRecoveryScan_scanComplete_header_title": "Scan Complete",
-    "accountRecoveryScan_scanComplete_header_subtitle": "The following Accounts were found that have been included in at least one transaction:",
-    "accountRecoveryScan_scanComplete_theFirstNPotentialAccountWereScanned": "The first %d potential accounts from this signing factor were scanned.",
+    "accountRecoveryScan_scanComplete_theFirstNPotentialAccountWereScanned": "The first %d potential Accounts from this signing factor were scanned. The following Accounts had at least one transaction:",
     "accountRecoveryScan_scanComplete_scanNextBatchButton": "Tap here to scan the next %d",
     "accountRecoveryScan_scanComplete_continueButton": "Continue"
 }
