@@ -5,6 +5,7 @@
     "accountRecoveryScan_inProgress_factorSourceName_olympiaSeedPhrase": "**Olympia Seed Phrase**",
     "accountRecoveryScan_inProgress_factorSourceName_ledgerHardwareDevice": "**Ledger hardware wallet device**",
     "accountRecoveryScan_inProgress_factorSourceName_fallback": "Signing Factor",
+    "accountRecoveryScan_inProgress_nameOfRecoveredAccount": "Unnamed",
     "accountRecoveryScan_inProgress_scanningNetwork": "Scanning network",
     "accountRecoveryScan_scanComplete_header_title": "Scan Complete",
     "accountRecoveryScan_scanComplete_header_subtitle": "The following Accounts were found that have been included in at least one transaction:",
