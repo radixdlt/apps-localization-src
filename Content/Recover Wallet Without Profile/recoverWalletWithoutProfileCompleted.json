@@ -1,0 +1,5 @@
+{
+    "recoverWalletWithoutProfileComplete_header_title": "Recovery completed",
+    "recoverWalletWithoutProfileComplete_header_subtitle": "Accounts discovered in the scan have been added to your wallet.\n\nIf you have any Olympia or “Legacy” Accounts to import - or any Accounts using a Ledger hardware wallet device - please use the **Account Recovery Scan** option in your Radix Wallet settings under **Account Security**.",
+    "recoverWalletWithoutProfileComplete_continueButton": "Continue"
+}

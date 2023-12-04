@@ -1,0 +1,4 @@
+{
+    "accountRecoveryScan_selectInactiveAccounts_header_title": "Add Inactive Accounts?",
+    "accountRecoveryScan_selectInactiveAccounts_header_subtitle": "These Accounts were never used, but you *may* have created them. Check and addresses that you wish to keep:",
+    "accountRecoveryScan_selectInactiveAccounts_continueButton": "Continue"
