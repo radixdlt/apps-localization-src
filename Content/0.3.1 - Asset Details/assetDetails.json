@@ -14,6 +14,7 @@
 	"assetDetails_NFTDetails_whatAreNfts": "What are NFTs?",
 	"assetDetails_NFTDetails_id": "ID",
 	"assetDetails_NFTDetails_name": "Name",
+	"assetDetails_NFTDetails_complexData": "complex data",
 	"assetDetails_NFTDetails_resourceName": "Name",
 	"assetDetails_NFTDetails_nftPlural": "%d NFTs",
 	"assetDetails_NFTDetails_ownedOfTotal": "%d NFTs of total supply %d",
