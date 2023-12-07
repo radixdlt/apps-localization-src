@@ -19,5 +19,7 @@
 	"common_public": "Public",
 	"common_choose": "Choose",
 	"common_max": "Max",
-	"common_optional": "Optional"
+	"common_optional": "Optional",
+	"common_showMore": "Show More",
+	"common_showLess": "Show Less"
 }
