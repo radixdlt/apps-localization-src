@@ -1,0 +1,5 @@
+{
+    "recoverWalletWithoutProfileInfo_header_title": "Recover Control Without Backup",
+    "recoverWalletWithoutProfileInfo_header_subtitle": "**If you have no wallet backup in the cloud or as an exported backup file**, you can still restore Account access only using your main “Babylon” seed phrase. You cannot recover your Account names or other wallet settings this way.\n\nYou will be asked to enter your main seed phrase. This is a set of **24 words** that the Radix Wallet mobile app showed you to write down and save securely.",
+    "recoverWalletWithoutProfileInfo_continueButton": "Continue"
+}

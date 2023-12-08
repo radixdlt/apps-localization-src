@@ -1,0 +1,14 @@
+{
+    "accountRecoveryScan_inProgress_header_title": "Scanning in progress",
+    "accountRecoveryScan_inProgress_header_subtitle": "Scanning for Accounts that have been included in at least on transaction, using:",
+    "accountRecoveryScan_inProgress_factorSourceName_babylonSeedPhrase": "**Babylon Seed Phrase**",
+    "accountRecoveryScan_inProgress_factorSourceName_olympiaSeedPhrase": "**Olympia Seed Phrase**",
+    "accountRecoveryScan_inProgress_factorSourceName_ledgerHardwareDevice": "**Ledger hardware wallet device**",
+    "accountRecoveryScan_inProgress_factorSourceName_fallback": "Signing Factor",
+    "accountRecoveryScan_inProgress_nameOfRecoveredAccount": "Unnamed",
+    "accountRecoveryScan_inProgress_scanningNetwork": "Scanning network",
+    "accountRecoveryScan_scanComplete_header_title": "Scan Complete",
+    "accountRecoveryScan_scanComplete_theFirstNPotentialAccountWereScanned": "The first **%d** potential Accounts from this signing factor were scanned. The following Accounts had at least one transaction:",
+    "accountRecoveryScan_scanComplete_scanNextBatchButton": "Tap here to scan the next %d",
+    "accountRecoveryScan_scanComplete_continueButton": "Continue"
+}
