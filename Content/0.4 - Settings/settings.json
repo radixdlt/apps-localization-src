@@ -21,5 +21,8 @@
 	"settings_linkToConnectorHeader_linkToConnector": "Link to Connector",
 	"settings_importFromLegacyWalletHeader_title": "Radix Olympia Desktop Wallet user?",
 	"settings_importFromLegacyWalletHeader_subtitle": "Get started importing your Olympia accounts into your new Radix Wallet",
-	"settings_importFromLegacyWalletHeader_importLegacyAccounts": "Import Legacy Accounts"
+	"settings_importFromLegacyWalletHeader_importLegacyAccounts": "Import Legacy Accounts",
+	"settings_accountRecovery": "Account Recovery Scan",
+	"settings_accountRecovery_subtitle": "Using seed phrase or Ledger device"
+
 }
