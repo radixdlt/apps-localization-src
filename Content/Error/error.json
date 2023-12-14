@@ -25,5 +25,6 @@
 	"error_transactionFailure_submit": "Failed to submit transaction",
 	"error_personaLabel_tooLong": "Persona label too long",
 	"error_accountLabel_tooLong": "Account label too long",
-	"error_accountLabel_missing": "Account label required"
+	"error_accountLabel_missing": "Account label required",
+	"error_transactionFailure_doesNotAllowThirdPartyDeposits": "One of the receiving accounts does not allow Third-Party deposits"
 }
