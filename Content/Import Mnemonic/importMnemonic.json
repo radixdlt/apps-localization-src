@@ -26,7 +26,7 @@
 	"importMnemonic_offDevice_saveWithDescription": "Save with description",
 	"importMnemonic_offDevice_saveWithoutDescription": "Save without description",
 	"importMnemonic_shieldPrompt_enterSeedPhrase": "Enter this Account's seed phrase",
-	"importMnemonic_shieldPrompt_backupSeedPhrase": "Backup this Account's seed phrase",
+	"importMnemonic_shieldPrompt_backupSeedPhrase": "Please write down this Account's seed phrase",
 	"importMnemonic_tempAndroid_changeSeedPhrase": "Change seed phrase length",
 	"importMnemonic_tempAndroid_seedLength": "%d word seed phrase",
 	"importMnemonic_tempAndroid_heading": "Recover Mnemonic"
