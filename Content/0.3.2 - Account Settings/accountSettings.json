@@ -12,6 +12,7 @@
 	"accountSettings_setBehaviorHeading": "Set how you want this Account to work",
 	"accountSettings_thirdPartyDeposits": "Third-party Deposits",
 	"accountSettings_hideAccount": "Hide Account",
+	"accountSettings_accountHidden": "Account Hidden",
 	"accountSettings_getXrdTestTokens": "Get XRD Test Tokens",
 	"accountSettings_loadingPrompt": "This may take several seconds, please wait for completion",
 

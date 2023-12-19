@@ -1,0 +1,19 @@
+{
+	"derivePublicKeys_createAccount_title": "Creating Account",
+	"derivePublicKeys_createAccount_subtitle": "Deriving public keys",
+
+	"derivePublicKeys_createPersona_title": "Creating Persona",
+	"derivePublicKeys_createPersona_subtitle": "Authenticate to your phone to complete using your phone’s signing key.",
+
+	"derivePublicKeys_importLegacyAccount_title": "Deriving Accounts",
+	"derivePublicKeys_importLegacyAccount_subtitle": "Authenticate to your phone to complete using your phone’s signing key.",
+
+	"derivePublicKeys_accountRecoveryScan_title": "Deriving Accounts",
+	"derivePublicKeys_accountRecoveryScan_subtitle": "Authenticate to your phone to complete using your phone’s signing key.",
+
+	"derivePublicKeys_createAuthSignKeyForAccount_title": "Creating Key",
+	"derivePublicKeys_createAuthSignKeyForAccount_subtitle": "Authenticate to your phone to complete using your phone’s signing key.",
+
+	"derivePublicKeys_createAuthSignKeyForPersona_title": "Creating Key",
+	"derivePublicKeys_createAuthSignKeyForPersona_subtitle": "Authenticate to your phone to complete using your phone’s signing key."
+}
