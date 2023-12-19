@@ -11,6 +11,7 @@
 	"authorizedDapps_dAppDetails_personasHeading": "Here are the Personas that you have used to login to this dApp.",
 	"authorizedDapps_dAppDetails_noPersonasHeading": "No Personas have been used to login to this dApp.",
 	"authorizedDapps_dAppDetails_forgetDapp": "Forget this dApp",
+	"authorizedDapps_personaDetails_personaHidden": "Persona Hidden",
 	"authorizedDapps_personaDetails_editAvatarButtonTitle": "Edit Avatar",
 	"authorizedDapps_personaDetails_personaLabelHeading": "Persona Label",
 	"authorizedDapps_personaDetails_personalDataSharingDescription": "Here is the personal data that you are sharing with %s.",

@@ -14,6 +14,5 @@
 	"createPersona_nameNewPersona_placeholder": "e.g. My Main Persona",
 	"createPersona_nameNewPersona_continue": "Continue",
 	"createPersona_requiredField": "Required field",
-	"createPersona_derivePublicKeys_title": "Creating Persona",
 	"createPersona_saveAndContinueButtonTitle": "Save and Continue"
 }

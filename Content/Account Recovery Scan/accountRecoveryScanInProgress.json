@@ -1,6 +1,6 @@
 {
     "accountRecoveryScan_inProgress_headerTitle": "Scanning in progress",
-    "accountRecoveryScan_inProgress_headerSubtitle": "Scanning for Accounts that have been included in at least on transaction, using:",
+    "accountRecoveryScan_inProgress_headerSubtitle": "Scanning for Accounts that have been included in at least one transaction, using:",
     "accountRecoveryScan_inProgress_factorSourceBabylonSeedPhrase": "**Babylon Seed Phrase**",
     "accountRecoveryScan_inProgress_factorSourceOlympiaSeedPhrase": "**Olympia Seed Phrase**",
     "accountRecoveryScan_inProgress_factorSourceLedgerHardwareDevice": "**Ledger hardware wallet device**",

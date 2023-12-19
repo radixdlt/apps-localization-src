@@ -1,0 +1,11 @@
+{
+	"derivePublicKeys_titleCreateAccount": "Creating Account",
+	"derivePublicKeys_titleCreatePersona": "Creating Persona",
+	"derivePublicKeys_titleImportLegacyAccount": "Deriving Accounts",
+	"derivePublicKeys_titleAccountRecoveryScan": "Deriving Accounts",
+	"derivePublicKeys_titleCreateAuthSignKeyForAccount": "Creating Key",
+	"derivePublicKeys_titleCreateAuthSignKeyForPersona": "Creating Key",
+
+	"derivePublicKeys_subtitleDevice": "Authenticate to your phone to sign.",
+	"derivePublicKeys_subtitleLedger": "Make sure the following **Ledger hardware wallet device** is connected to a computer with a linked Radix Connector browser extension. Complete signing on the device."
+}
