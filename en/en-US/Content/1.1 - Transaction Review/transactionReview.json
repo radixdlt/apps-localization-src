@@ -1,5 +1,6 @@
 {
 	"transactionReview_title": "Review Your Transaction",
+	"transactionReview_proposingDappSubtitle": "Proposed by %s",
 	"transactionReview_transferTitle": "Review Your Transfer",
 	"transactionReview_approveButtonTitle": "Approve",
 	"transactionReview_customizeGuaranteesButtonTitle": "Customize Guarantees",
