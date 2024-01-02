@@ -2,13 +2,21 @@
 	"account_transfer": "Transfer",
 	"account_tokens": "Tokens",
 	"account_nfts": "NFTs",
+	
+	"account_staking": "Staking",
+	"account_staking_lsuResourceHeader": "Radix Network XRD Stake Summary",
+	"account_staking_stakedValidators": "STAKED VALIDATORS (%d)",
+	"account_staking_unstaking": "Unstaking",
+	"account_staking_readyToClaim": "Ready to Claim",
+	"account_staking_readyToBeClaimed": "Ready to be claimed",
+	"account_staking_staked": "Staked",
+	"account_staking_liquidStakeUnits": "Liquid Stake Units",
+	"account_staking_stakeClaimNFTs": "Stake Claim NFTs",
+	"account_staking_worth": "WORTH",
+	"account_staking_claim": "Claim",
 
 	"account_poolUnits": "Pool Units",
-	"account_poolUnits_lsuResourceHeader": "Radix Network XRD Stake",
-	"account_poolUnits_unstaking": "Unstaking",
-	"account_poolUnits_readyToClaim": "Ready to Claim",
-	"account_poolUnits_liquidStakeUnits": "LIQUID STAKE UNITS",
-	"account_poolUnits_staked": "Staked",
+	
 	"account_poolUnits_stakeClaimNFTs": "STAKE CLAIM NFTS",
 	"account_poolUnits_numberOfStakes": "%d Stakes",
 
