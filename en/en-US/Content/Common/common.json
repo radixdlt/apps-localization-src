@@ -21,5 +21,7 @@
 	"common_max": "Max",
 	"common_optional": "Optional",
 	"common_showMore": "Show More",
-	"common_showLess": "Show Less"
+	"common_showLess": "Show Less",
+	"common_component": "Component",
+	"common_unauthorized": "Unauthorized"
 }
