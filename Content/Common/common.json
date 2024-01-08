@@ -23,5 +23,6 @@
 	"common_showMore": "Show More",
 	"common_showLess": "Show Less",
 	"common_component": "Component",
-	"common_unauthorized": "Unauthorized"
+	"common_unauthorized": "Unauthorized",
+	"common_rateLimitReached": "Too many requests. Blocked due to rate limiting."
 }
