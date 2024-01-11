@@ -24,5 +24,5 @@
 	"common_showLess": "Show Less",
 	"common_component": "Component",
 	"common_unauthorized": "Unauthorized",
-	"common_rateLimitReached": "Too many requests. Blocked due to rate limiting."
+	"common_rateLimitReached": "Gateway access blocked due to exceeding rate limit. Please wait a few minutes to retry."
 }
