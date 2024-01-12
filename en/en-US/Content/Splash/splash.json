@@ -1,5 +1,5 @@
 {
-	"splash_tapAnywhereToUnlock": "Tap anywhere to unlock?",
+	"splash_tapAnywhereToUnlock": "Tap to unlock",
 	"splash_passcodeNotSetTitle": "Passcode not set up",
 	"splash_passcodeNotSetMessage": "This app requires your phone to have a passcode set up",
 	"splash_incompatibleProfileVersionAlert_delete": "Delete Wallet Data",
