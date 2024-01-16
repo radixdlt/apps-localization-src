@@ -58,5 +58,8 @@
 	"transactionReview_toBeClaimed": "TO BE CLAIMED",
 	"transactionReview_validators_stake": "Staking to Validators",
 	"transactionReview_validators_unstake": "Requesting unstake from validators",
-	"transactionReview_validators_claim": "Claim from validators"
+	"transactionReview_validators_claim": "Claim from validators",
+	"transactionReview_poolContributionHeading": "Contributing to pools",
+	"transactionReview_poolRedemptionHeading": "Redeeming from pools",
+	"transactionReview_poolName_unknown": "Unknown pool"
 }
