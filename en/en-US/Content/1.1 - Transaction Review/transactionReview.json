@@ -63,5 +63,6 @@
 	"transactionReview_validators_claim": "Claim from validators",
 	"transactionReview_poolContributionHeading": "Contributing to pools",
 	"transactionReview_poolRedemptionHeading": "Redeeming from pools",
-	"transactionReview_poolName_unknown": "Unknown pool"
+	"transactionReview_poolName_unknown": "Unknown pool",
+	"transactionReview_nonConformingManifestWarning_title": "This is a complex transaction that cannot be summarized - the raw transaction manifest will be shown. Do not submit unless you understand the contents."
 }
