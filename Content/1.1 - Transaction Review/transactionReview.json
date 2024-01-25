@@ -12,7 +12,7 @@
 	"transactionReview_unnamedDapp": "Unnamed dApp",
 	"transactionReview_worth": "Worth",
 	"transactionReview_toBeClaimed": "To be claimed",
-	"transactionReview_poolName_unknown": "Unknown pool",
+	"transactionReview_poolNameUnknown": "Unknown pool",
 	"transactionReview_unknownComponents": "%d Unknown Components",
 	"transactionReview_unknownPools": "%d Pool Components",
 	"transactionReview_poolUnits": "Pool Units",
