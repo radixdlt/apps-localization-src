@@ -15,7 +15,6 @@
 	"transactionReview_poolName_unknown": "Unknown pool",
 	"transactionReview_unknownComponents": "%d Unknown Components",
 	"transactionReview_unknownPools": "%d Pool Components",
-	"transactionReview_unknownValidators": "%d Unknown Validators",
 	"transactionReview_poolUnits": "Pool Units",
 	"transactionReview_slideToSign": "Slide to Sign",
 	"transactionReview_xrdAmount": "%s XRD",
