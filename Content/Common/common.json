@@ -27,5 +27,7 @@
 	"common_component": "Component",
 	"common_unauthorized": "Unauthorized",
 	"common_rateLimitReached": "Gateway access blocked due to exceeding rate limit. Please wait a few minutes to retry.",
-	"common_badHttpResponseStatusCode": "Bad HTTP response status code %d"
+	"common_badHttpResponseStatusCode": "Bad HTTP response status code %d",
+	"common_worth": "Worth",
+    "common_unknown": "Unknown"
 }
