@@ -31,5 +31,6 @@
     "accountHistory_failedTransaction": "Failed Transaction",
     "accountHistory_empty": "You have no Transactions.",
 	"accountHistory_worth": "Worth",
-	"accountHistory_unknown": "Unknown"
+	"accountHistory_unknown": "Unknown",
+	"accountHistory_poolUnits": "Pool Units"
 }
