@@ -29,5 +29,7 @@
 	"transactionHistory_filters_depositsType": "Deposits",
 	"transactionHistory_filters_withdrawalsType": "Withdrawals",
 	"transactionHistory_filters_assetTypeNFTsLabel": "NFTs",
-	"transactionHistory_filters_transactionTypeLabel": "Type of Transaction"
+	"transactionHistory_filters_transactionTypeLabel": "Type of Transaction",
+	"transactionHistory_datePrefix_today": "Today",
+  	"transactionHistory_datePrefix_yesterday": "Yesterday"
 }
