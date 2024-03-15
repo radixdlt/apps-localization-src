@@ -14,5 +14,5 @@
 	"transactionStatus_dismissDialog_message": "Stop waiting for transaction result? The transaction will not be canceled.",
 	"transactionStatus_dismissalDisabledDialog_title": "Dismiss",
 	"transactionStatus_dismissalDisabledDialog_text": "This transaction requires to be completed",
-	"transactionStatus_assertionFailure_text": "Transaction failed because a guarantee on transaction results was not met. Consider reducing your preferred guarantee %"
+	"transactionStatus_assertionFailure_text": "Transaction failed because a guarantee on transaction results was not met. Consider reducing your preferred guarantee %%"
 }
