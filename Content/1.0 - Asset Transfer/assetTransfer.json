@@ -22,7 +22,7 @@
 	"assetTransfer_fungibleResource_totalExceedsBalance": "Total exceeds your current balance",
 	"assetTransfer_fungibleResource_balance": "Balance: %@",
 	"assetTransfer_receivingAccount_chooseAccountButton": "Choose Account",
-	"assetTransfer_receivingAccount_addAssetsButton": "Add Assets",
+	"assetTransfer_receivingAccount_addAssetsButton": "+ Add Assets",
 	"assetTransfer_error_wrongNetwork": "Address is not valid on current network",
 	"assetTransfer_error_resourceAlreadyAdded": "Resource already added",
 	"assetTransfer_error_insufficientBalance": "Total amount exceeds your current balance",
