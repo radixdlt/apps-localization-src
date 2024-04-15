@@ -10,5 +10,5 @@
 	"factorSourceActions_device_message": "Authenticate to your phone to complete using your phone's signing key.",
 	"factorSourceActions_ledger_messageSignature": "Make sure the following **Ledger hardware wallet** is connected to a computer with a linked Radix Connector browser extension.\n**Complete signing on the device.**",
 	"factorSourceActions_ledger_messageDeriveAccounts": "Make sure the following **Ledger hardware wallet** is connected to a computer with a linked Radix Connector browser extension.\n**Derivation may take up to a minute.**",
-	"factorSourceActions_ledger_message": "Make sure the following **Ledger hardware wallet** is connected to a computer with a linked Radix Connector browser extension.",
+	"factorSourceActions_ledger_message": "Make sure the following **Ledger hardware wallet** is connected to a computer with a linked Radix Connector browser extension."
 }
