@@ -1,0 +1,7 @@
+{
+	"factorSources_kind_device": "Phone",
+	"factorSources_kind_ledgerHQHardwareWallet": "Ledger",
+	"factorSources_kind_offDeviceMnemonic": "Seed phrase",
+	"factorSources_kind_trustedContact": "Third-party",
+	"factorSources_kind_securityQuestions": "Security Questions"
+}
