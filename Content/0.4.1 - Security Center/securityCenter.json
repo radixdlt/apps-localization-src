@@ -46,7 +46,7 @@
 	"securityCenter_configurationBackup_securityFactorsSubtitle": "The list of Security Factors you need to recover your Accounts and Personas.",
 	"securityCenter_configurationBackup_walletSettingsItem": "Wallet settings",
 	"securityCenter_configurationBackup_walletSettingsSubtitle": "Your general settings, such as trusted dApps, linked Connectors and wallet display settings.",
-	"securityCenter_configurationBackup_automatedBackupsWarning": "Without an updated Configuration Backup, you won't be able to recover your Accounts and Personas.",
+	"securityCenter_configurationBackup_automatedBackupsWarning": "Without an updated Configuration Backup, you cannot recover your Accounts and Personas.",
 	"securityCenter_configurationBackup_manualBackupHeading": "Manual backup.",
 	"securityCenter_configurationBackup_manualBackupSubtitle": "You can export your own Configuration Backup file and save it locally",
 	"securityCenter_configurationBackup_manualBackupExportButton": "Export Backup File",
