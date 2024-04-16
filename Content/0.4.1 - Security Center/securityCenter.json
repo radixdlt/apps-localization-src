@@ -13,12 +13,16 @@
 	"securityCenter_subStatus_problem7": "Accounts and Personas not recoverable. Create Configuration Backup now.",
 	"securityCenter_subStatus_problem3": "View and write down your seed phrase so Accounts and Personas are recoverable",
 
-	"securityCenter_itemStatus_active": "Active",
-	"securityCenter_itemStatus_actionRequired": "Action required",
 	"securityCenter_securityFactorsItem_title": "Security Factors",
 	"securityCenter_securityFactorsItem_subtitle": "The keys you use to control your Accounts and Personas",
+	"securityCenter_securityFactorsItem_activeStatus": "Active",
+	"securityCenter_securityFactorsItem_actionRequiredStatus": "Action required",
+
 	"securityCenter_configurationBackupItem_title": "Configuration Backup",
 	"securityCenter_configurationBackupItem_subtitle": "A Backup of your Account, Persona and wallet settings",
+	"securityCenter_configurationBackupItem_backedUpStatus": "Backed up",
+	"securityCenter_configurationBackupItem_actionRequiredStatus": "Action required",
+
 	"securityCenter_securityFactors_title": "Security Factors",
 	"securityCenter_securityFactors_subtitle": "View and manage your security factors",
 	"securityCenter_securityFactors_seedPhrasesTitle": "Seed Phrases",
