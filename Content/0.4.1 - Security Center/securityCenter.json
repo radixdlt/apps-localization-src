@@ -5,7 +5,7 @@
 	"securityCenter_status_recoverable": "Your wallet is recoverable",
 	"securityCenter_status_recoveryRequired": "Recovery required",
 	"securityCenter_status_notRecoverable": "Your wallet is not recoverable",
-	"securityCenter_status_accountsAndOrPersonasNotRecoverable": "%d Account(s) and %d Persona(s) are/is not recoverable",
+	"securityCenter_status_entitiesNotRecoverable": "%d Account(s) and %d Persona(s) are/is not recoverable",
 
 	"securityCenter_subStatus_problem9": "Enter seed phrase to begin recovery",
 	"securityCenter_subStatus_problem6": "Configuration Backup is not up to date. Create backup now.",
@@ -16,12 +16,12 @@
 	"securityCenter_securityFactorsItem_title": "Security Factors",
 	"securityCenter_securityFactorsItem_subtitle": "The keys you use to control your Accounts and Personas",
 	"securityCenter_securityFactorsItem_activeStatus": "Active",
-	"securityCenter_securityFactorsItem_actionRequiredStatus": "Action required",
 
 	"securityCenter_configurationBackupItem_title": "Configuration Backup",
 	"securityCenter_configurationBackupItem_subtitle": "A Backup of your Account, Persona and wallet settings",
 	"securityCenter_configurationBackupItem_backedUpStatus": "Backed up",
-	"securityCenter_configurationBackupItem_actionRequiredStatus": "Action required",
+
+	"securityCenter_anyItem_actionRequiredStatus": "Action required",
 
 	"securityCenter_securityFactors_title": "Security Factors",
 	"securityCenter_securityFactors_subtitle": "View and manage your security factors",
