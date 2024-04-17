@@ -23,17 +23,6 @@
 
 	"securityCenter_anyItem_actionRequiredStatus": "Action required",
 
-	"securityCenter_securityFactors_title": "Security Factors",
-	"securityCenter_securityFactors_subtitle": "View and manage your security factors",
-	"securityCenter_securityFactors_seedPhrasesTitle": "Seed Phrases",
-	"securityCenter_securityFactors_seedPhrasesSubtitle": "Your seedphrases connected to your account",
-	"securityCenter_securityFactors_seedPhrasesCounterSingular": "1 Seed phrase",
-	"securityCenter_securityFactors_seedPhrasesCounterPlural": "%d Seed phrases",
-	"securityCenter_securityFactors_seedPhrasesEnterSeedPhrase": "Enter your seed phrase to recover Accounts",
-	"securityCenter_securityFactors_ledgerWalletTitle": "Ledger Hardware Wallet",
-	"securityCenter_securityFactors_ledgerWalletSubtitle": "Hardware wallet designed for holding crypto",
-	"securityCenter_securityFactors_ledgerWalletCounterSingular": "1 set",
-	"securityCenter_securityFactors_ledgerWalletCounterPlural": "%d set",
 	"securityCenter_configurationBackup_title": "Configuration Backup",
 	"securityCenter_configurationBackup_subtitle": "You need an up-to-date Configuration Backup to recover your Accounts and Personas if you lose access to them.\n\nYour Backup does not contain your keys or seed phrase.",
 	"securityCenter_configurationBackup_backupsToggleICloud": "Automated iCloud Backups",
