@@ -14,7 +14,7 @@
     "walletSettings_troubleshooting_title": "Troubleshooting",
     "walletSettings_troubleshooting_subtitle": "Add your existing Accounts and contact support",
     "walletSettings_appVersion": "App version: %@",
-    "walletSettings_linkToConnectorHeader_title": "Link your Wallet to a Desktop Browser",
+    "walletSettings_linkToConnectorHeader_title": "Link your Wallet to a desktop browser",
     "walletSettings_linkToConnectorHeader_subtitle": "Scan the QR code in the Radix Wallet Connector extension",
     "walletSettings_linkToConnectorHeader_button": "Link to Connector"
 }
