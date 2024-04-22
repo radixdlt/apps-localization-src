@@ -1,0 +1,10 @@
+{
+    "accountAddress_qrCode": "Address QR Code",
+    "accountAddress_fullAddress": "Full address",
+    "accountAddress_copy": "Copy",
+    "accountAddress_enlarge": "Enlarge",
+    "accountAddress_share": "Share",
+    "accountAddress_viewOnDashboard": "View on Radix Dashboard",
+    "accountAddress_copiedToClipboard": "Copied to Clipboard",
+    "accountAddress_qrCodeFailure": "Could not create QR code"
+}
