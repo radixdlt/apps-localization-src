@@ -19,7 +19,7 @@
 	"transactionReview_slideToSign": "Slide to Sign",
 	"transactionReview_xrdAmount": "%s XRD",
 	"transactionReview_insufficientBalance": "Insufficient Balance",
-	"transactionReview_feePayerRequiredMessage": "Fee Payer account required",
+	"transactionReview_feePayerRequiredMessage": "Fee payer account required",
 	"transactionReview_withdrawalsHeading": "Withdrawing From",
 	"transactionReview_depositsHeading": "Depositing To",
 	"transactionReview_sendingToHeading": "Sending to",
@@ -33,7 +33,6 @@
 	"transactionReview_claimFromValidatorsHeading": "Claim from validators",
 	"transactionReview_poolContributionHeading": "Contributing to pools",
 	"transactionReview_poolRedemptionHeading": "Redeeming from pools",
-
 	"transactionReview_networkFee_heading": "Transaction Fee",
 	"transactionReview_networkFee_congestedText": "The network is currently congested. Add a tip to speed up your transfer.",
 	"transactionReview_networkFee_customizeButtonTitle": "Customize",
