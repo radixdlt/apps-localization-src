@@ -19,5 +19,12 @@
 	"linkedConnectors_localNetworkPermissionDeniedAlert_title": "Access Required",
 	"linkedConnectors_localNetworkPermissionDeniedAlert_message": "Local network access is required to link to a Connector.",
 	"linkedConnectors_incorrectQrTitle": "Incorrect QR code scanned.",
-	"linkedConnectors_incorrectQrMessage": "Please scan the QR code provided by your Radix Wallet Connector browser extension."
+	"linkedConnectors_incorrectQrMessage": "Please scan the QR code provided by your Radix Wallet Connector browser extension.",
+	"linkedConnectors_approveNewConnector_title": "Link Connector",
+	"linkedConnectors_approveExistingConnector_title": "Update Link",
+	"linkedConnectors_approveNewConnector_message": "This Connector will be trusted to verify the dApp origin of requests to this wallet.\n\nOnly continue if you are linking to the **official Radix Connector browser extension** - or a Connector you control and trust.",
+	"linkedConnectors_approveExistingConnector_message": "This appears to be a Radix Connector you previously linked to. Link will be updated.",
+	"linkedConnectors_linkFailedErrorTitle": "Link Failed",
+	"linkedConnectors_unknownPurposeErrorMessage": "This type of Connector link is not supported.",
+	"linkedConnectors_changingPurposeNotSupportedErrorMessage": "Changing a Connector’s type is not supported."
 }
