@@ -1,0 +1,7 @@
+{
+	"timeFormatting_today": "Today",
+	"timeFormatting_yesterday": "Yesterday",
+	"timeFormatting_tomorrow": "Tomorrow",
+	"timeFormatting_ago": "%@ ago",
+	"timeFormatting_justNow": "Just now"
+}
