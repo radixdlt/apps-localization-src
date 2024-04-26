@@ -1,10 +1,10 @@
 {
-    "addressDetails_qrCode": "Address QR Code",
-    "addressDetails_fullAddress": "Full address",
-    "addressDetails_copy": "Copy",
-    "addressDetails_enlarge": "Enlarge",
-    "addressDetails_share": "Share",
-    "addressDetails_viewOnDashboard": "View on Radix Dashboard",
-    "addressDetails_verifyOnLedger": "Verify Address on Ledger Device",
-    "addressDetails_qrCodeFailure": "Could not create QR code"
+	"addressDetails_qrCode": "Address QR Code",
+	"addressDetails_fullAddress": "Full address",
+	"addressDetails_copy": "Copy",
+	"addressDetails_enlarge": "Enlarge",
+	"addressDetails_share": "Share",
+	"addressDetails_viewOnDashboard": "View on Radix Dashboard",
+	"addressDetails_verifyOnLedger": "Verify Address on Ledger Device",
+	"addressDetails_qrCodeFailure": "Could not create QR code"
 }
