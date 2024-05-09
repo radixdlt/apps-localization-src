@@ -29,5 +29,5 @@
 	"customizeNetworkFees_tipFieldLabel": "Adjust Tip to Lock",
 	"customizeNetworkFees_tipFieldInfo": "(%% of Execution + Finalization Fees)",
 	"customizeNetworkFees_warning_selectFeePayer": "Please select a fee payer for the transaction fee",
-	"customizeNetworkFees_warning_insufficientBalance": "Insufficient balance to pay the transaction fee"
+	"customizeNetworkFees_warning_insufficientBalance": "Not enough XRD for transaction fee"
 }
