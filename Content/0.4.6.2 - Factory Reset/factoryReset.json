@@ -1,0 +1,12 @@
+{
+    "factoryReset_title": "Factory Reset",
+	"factoryReset_message": "A factory reset will restore your Radix wallet to its original settings. All of your data and preferences will be erased.",
+	"factoryReset_status": "Security Center status",
+	"factoryReset_recoverable": "Your wallet is recoverable",
+	"factoryReset_unrecoverable_title": "Your wallet is not recoverable",
+	"factoryReset_unrecoverable_message": "Your wallet is currently unrecoverable. If you do a factory reset now, you will never be able to access your Accounts and Personas again.",
+	"factoryReset_disclosure": "Once you’ve completed a factory reset, you will not be able to access your Accounts and Personas unless you do a full recovery.",
+	"factoryReset_resetWallet": "Reset Wallet",
+	"factoryReset_dialog_title": "Confirm factory reset",
+	"factoryReset_dialog_message": "Return wallet to factory settings? You cannot undo this."
+}
