@@ -25,6 +25,5 @@
 	"configurationBackup_manual_heading": "Manual backup",
 	"configurationBackup_manual_text": "You can export your own Configuration Backup file and save it locally",
 	"configurationBackup_manual_warning": "You’ll need to export a new Backup file each time you make a change in your wallet.",
-	"configurationBackup_manual_exportButton": "Export Backup File",
-	"configurationBackup_manual_lastBackup": "Last backup: %@"
+	"configurationBackup_manual_exportButton": "Export Backup File"
 }
