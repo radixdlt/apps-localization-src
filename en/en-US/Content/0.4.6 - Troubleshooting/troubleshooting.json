@@ -9,5 +9,8 @@
     "troubleshooting_contactSupport_title": "Contact Support",
     "troubleshooting_contactSupport_subtitle": "Connect directly with the Radix support team",
     "troubleshooting_discord_title": "Discord",
-    "troubleshooting_discord_subtitle": "Connect to the official Radix Discord channel to join the community and ask for help."
+    "troubleshooting_discord_subtitle": "Connect to the official Radix Discord channel to join the community and ask for help.",
+    "troubleshooting_resetAccount": "Reset Account",
+    "troubleshooting_factoryReset_title": "Factory Reset",
+    "troubleshooting_factoryReset_subtitle": "Restore your Radix wallet to its original state"
 }
