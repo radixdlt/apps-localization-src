@@ -26,5 +26,6 @@
 	"linkedConnectors_approveExistingConnector_message": "This appears to be a Radix Connector you previously linked to. Link will be updated.",
 	"linkedConnectors_linkFailedErrorTitle": "Link Failed",
 	"linkedConnectors_unknownPurposeErrorMessage": "This type of Connector link is not supported.",
-	"linkedConnectors_changingPurposeNotSupportedErrorMessage": "Changing a Connector’s type is not supported."
+	"linkedConnectors_changingPurposeNotSupportedErrorMessage": "Changing a Connector’s type is not supported.",
+	"linkedConnectors_oldQRErrorMessage": "This is an old version of the Radix Connector browser extension. Please update to the latest Connector and try linking again."
 }
