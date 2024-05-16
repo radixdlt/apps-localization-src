@@ -20,8 +20,8 @@
 	"onboarding_cloudAndroid_skip": "Skip",
 	"onboarding_cloudAndroid_backupButton": "Back up to Google Drive",
 
-	"onboarding_cloudAndroidRestore_BackupTitle": "Restore wallet from backup",
-	"onboarding_cloudAndroidRestore_BackupSubtitle": "Log in to Google Drive to restore your Radix Wallet from backup.",
-	"onboarding_cloudAndroidRestore_Skip": "Skip",
-	"onboarding_cloudAndroidRestore_LoginButton": "Log in to Google Drive"
+	"onboarding_cloudRestoreAndroid_backupTitle": "Restore wallet from backup",
+	"onboarding_cloudRestoreAndroid_backupSubtitle": "Log in to Google Drive to restore your Radix Wallet from backup.",
+	"onboarding_cloudRestoreAndroid_skip": "Skip",
+	"onboarding_cloudRestoreAndroid_loginButton": "Log in to Google Drive"
 }
