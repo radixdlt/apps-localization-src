@@ -9,5 +9,13 @@
 	"onboarding_step3_subtitle": "Connect and transact securely with a world of web3 dApps, tokens, NFTs, and much more",
 	"onboarding_eula_headerTitle": "User Terms",
 	"onboarding_eula_headerSubtitle": "To proceed, you must accept the user terms below.",
-	"onboarding_eula_accept": "Accept"
+	"onboarding_eula_accept": "Accept",
+	"onboarding_cloudAndroid_backupTitle": "Back up your wallet settings",
+	"onboarding_cloudAndroid_backupSubtitle": "Connect to Google Drive to automatically backup your Radix wallet settings.",
+	"onboarding_cloudAndroid_skip": "Skip",
+	"onboarding_cloudAndroid_backupButton": "Back up to Google Drive",
+	"onboarding_cloudAndroidRestore_BackupTitle": "Restore wallet from backup",
+	"onboarding_cloudAndroidRestore_BackupSubtitle": "Log in to Google Drive to restore your Radix Wallet from backup.",
+	"onboarding_cloudAndroidRestore_Skip": "Skip",
+	"onboarding_cloudAndroidRestore_LoginButton": "Log in to Google Drive"
 }
