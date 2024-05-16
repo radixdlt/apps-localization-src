@@ -31,5 +31,5 @@
 	"linkedConnectors_relinkConnectors_title": "Re-link Connector",
 	"linkedConnectors_relinkConnectors_afterUpdateMessage" : "Radix Connector now supports linking multiple phones with one browser.\n\nTo support this feature, we've had to disconnect your existing links – **please re-link your Connector(s).**"
 	"linkedConnectors_relinkConnectors_afterProfileRestoreMessage": "Any Connectors you had linked to this wallet using a different phone have been disconnected\n\n**Please re-link your Connector(s) to use with this phone.**",
-	"linkedConnectors_relinkConnectors_laterBtn": "Later"
+	"linkedConnectors_relinkConnectors_laterButton": "Later"
 }
