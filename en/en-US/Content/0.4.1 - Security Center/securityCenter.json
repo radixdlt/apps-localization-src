@@ -16,7 +16,7 @@
 	"securityCenter_securityFactorsItem_subtitle": "The keys you use to control your Accounts and Personas",
 	"securityCenter_securityFactorsItem_activeStatus": "Active",
 	"securityCenter_configurationBackupItem_title": "Configuration Backup",
-	"securityCenter_configurationBackupItem_subtitle": "A Backup of your Account, Persona and wallet settings",
+	"securityCenter_configurationBackupItem_subtitle": "A backup of your Account, Personas and wallet settings",
 	"securityCenter_configurationBackupItem_backedUpStatus": "Backed up",
 	"securityCenter_anyItem_actionRequiredStatus": "Action required",
 	"securityCenter_encryptWalletBackup_title": "Encrypt Wallet Backup File",
