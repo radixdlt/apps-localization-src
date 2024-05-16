@@ -6,7 +6,7 @@
 	"securityFactors_seedPhrases_counterSingular": "1 Seed phrase",
 	"securityFactors_seedPhrases_counterPlural": "%d Seed phrases",
 	"securityFactors_seedPhrases_enterSeedPhrase": "Enter your seed phrase to recover Accounts",
-	"securityFactors_ledgerWallet_title": "Ledger Hardware Wallets",
+	"securityFactors_ledgerWallet_title": "Ledger Hardware Wallet",
 	"securityFactors_ledgerWallet_subtitle": "Hardware wallet designed for holding crypto",
 	"securityFactors_ledgerWallet_counterSingular": "1 set",
 	"securityFactors_ledgerWallet_counterPlural": "%d set"
