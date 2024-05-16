@@ -27,5 +27,9 @@
 	"linkedConnectors_linkFailedErrorTitle": "Link Failed",
 	"linkedConnectors_unknownPurposeErrorMessage": "This type of Connector link is not supported.",
 	"linkedConnectors_changingPurposeNotSupportedErrorMessage": "Changing a Connector’s type is not supported.",
-	"linkedConnectors_oldQRErrorMessage": "This is an old version of the Radix Connector browser extension. Please update to the latest Connector and try linking again."
+	"linkedConnectors_oldQRErrorMessage": "This is an old version of the Radix Connector browser extension. Please update to the latest Connector and try linking again.",
+	"linkedConnectors_relinkConnectors_title": "Re-link Connector",
+	"linkedConnectors_relinkConnectors_afterUpdateMessage" : "Radix Connector now supports linking multiple phones with one browser.\n\nTo support this feature, we've had to disconnect your existing links – **please re-link your Connector(s).**"
+	"linkedConnectors_relinkConnectors_afterProfileRestoreMessage": "Any Connectors you had linked to this wallet using a different phone have been disconnected\n\n**Please re-link your Connector(s) to use with this phone.**",
+	"linkedConnectors_relinkConnectors_laterButton": "Later"
 }
