@@ -17,7 +17,7 @@
 	"securityCenter_problem7_text": "Accounts and Personas not recoverable. Create Configuration Backup now.",
 	"securityCenter_problem7_warning": "Configuration Backup not up to date. Turn on automated backups or manually export backup file.",
 	"securityCenter_problem9_heading": "Recovery required",
-	"securityCenter_problem9_text": "Enter seed phrase to begin recovery.",
+	"securityCenter_problem9_text": "Enter seed phrase to recover control.",
 	"securityCenter_problem9_warning": "Enter your seed phrase to recover Accounts",
 
 	"securityCenter_securityFactorsItem_title": "Security Factors",

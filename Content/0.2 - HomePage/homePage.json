@@ -1,6 +1,6 @@
 {
-	"homePage_securityPromptBackup": "Please write down seed phrase to ensure Account control",
-	"homePage_securityPromptRecover": "Seed phrase required - begin entry",
+	"homePage_securityPromptBackup": "You need to write down a seed phrase",
+	"homePage_securityPromptRecover": "Recovery required",
 	"homePage_backedUpMnemonicHeading": "I have written down this seed phrase",
 	"homePage_createNewAccount": "Create a New Account",
 	"homePage_legacyAccountHeading": "Legacy",
