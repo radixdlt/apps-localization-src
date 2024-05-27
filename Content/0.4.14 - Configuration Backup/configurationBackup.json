@@ -1,10 +1,6 @@
 {
 	"configurationBackup_title": "Configuration Backup",
 	"configurationBackup_heading": "You need an up-to-date Configuration Backup to recover your Accounts and Personas if you lose access to them.\n\nYour Backup does not contain your keys or seed phrase.",
-	"configurationBackup_problem5WarningIOS": "Automated Configuration Backup not working. Check internet connection and iCloud settings.",
-	"configurationBackup_problem5WarningAndroid": "Automated Configuration Backup not working. Check internet connection and Google Drive settings.",
-	"configurationBackup_problem6Warning": "To secure your wallet, turn on automated backups or manually export backup file.",
-	"configurationBackup_problem7Warning": "Configuration Backup not up to date. Turn on automated backups or manually export backup file.",
 	"configurationBackup_automated_text": "Configuration Backup status",
 	"configurationBackup_automated_warning": "Without an updated Configuration Backup, you cannot recover your Accounts and Personas.",
 	"configurationBackup_automated_toggleIOS": "Automated iCloud Backups",
