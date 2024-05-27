@@ -10,12 +10,12 @@
 	"onboarding_eula_headerTitle": "User Terms",
 	"onboarding_eula_headerSubtitle": "To proceed, you must accept the user terms below.",
 	"onboarding_eula_accept": "Accept",
-	"onboarding_cloudAndroid_backupTitle": "Back up your wallet settings",
+	"onboarding_cloudAndroid_backupTitle": "Back up your Wallet Settings",
 	"onboarding_cloudAndroid_backupSubtitle": "Connect to Google Drive to automatically backup your Radix wallet settings.",
 	"onboarding_cloudAndroid_skip": "Skip",
 	"onboarding_cloudAndroid_backupButton": "Back up to Google Drive",
-	"onboarding_cloudRestoreAndroid_backupTitle": "Restore wallet from backup",
-	"onboarding_cloudRestoreAndroid_backupSubtitle": "Log in to Google Drive to restore your Radix Wallet from backup.",
+	"onboarding_cloudRestoreAndroid_backupTitle": "Restore Wallet from Backup",
+	"onboarding_cloudRestoreAndroid_backupSubtitle": "Log in to Google Drive to restore your Radix wallet from Backup.",
 	"onboarding_cloudRestoreAndroid_skip": "Skip",
 	"onboarding_cloudRestoreAndroid_loginButton": "Log in to Google Drive"
 }
