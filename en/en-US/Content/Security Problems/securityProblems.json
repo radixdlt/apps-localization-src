@@ -1,6 +1,6 @@
 {
 	"securityProblems_no3_accountCard": "You need to write down a seed phrase",
-	"securityProblems_no3_securityCenterTitle": "View and write down your seed phrase so Accounts and Personas are recoverable",
+	"securityProblems_no3_securityCenterTitle": "%@ and %@ are not recoverable.",
 	"securityProblems_no3_securityCenterBody": "View and write down your seed phrase so Accounts and Personas are recoverable.",
 	"securityProblems_no3_securityFactors": "View and write down seed phrase",
 	"securityProblems_no3_seedPhrases": "View and write down seed phrase",
@@ -30,5 +30,9 @@
 	"securityProblems_no9_securityFactors": "Enter seed phrase to recover control",
 	"securityProblems_no9_seedPhrases": "Enter seed phrase to recover control",
 	"securityProblems_no9_walletSettingsPersonas": "Recovery required",
-	"securityProblems_no9_personas": "Recovery required"
+	"securityProblems_no9_personas": "Recovery required",
+	"securityProblems_common_accountSingular": "1 account",
+	"securityProblems_common_accountPlural": "%d accounts",
+	"securityProblems_common_personaSingular": "1 persona",
+	"securityProblems_common_personaPlural": "%d personas"
 }
