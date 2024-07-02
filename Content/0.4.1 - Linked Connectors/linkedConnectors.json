@@ -3,7 +3,7 @@
 	"linkedConnectors_subtitle": "Connect your Radix Wallet to desktop web browsers by linking to the Radix Connector browser extension. Here are your linked Connectors.",
 	"linkedConnectors_lastConnected": "Last connected %s",
 	"linkedConnectors_linkNewConnector": "Link New Connector",
-	"linkedConnectors_newConnection_title": "Link New Connector",
+	"linkedConnectors_newConnection_title": "Link Connector",
 	"linkedConnectors_newConnection_subtitle": "Open your Radix Connector extension's menu by clicking its icon in your list of browser extensions, and scan the QR code shown.",
 	"linkedConnectors_newConnection_linking": "Linking…",
 	"linkedConnectors_nameNewConnector_title": "Name New Connector",
