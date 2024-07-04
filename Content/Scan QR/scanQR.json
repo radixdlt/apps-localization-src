@@ -1,0 +1,10 @@
+{
+	"scanQR_connectorExtension_instructions": "Scan the QR code in the Radix Connector browser extension.",
+	"scanQR_connectorExtension_disclosureTitle": "Don't have the Radix Connector browser extension?",
+	"scanQR_connectorExtension_disclosureItem1": "Go to **wallet.radixdlt.com** in your desktop browser.",
+	"scanQR_connectorExtension_disclosureItem2": "Follow the instructions there to install the Radix Connector.",
+
+	"scanQR_account_instructions": "Scan a QR code of a Radix Account address from another wallet or an exchange.",
+	
+	"scanQR_importOlympia_instructions": "Scan the QR code shown in the Export section of the Radix Desktop Wallet for Olympia."
+}
