@@ -1,8 +1,8 @@
 {
 	"dAppRequest_login_titleKnownDapp": "Login Request",
-	"dAppRequest_login_subtitleKnownDapp": "%s is requesting that you login with a Persona.",
+	"dAppRequest_login_subtitleKnownDapp": "**%s** is requesting that you login with a Persona.",
 	"dAppRequest_login_titleNewDapp": "New Login Request",
-	"dAppRequest_login_subtitleNewDapp": "%s is requesting that you login for the **first time** with a Persona.",
+	"dAppRequest_login_subtitleNewDapp": "**%s** is requesting that you login for the first time with a Persona.",
 	"dAppRequest_login_choosePersona": "Choose a Persona",
 	"dAppRequest_login_lastLoginWasOn": "Your last login was on %s",
 	"dAppRequest_login_continue": "Continue",
