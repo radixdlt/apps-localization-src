@@ -1,5 +1,5 @@
 {
-	"authorizedDapps_title": "Approved dApps",
+	"authorizedDapps_title": "Authorized dApps",
 	"authorizedDapps_subtitle": "These are the dApps that you have logged into using the Radix Wallet.",
 	"authorizedDapps_whatIsDapp": "What is a dApp?",
 	"authorizedDapps_dAppDetails_dAppDefinition": "dApp Definition",
@@ -39,5 +39,6 @@
 	"authorizedDapps_personaDetails_nameVariantEastern": "Eastern style (family name first)",
 	"authorizedDapps_personaDetails_nameVariantWestern": "Western style (given name(s) first)",
 	"authorizedDapps_personaDetails_hideThisPersona": "Hide This Persona",
-	"authorizedDapps_personaDetails_hidePersonaConfirmation": "Are you sure you want to hide this persona?"
+	"authorizedDapps_personaDetails_hidePersonaConfirmation": "Are you sure you want to hide this persona?",
+	"authorizedDapps_personaDetails_edit": "Edit"
 }
