@@ -12,5 +12,8 @@
 	"seedPhrases_seedPhrase_headingScan": "Seed Phrase",
 	"seedPhrases_seedPhrase_noConnectedAccountsScan": "Not yet connected to any Accounts",
 	"seedPhrases_seedPhrase_oneConnectedAccountScan": "Currently connected to 1 Account",
-	"seedPhrases_seedPhrase_multipleConnectedAccountsScan": "Currently connected to %d Accounts"
+	"seedPhrases_seedPhrase_multipleConnectedAccountsScan": "Currently connected to %d Accounts",
+	"seedPhrases_seedPhrase_noConnectedAccounts": "Not connected to any Accounts",
+	"seedPhrases_seedPhrase_oneConnectedAccount": "Connected to 1 Account",
+	"seedPhrases_seedPhrase_multipleConnectedAccounts": "Connected to %d Accounts"
 }
