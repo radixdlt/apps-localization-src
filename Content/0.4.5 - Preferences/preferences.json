@@ -7,5 +7,7 @@
     "preferences_advancedPreferences": "Advanced Preferences",
     "preferences_gateways": "Network Gateways",
     "preferences_developerMode_title": "Developer Mode",
-    "preferences_developerMode_subtitle": "Warning: disables website validity checks"
+    "preferences_developerMode_subtitle": "Warning: disables website validity checks",
+    "preferences_advancedLock_title": "Advanced Lock",
+    "preferences_advancedLock_subtitle": "Re-authenticate when switching between apps"
 }
