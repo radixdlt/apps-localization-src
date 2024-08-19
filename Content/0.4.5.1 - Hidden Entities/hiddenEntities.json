@@ -1,9 +1,9 @@
-{   
-    "hiddenEntities_title": "Hidden Personas &amp; Accounts",
+{
+	"hiddenEntities_title": "Hidden Personas &amp; Accounts",
 	"hiddenEntities_text": "You have hidden the following Personas and Accounts. They remain on the Radix Network, but while hidden, your wallet will treat them as if they don’t exist.",
 	"hiddenEntities_personas": "Personas",
 	"hiddenEntities_accounts": "Accounts",
 	"hiddenEntities_unhide": "Unhide",
-    "hiddenEntities_unhideAccountsConfirmation": "Make this Account visible in your wallet again?",    
-    "hiddenEntities_unhidePersonasConfirmation": "Make this Persona visible in your wallet again?"    
+	"hiddenEntities_unhideAccountsConfirmation": "Make this Account visible in your wallet again?",
+	"hiddenEntities_unhidePersonasConfirmation": "Make this Persona visible in your wallet again?"
 }
