@@ -1,0 +1,9 @@
+{
+	"hiddenAssets_title": "Hidden Assets",
+	"hiddenAssets_text": "You have hidden the following assets. While hidden, you will not see these in any of your Accounts.",
+	"hiddenAssets_fungibles": "Tokens",
+	"hiddenAssets_nonFungibles": "NFTs",
+	"hiddenAssets_poolUnits": "Pool Units",
+	"hiddenAssets_unhide": "Unhide",
+	"hiddenAssets_unhideConfirmation": "Make this asset visible in your Accounts again?"
+}
