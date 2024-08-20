@@ -66,5 +66,6 @@
 	"transactionReview_noMnemonicError_title": "Could Not Complete",
 	"transactionReview_noMnemonicError_text": "The required seed phrase is missing. Please return to the account and begin the recovery process.",
 	"transactionReview_nonConformingManifestWarning_title": "Warning",
-	"transactionReview_nonConformingManifestWarning_message": "This is a complex transaction that cannot be summarized - the raw transaction manifest will be shown. Do not submit unless you understand the contents."
+	"transactionReview_nonConformingManifestWarning_message": "This is a complex transaction that cannot be summarized - the raw transaction manifest will be shown. Do not submit unless you understand the contents.",
+	"transactionReview_hiddenAsset": "This asset is hidden and will not be visible in your Account",
 }
