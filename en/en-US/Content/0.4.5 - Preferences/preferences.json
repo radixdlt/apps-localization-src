@@ -2,10 +2,15 @@
     "preferences_title": "Preferences",
     "preferences_depositGuarantees_title": "Default Deposit Guarantees",
     "preferences_depositGuarantees_subtitle": "Set your guaranteed minimum for estimated deposits",
-    "preferences_hiddenEntities_title": "Hidden Accounts and Personas",
-    "preferences_hiddenEntities_subtitle": "Manage hidden Accounts and Personas",
+    "preferences_hiddenEntities_title": "Hidden Personas & Accounts",
+    "preferences_hiddenEntities_subtitle": "Manage hidden Personas and Accounts",
     "preferences_advancedPreferences": "Advanced Preferences",
     "preferences_gateways": "Network Gateways",
     "preferences_developerMode_title": "Developer Mode",
-    "preferences_developerMode_subtitle": "Warning: disables website validity checks"
+    "preferences_developerMode_subtitle": "Warning: disables website validity checks",
+    "preferences_advancedLock_title": "Advanced Lock",
+    "preferences_advancedLock_subtitle": "Re-authenticate when switching between apps",
+    "preferences_displayPreferences": "Display",
+    "preferences_hiddenAssets_title": "Hidden Assets",
+    "preferences_hiddenAssets_subtitle": "Manage hidden Tokens, NFTs, and other asset types"
 }
