@@ -60,6 +60,6 @@
 	"assetDetails_behaviors_nftDataChangeableByAnyone": "Anyone can change data that is set on these NFTs.",
 	"assetDetails_hideCollectionButton": "Hide Collection",
 	"assetDetails_hideCollection_title": "Hide Collection",
-	"assetDetails_hideCollection_message": "Hide **%s** NFT Collection in your Radix Wallet? You can always unhide it in your account settings."
+	"assetDetails_hideCollection_message": "Hide **%s** NFT Collection in your Radix Wallet? You can always unhide it in your account settings.",
 	"assetDetails_hideCollection_button": "Hide"
 }
