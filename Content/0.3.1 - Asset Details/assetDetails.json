@@ -55,6 +55,6 @@
 	"assetDetails_behaviors_freezableByAnyone": "Anyone can freeze this asset in place.",
 	"assetDetails_behaviors_nftDataChangeable": "Data that is set on these NFTs can be changed.",
 	"assetDetails_behaviors_nftDataChangeableByAnyone": "Anyone can change data that is set on these NFTs.",
-	"assetDetails_hideAssetButton": "Hide Asset"
-	"assetDetails_hideCollectionButton": "Hide Collection"
+	"assetDetails_hideAsset": "Hide Asset"
+	"assetDetails_hideCollection": "Hide Collection"
 }
