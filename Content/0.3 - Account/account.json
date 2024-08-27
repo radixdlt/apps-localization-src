@@ -1,7 +1,9 @@
 {
 	"account_transfer": "Transfer",
 	"account_tokens": "Tokens",
+	
 	"account_nfts": "NFTs",
+	"account_nfts_itemsCount": "%d in this collection",
 	
 	"account_staking": "Staking",
 	"account_staking_lsuResourceHeader": "Radix Network XRD Stake Summary",
