@@ -3,7 +3,9 @@
 	"hiddenAssets_text": "You have hidden the following assets. While hidden, you will not see these in any of your Accounts.",
 	"hiddenAssets_fungibles": "Tokens",
 	"hiddenAssets_nonFungibles": "NFTs",
+	"hiddenAssets_nonFungibles_count": "%d in this collection",
 	"hiddenAssets_poolUnits": "Pool Units",
 	"hiddenAssets_unhide": "Unhide",
-	"hiddenAssets_unhideConfirmation": "Make this asset visible in your Accounts again?"
+	"hiddenAssets_unhideConfirmation_asset": "Make this asset visible in your Accounts again?",
+	"hiddenAssets_unhideConfirmation_collection": "Make this collection visible in your Accounts again?"
 }
