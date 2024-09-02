@@ -12,5 +12,7 @@
     "preferences_advancedLock_subtitle": "Re-authenticate when switching between apps",
     "preferences_displayPreferences": "Display",
     "preferences_hiddenAssets_title": "Hidden Assets",
-    "preferences_hiddenAssets_subtitle": "Manage hidden Tokens, NFTs, and other asset types"
+    "preferences_hiddenAssets_subtitle": "Manage hidden Tokens, NFTs, and other asset types",
+    "preferences_advancedLock_title": "Advanced Lock",
+    "preferences_advancedLock_subtitle": "Re-authenticate when switching between apps"
 }
