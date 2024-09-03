@@ -11,6 +11,7 @@
 	"homePage_accountsTag_legacySoftware": "Legacy",
 	"homePage_accountsTag_ledgerLegacy": "Legacy (Ledger)",
 	"homePage_accountsTag_ledgerBabylon": "Ledger",
+	"homePage_accountLockerClaim": "%@ has a deposit for you to claim",
 	"homePage_visitDashboard_title": "Visit the Radix Dashboard",
 	"homePage_visitDashboard_subtitle": "Ready to get started using the Radix Network and your Wallet?",
 	"homePage_profileOlympiaError_title": "SERIOUS ERROR - PLEASE READ",
