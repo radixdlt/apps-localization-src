@@ -8,7 +8,6 @@
 	"createPersona_introduction_title": "Create a Persona",
 	"createPersona_introduction_subtitle1": "A Persona is an identity that you own and control. You can have as many as you like.",
 	"createPersona_introduction_subtitle2": "Personas are used to login to dApps on Radix. dApps may request access to personal information associated with your Persona, like your name or email address.",
-	"createPersona_introduction_learnAboutPersonas": "Learn about Personas",
 	"createPersona_introduction_continue": "Continue",
 	"createPersona_nameNewPersona_subtitle": "What would you like to call your Persona?",
 	"createPersona_nameNewPersona_placeholder": "e.g. My Main Persona",
