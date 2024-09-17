@@ -16,5 +16,12 @@
     "recoverProfileBackup_incompatibleWalletDataLabel": "Incompatible Wallet data",
     "recoverProfileBackup_passwordWrong": "The password is wrong",
     "recoverProfileBackup_backupNotAvailable": "Backup not available?",
-    "recoverProfileBackup_otherRestoreOptionsButton": "Other Restore Options"
+    "recoverProfileBackup_otherRestoreOptionsButton": "Other Restore Options",
+	"recoverProfileBackup_choose_iOS": "Choose a backup on iCloud",
+	"recoverProfileBackup_noBackupsAvailable_iOS": "No wallet backups available on current iCloud account",
+	"recoverProfileBackup_notLoggedIn_iOS": "Not logged in to iCloud",
+	"recoverProfileBackup_networkUnavailable": "Network unavailable",
+	"recoverProfileBackup_couldNotLoadBackups": "Could not load backups",
+	"recoverProfileBackup_updateSystemSetings": "Update in System Settings",
+	"recoverProfileBackup_thisDevice": "This Device"
 }
