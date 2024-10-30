@@ -28,5 +28,7 @@
 	"common_unauthorized": "Unauthorized",
 	"common_rateLimitReached": "Gateway access blocked due to exceeding rate limit. Please wait a few minutes to retry.",
 	"common_badHttpResponseStatusCode": "Bad HTTP response status code %d",
-	"common_dismiss": "Dismiss"
+	"common_dismiss": "Dismiss",
+	"common_noMnemonicAlert_title": "Could Not Complete",
+	"common_noMnemonicAlert_text": "The required seed phrase is missing. Please return to the account and begin the recovery process."
 }
