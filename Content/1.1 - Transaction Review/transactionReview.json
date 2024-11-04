@@ -1,6 +1,5 @@
 {
 	"transactionReview_title": "Review Your Transaction",
-	"transactionReview_proposingDappSubtitle": "Proposed by %@",
 	"transactionReview_transferTitle": "Review Your Transfer",
 	"transactionReview_poolNameUnknown": "Unknown pool",
 	"transactionReview_unknownComponents": "%d Unknown Components",
