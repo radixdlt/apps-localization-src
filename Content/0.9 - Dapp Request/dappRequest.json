@@ -55,6 +55,8 @@
 	"dAppRequest_validationOutcome_invalidRequestTitle": "Invalid Request.",
 	"dAppRequest_validationOutcome_invalidRequestMessage": "Could not validate the dApp.",
 	"dAppRequest_validationOutcome_invalidPersonaOrAccoubts": "dApp specified an invalid Persona or Account",
+	"dAppRequest_validationOutcome_preAuthorizationExpirationTooClose": "Pre-authorization request was rejected because you weren't given enough time to review it.",
+	"dAppRequest_validationOutcome_preAuthorizationExpired": "Pre-authorization request was rejected because it has already expired.",
 	"dAppRequest_requestMalformedAlert_message": "Request received from dApp is invalid.",
 	"dAppRequest_requestPersonaNotFoundAlert_message": "dApp specified an invalid Persona.",
 	"dAppRequest_requestWrongNetworkAlert_message": "dApp made a request intended for network %@, but you are currently connected to %@.",
