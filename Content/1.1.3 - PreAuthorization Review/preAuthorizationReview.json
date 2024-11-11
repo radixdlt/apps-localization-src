@@ -1,6 +1,5 @@
 {
 	"preAuthorizationReview_title": "Review your Pre-Authorization",
-	"preAuthorizationReview_subtitle": "Proposed by %@",
 	"preAuthorizationReview_loading": "Incoming Pre-Authorization",
 	"preAuthorizationReview_fees_title": "Pre-authorization will be returned to %@ for processing.",
 	"preAuthorizationReview_fees_subtitle": "Network fees will be paid by the dApp",
