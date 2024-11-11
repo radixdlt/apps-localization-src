@@ -1,4 +1,5 @@
 {
+	"interactionReview_subtitle": "Proposed by %@",
 	"interactionReview_possibleDappCalls": "Possible dApp calls",
 	"interactionReview_customizeGuaranteesButtonTitle": "Customize Guarantees",
 	"interactionReview_estimated": "Estimated",
