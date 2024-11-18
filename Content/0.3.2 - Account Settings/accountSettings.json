@@ -73,6 +73,7 @@
 	"accountSettings_devPreferences": "Dev Preferences",
 	"accountSettings_hideThisAccount": "Hide This Account",
 	"accountSettings_hideAccountConfirmation": "Are you sure you want to hide this account?",
+	"accountSettings_deleteAccount": "Delete Account",
 	"accountSettings_deleteAccount_title": "Delete This Account?",
 	"accountSettings_deleteAccount_message": "You’re about to permanently delete this Account. Once this is done, you will not be able to recover access.",
 	"accountSettings_moveAssets_title": "Move Assets to Another Account",
