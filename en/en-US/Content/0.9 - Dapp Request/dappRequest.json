@@ -63,6 +63,7 @@
 	"dAppRequest_responseFailureAlert_message": "Failed to send request response to dApp.",
 	"dAppRequest_completion_title": "Success",
 	"dAppRequest_completion_subtitle": "Request from %s complete",
+	"dAppRequest_completion_subtitlePreAuthorization": "Your pre-authorization has been included in a successful transaction.",
 	"dAppRequest_metadataLoadingAlert_message": "Danger! Bad dApp configuration, or you're being spoofed!",
 	"dAppRequest_metadataLoadingPrompt": "Loading…",
 	"dAppRequest_metadata_unknownName": "Unknown dApp",
