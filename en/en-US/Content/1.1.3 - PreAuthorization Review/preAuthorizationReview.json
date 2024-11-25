@@ -16,5 +16,13 @@
 	"preAuthorizationReview_timeFormat_seconds": "%d seconds",
 	"preAuthorizationReview_slideToSign": "Slide to Sign and Return",
 	"preAuthorizationReview_rawManifestAlert_title": "Warning",
-	"preAuthorizationReview_rawManifestAlert_message": "This is a complex pre-authorization that cannot be summarized - the raw pre-authorization manifest will be shown. Do not sign and return unless you understand the contents."
+	"preAuthorizationReview_rawManifestAlert_message": "This is a complex pre-authorization that cannot be summarized - the raw pre-authorization manifest will be shown. Do not sign and return unless you understand the contents.",
+	"preAuthorizationReview_unknownStatus_title": "Pre-Authorization Sent",
+	"preAuthorizationReview_unknownStatus_subtitle": "Your pre-authorization has been sent to %@",
+	"preAuthorizationReview_unknownStatus_identifier": "Pre-Authorization ID",
+	"preAuthorizationReview_unknownStatus_expiration": "%@ has **%@** to use this pre-authorization",
+	"preAuthorizationReview_unknownStatus_lastCheck": "Checking one last time..",
+	"preAuthorizationReview_expiredStatus_title": "Pre-Authorization Timed Out",
+	"preAuthorizationReview_expiredStatus_subtitle": "Your pre-authorization has expired and can no longer be used.",
+	"preAuthorizationReview_expiredStatus_retryInBrowser": "Switch back to your browser to try again"
 }
