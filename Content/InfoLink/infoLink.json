@@ -42,5 +42,6 @@
   "infoLink_title_transactionfee": "How do fees work?",
   "infoLink_title_behaviors": "What are behaviors?",
   "infoLink_title_securityshield": "Learn about Security Shields",
-  "infoLink_title_buildsecurityshields": "How your Security Shield is built"
+  "infoLink_title_buildsecurityshields": "How your Security Shield is built",
+  "infoLink_title_nohardwaredevice": "I don’t have a hardware device"
 }
