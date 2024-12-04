@@ -12,6 +12,10 @@
 	"securityCenter_configurationBackupItem_subtitle": "A backup of your Account, Personas and wallet settings",
 	"securityCenter_configurationBackupItem_backedUpStatus": "Backed up",
 
+	"securityCenter_securityShieldsItem_title": "Security Shields",
+	"securityCenter_securityShieldsItem_subtitle": "Decentralized multi-factor signing and recovery for your Accounts and Personas",
+	"securityCenter_securityShieldsItem_shieldedStatus": "Shielded",
+
 	"securityCenter_anyItem_actionRequiredStatus": "Action required",
 
 	"securityCenter_encryptWalletBackup_title": "Encrypt Wallet Backup File",
