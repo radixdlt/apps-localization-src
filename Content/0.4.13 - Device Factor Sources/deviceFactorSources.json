@@ -1,0 +1,10 @@
+{
+	"deviceFactorSources_navigationTitle": "Biometrics/PIN",
+	"deviceFactorSources_subtitle": "Use phone biometrics/PIN to approve",
+	"deviceFactorSources_default": "Default",
+	"deviceFactorSources_others": "Others",
+	"deviceFactorSources_noProblem": "This seed phrase has been written down",
+	"deviceFactorSources_problem3": "Write down seed phrase to make this factor recoverable",
+	"deviceFactorSources_problem9": "This factor has been lost",
+	"deviceFactorSources_add": "Add Biometrics/PIN"
+}
