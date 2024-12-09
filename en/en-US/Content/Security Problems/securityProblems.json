@@ -28,7 +28,7 @@
 	"securityProblems_no9_accountCard": "Recovery required",
 	"securityProblems_no9_securityCenterTitle": "Recovery required",
 	"securityProblems_no9_securityCenterBody": "Enter seed phrase to recover control.",
-	"securityProblems_no9_securityFactors": "Enter seed phrase to recover control",
+	"securityProblems_no9_securityFactors": "Enter seed phrase to recover use",
 	"securityProblems_no9_seedPhrases": "Enter seed phrase to recover control",
 	"securityProblems_no9_walletSettingsPersonas": "Recovery required",
 	"securityProblems_no9_personas": "Recovery required",

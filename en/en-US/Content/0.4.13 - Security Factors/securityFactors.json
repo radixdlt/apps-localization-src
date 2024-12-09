@@ -1,6 +1,8 @@
 {
 	"securityFactors_title": "Security Factors",
-	"securityFactors_subtitle": "View and manage your security factors",
+	"securityFactors_subtitle": "Manage the security factors you’ll use in your Security Shields.",
+	"securityFactors_hardware": "Hardware",
+	"securityFactors_information": "Things you know",
 	"securityFactors_seedPhrases_title": "Seed Phrases",
 	"securityFactors_seedPhrases_subtitle": "Your seedphrases connected to your account",
 	"securityFactors_seedPhrases_counterSingular": "1 Seed phrase",
