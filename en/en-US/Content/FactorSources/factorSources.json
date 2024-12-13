@@ -23,5 +23,14 @@
 	"factorSources_card_arculusCardTitle": "Arculus Card",
 	"factorSources_card_arculusCardDescription": "Tap to your phone to approve",
 	"factorSources_card_passwordTitle": "Password",
-	"factorSources_card_passwordDescription": "Enter a decentralized password to approve"
+	"factorSources_card_passwordDescription": "Enter a decentralized password to approve",
+	"factorSources_list_deviceAdd": "Add Biometrics/PIN",
+	"factorSources_list_ledgerAdd": "Add New Ledger Nano",
+	"factorSources_list_passphraseAdd": "Add New Passphrase",
+	"factorSources_list_arculusCardAdd": "Add Arculus Card",
+	"factorSources_list_passwordAdd": "Add New Password",
+	"factorSources_list_seedPhraseWrittenDown": "This seed phrase has been written down",
+	"factorSources_list_seedPhraseNotRecoverable": "Write down seed phrase to make this factor recoverable",
+	"factorSources_list_arculusCardNotWorking": "Arculus not working. Try adding it again",
+	"factorSources_list_lostFactorSource": "This factor has been lost"
 }
