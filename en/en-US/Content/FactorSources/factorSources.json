@@ -24,7 +24,6 @@
 	"factorSources_card_arculusCardDescription": "Tap to your phone to approve",
 	"factorSources_card_passwordTitle": "Password",
 	"factorSources_card_passwordDescription": "Enter a decentralized password to approve",
-	
 	"factorSources_list_deviceAdd": "Add Biometrics/PIN",
 	"factorSources_list_ledgerAdd": "Add New Ledger Nano",
 	"factorSources_list_passphraseAdd": "Add New Passphrase",
