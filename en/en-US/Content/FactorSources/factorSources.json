@@ -34,5 +34,15 @@
 	"factorSources_list_seedPhraseWrittenDown": "This seed phrase has been written down",
 	"factorSources_list_seedPhraseNotRecoverable": "Write down seed phrase to make this factor recoverable",
 	"factorSources_list_arculusCardNotWorking": "Arculus not working. Try adding it again",
-	"factorSources_list_lostFactorSource": "This factor has been lost"
+	"factorSources_list_lostFactorSource": "This factor has been lost",
+	"factorSources_detail_settings": "Factor Settings",
+	"factorSources_detail_test": "Test",
+	"factorSources_detail_advanced": "Advanced",
+	"factorSources_detail_rename": "Rename this factor",
+	"factorSources_detail_spotCheck": "Spot Check",
+	"factorSources_detail_testCanUse": "Test that you can use this factor",
+	"factorSources_detail_lastUsed": "**Last used:** %@",
+	"factorSources_detail_viewSeedPhrase": "View Seed Phrase",
+	"factorSources_detail_writeSeedPhrase": "Write down the seed phrase for advanced recovery",
+	"factorSources_detail_changePin": "Change PIN"
 }
