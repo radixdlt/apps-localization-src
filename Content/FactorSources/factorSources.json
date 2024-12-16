@@ -47,7 +47,5 @@
 	"factorSources_detail_lastUsed": "**Last used:** %@",
 	"factorSources_detail_viewSeedPhrase": "View Seed Phrase",
 	"factorSources_detail_writeSeedPhrase": "Write down the seed phrase for advanced recovery",
-	"factorSources_detail_togglePin": "Turn PIN on/off",
-	"factorSources_detail_changePin": "Change PIN",
-	"factorSources_detail_delete": "Delete Factor"
+	"factorSources_detail_changePin": "Change PIN"
 }
