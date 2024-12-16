@@ -1,0 +1,17 @@
+{
+	"renameLabel_factorSource_title": "Rename Factor Source",
+	"renameLabel_factorSource_subtitle": "Enter a new name for this Factor Source",
+	"renameLabel_factorSource_empty": "Factor Source name required",
+	
+	"renameLabel_connector_title": "Rename Connector",
+	"renameLabel_connector_subtitle": "Enter a new name for this Linked Connector",
+	"renameLabel_connector_empty": "Linked Connector name required",
+	
+	"renameLabel_account_title": "Rename Account",
+	"renameLabel_account_subtitle": "Enter a new label for this Account",
+	"renameLabel_account_empty": "Account label required",
+	"renameLabel_account_tooLong": "Account label too long",
+	
+	"renameLabel_update": "Update",
+	"renameLabel_success": "Updated"
+}
