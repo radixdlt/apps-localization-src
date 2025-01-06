@@ -1,0 +1,15 @@
+{
+  "shieldWizardRegularAccess_step_title": "Step 1 of 2",
+  "shieldWizardRegularAccess_title": "Regular Access",
+  "shieldWizardRegularAccess_subtitle": "Factors required to withdraw assets from Accounts.",
+  "shieldWizardRegularAccess_combination_label": "OR",
+  "shieldWizardRegularAccess_thresholdDescription_title": "You'll need to use %s of the following",
+  "shieldWizardRegularAccess_thresholdDescription_all": "All",
+  "shieldWizardRegularAccess_override_title": "Override (advanced)",
+  "shieldWizardRegularAccess_override_description": "Or you can use the following:",
+  "shieldWizardRegularAccess_override_button": "Add an override",
+  "shieldWizardRegularAccess_overrideCombination_label": "OR",
+  "shieldWizardRegularAccess_setThreshold_title": "Set the number of factors required to sign",
+  "shieldWizardRegularAccess_setThreshold_all": "All (Recommended)",
+  "shieldWizardRegularAccess_setThreshold_button": "Set"
+}
