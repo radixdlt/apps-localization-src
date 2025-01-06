@@ -11,5 +11,6 @@
 	"securityFactors_ledgerWallet_title": "Ledger Hardware Wallets",
 	"securityFactors_ledgerWallet_subtitle": "Hardware wallet designed for holding crypto",
 	"securityFactors_ledgerWallet_counterSingular": "1 set",
-	"securityFactors_ledgerWallet_counterPlural": "%d set"
+	"securityFactors_ledgerWallet_counterPlural": "%d set",
+	"securityFactors_selectFactor_title": "Select Factor Type"
 }
