@@ -1,0 +1,5 @@
+{
+	"shieldSetupSelectFactors_title": "Select Factors for Transactions",
+	"shieldSetupSelectFactors_subtitle": "Choose the factors you’ll use to sign transactions. You’ll use **all** of these factors every time you send assets or log in to dApps.",
+	"shieldSetupSelectFactors_buildButtonTitle": "Build Shield"
+}
