@@ -6,7 +6,6 @@
 	"shieldSetupPrepareFactors_addHardwareFactor_title": "Add a Hardware Device",
 	"shieldSetupPrepareFactors_addHardwareFactor_subtitle": "Choose a hardware device to use as a security factor in your Shield.",
 	"shieldSetupPrepareFactors_addHardwareFactor_button": "Add Hardware Device",
-	"shieldSetupPrepareFactors_addHardwareFactor_noDeviceButton": "I don’t have a hardware device",
 	"shieldSetupPrepareFactors_addAnotherFactor_title": "Add Another Factor",
 	"shieldSetupPrepareFactors_addAnotherFactor_subtitle": "You need to add **1 more factor** to begin building your Shield.",
 	"shieldSetupPrepareFactors_addAnotherFactor_passphraseHint": "Choosing a passphrase is only recommended for advanced users",
