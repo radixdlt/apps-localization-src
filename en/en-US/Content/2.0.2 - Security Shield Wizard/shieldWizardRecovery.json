@@ -1,0 +1,20 @@
+{
+  "shieldWizardRecovery_step_title": "Step 2 of 2",
+  "shieldWizardRecovery_title": "Recovery",
+  "shieldWizardRecovery_start_title": "Starting a Recovery",
+  "shieldWizardRecovery_start_subtitle": "Factors you can use to start recovering, and temporarily lock, Accounts and Personas if you lose access.",
+  "shieldWizardRecovery_confirm_title": "Confirming a Recovery",
+  "shieldWizardRecovery_confirm_subtitle": "Factors you can use to complete the recovery of your Accounts and Personas.",
+  "shieldWizardRecovery_combination_label": "OR",
+  "shieldWizardRecovery_factors_title": "You'll need to use the following:",
+  "shieldWizardRecovery_fallback_title": "Emergency Fallback",
+  "shieldWizardRecovery_fallback_subtitle": "Set a time period to automatically confirm recovery **WITHOUT** presenting any of the above confirmation factors.",
+  "shieldWizardRecovery_fallback_note": "We recommend setting this for an extended period, so you have time to notice and cancel a recovery you don’t want.",
+  "shieldWizardRecovery_fallback_days_label": "Days",
+  "shieldWizardRecovery_fallback_day_label": "Day",
+  "shieldWizardRecovery_fallback_weeks_label": "Weeks",
+  "shieldWizardRecovery_fallback_week_label": "Week",
+  "shieldWizardRecovery_setFallback_title": "Emergency Fallback",
+  "shieldWizardRecovery_setFallback_subtitle": "Set a time period to automatically confirm recovery **WITHOUT** presenting any confirmation factors.",
+  "shieldWizardRecovery_setFallback_button": "Set"
+}
