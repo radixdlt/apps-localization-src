@@ -19,7 +19,7 @@
 	"factorSources_card_deviceDescription": "Use phone biometrics/PIN to approve",
 	"factorSources_card_ledgerTitle": "Ledger Nano",
 	"factorSources_card_ledgerDescription": "Connect via USB to approve",
-	"factorSources_card_passphraseTitle": "Passphrase",
+	"factorSources_card_passphraseTitle": "Mnemonic",
 	"factorSources_card_passphraseDescription": "Enter a seed phrase to approve",
 	"factorSources_card_arculusCardTitle": "Arculus Card",
 	"factorSources_card_arculusCardDescription": "Tap to your phone to approve",
