@@ -3,7 +3,7 @@
   "shieldWizardRegularAccess_title": "Regular Access",
   "shieldWizardRegularAccess_subtitle": "Factors required to withdraw assets from Accounts.",
   "shieldWizardRegularAccess_combination_label": "OR",
-  "shieldWizardRegularAccess_thresholdDescription_title": "You'll need to use %s of the following",
+  "shieldWizardRegularAccess_thresholdDescription_title": "You'll need to use **%s** of the following",
   "shieldWizardRegularAccess_thresholdDescription_all": "All",
   "shieldWizardRegularAccess_override_title": "Override (advanced)",
   "shieldWizardRegularAccess_override_description": "Or you can use the following:",
