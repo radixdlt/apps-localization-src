@@ -12,10 +12,5 @@
 	"securityFactors_ledgerWallet_subtitle": "Hardware wallet designed for holding crypto",
 	"securityFactors_ledgerWallet_counterSingular": "1 set",
 	"securityFactors_ledgerWallet_counterPlural": "%d set",
-	"securityFactors_selectFactor_title": "Select Factor Type",
-	"securityFactors_deviceFactor_title": "Biometric/PIN",
-	"securityFactors_ledgerFactor_title": "Ledger Nano",
-	"securityFactors_arculusFactor_title": "Arculus Card",
-	"securityFactors_passwordFactor_title": "Password",
-	"securityFactors_passphraseFactor_title": "Passphrase"
+	"securityFactors_selectFactor_title": "Select Factor Type"
 }
