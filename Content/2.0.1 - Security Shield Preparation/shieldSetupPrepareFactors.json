@@ -9,7 +9,7 @@
 	"shieldSetupPrepareFactors_addHardwareFactor_noDeviceButton": "I don’t have a hardware device",
 	"shieldSetupPrepareFactors_addAnotherFactor_title": "Add Another Factor",
 	"shieldSetupPrepareFactors_addAnotherFactor_subtitle": "You need to add **1 more factor** to begin building your Shield.",
-	"shieldSetupPrepareFactors_addAnotherFactor_passphraseHint": "Choosing a passphrase is only recommended for advanced users",
+	"shieldSetupPrepareFactors_addAnotherFactor_passphraseHint": "Choosing a mnemonic is only recommended for advanced users",
 	"shieldSetupPrepareFactors_addAnotherFactor_button": "Add Factor",
 	"shieldSetupPrepareFactors_completion_title": "Your Factors are Ready",
 	"shieldSetupPrepareFactors_completion_subtitleTop": "Now let’s build your Shield.",
