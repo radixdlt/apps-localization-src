@@ -2,6 +2,7 @@
 	"renameLabel_factorSource_title": "Rename Factor Source",
 	"renameLabel_factorSource_subtitle": "Enter a new name for this Factor Source",
 	"renameLabel_factorSource_empty": "Factor Source name required",
+	"renameLabel_factorSource_tooLong": "Factor Source name too long",
 	
 	"renameLabel_connector_title": "Rename Connector",
 	"renameLabel_connector_subtitle": "Enter a new name for this Linked Connector",
