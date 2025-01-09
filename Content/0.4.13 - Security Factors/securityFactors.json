@@ -12,6 +12,6 @@
 	"securityFactors_ledgerWallet_subtitle": "Hardware wallet designed for holding crypto",
 	"securityFactors_ledgerWallet_counterSingular": "1 set",
 	"securityFactors_ledgerWallet_counterPlural": "%d set",
-	"securityFactors_selectFactor_title": "Select Factor Type"
-	"securityFactors_selectFactor_disabled": "Can't currently be used here. **Learn why**",
+	"securityFactors_selectFactor_title": "Select Factor Type",
+	"securityFactors_selectFactor_disabled": "Can't currently be used here. **Learn why**"
 }
