@@ -1,8 +1,8 @@
 {
 	"configurationBackup_title": "Configuration Backup",
-	"configurationBackup_heading": "You need an up-to-date Configuration Backup to recover your Accounts and Personas if you lose access to them.\n\nYour Backup does not contain your keys or seed phrase.",
+	"configurationBackup_heading": "You need an up-to-date configuration backup to recover your Accounts and Personas if you lose access to them.\n\nYour backup does not contain your keys or seed phrase.",
 	"configurationBackup_automated_text": "Configuration Backup status",
-	"configurationBackup_automated_warning": "Without an updated Configuration Backup, you cannot recover your Accounts and Personas.",
+	"configurationBackup_automated_warning": "Without an updated configuration backup, you cannot recover your Accounts and Personas.",
 	"configurationBackup_automated_toggleIOS": "Automated iCloud Backups",
 	"configurationBackup_automated_toggleAndroid": "Automated Google Drive Backups",
 	"configurationBackup_automated_lastBackup": "Last backup: %@",
