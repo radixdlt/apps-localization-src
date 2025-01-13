@@ -30,6 +30,7 @@
 	"factorSources_list_arculusCardAdd": "Add Arculus Card",
 	"factorSources_list_passwordAdd": "Add New Password",
 	"factorSources_list_default": "Default",
+	"factorSources_list_change": "Change",
 	"factorSources_list_others": "Others",
 	"factorSources_list_seedPhraseWrittenDown": "This seed phrase has been written down",
 	"factorSources_list_seedPhraseNotRecoverable": "Write down seed phrase to make this factor recoverable",
@@ -46,5 +47,7 @@
 	"factorSources_detail_writeSeedPhrase": "Write down the seed phrase for advanced recovery",
 	"factorSources_detail_seedPhraseLost": "Seed Phrase Lost",
 	"factorSources_detail_enterSeedPhrase": "Enter seed phrase to recover use of this factor",
-	"factorSources_detail_changePin": "Change PIN"
+	"factorSources_detail_changePin": "Change PIN",
+	"factorSources_changeMain_title": "Change Default Biometrics/PIN",
+	"factorSources_changeMain_subtitle": "Select the biometrics/PIN factor that will be automatically selected when you create a new Account or Persona."
 }
