@@ -14,10 +14,6 @@
   "shieldWizardRecovery_fallback_day_label": "Day",
   "shieldWizardRecovery_fallback_weeks_label": "Weeks",
   "shieldWizardRecovery_fallback_week_label": "Week",
-  "shieldWizardRecovery_fallback_days_period": "%d days",
-  "shieldWizardRecovery_fallback_day_period": "1 day",
-  "shieldWizardRecovery_fallback_weeks_period": "%d weeks",
-  "shieldWizardRecovery_fallback_week_period": "1 week",
   "shieldWizardRecovery_setFallback_title": "Emergency Fallback",
   "shieldWizardRecovery_setFallback_subtitle": "Set a time period to automatically confirm recovery **WITHOUT** presenting any confirmation factors.",
   "shieldWizardRecovery_setFallback_button": "Set"
