@@ -1,4 +1,5 @@
 {
   "shieldWizardName_title": "Name your Security Shield",
-  "shieldWizardName_subtitle": "Give this Security Shield a name, so you can identify it later."
+  "shieldWizardName_subtitle": "Give this Security Shield a name, so you can identify it later.",
+  "shieldWizardName_tooLong": "Security Shield name too long"
 }
