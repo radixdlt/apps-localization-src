@@ -1,6 +1,5 @@
 {
 	"shieldSetupSelectFactors_title": "Select Factors for Regular Access",
 	"shieldSetupSelectFactors_subtitle": "Choose the factors you’ll use for regular access. You’ll use **all** of these factors every time you send assets.",
-	"shieldSetupSelectFactors_buildButtonTitle": "Build Shield",
-	"shieldSetupSelectFactors_skipButtonTitle": "Skip and create an empty shield"
+	"shieldSetupSelectFactors_buildButtonTitle": "Build Shield"
 }
