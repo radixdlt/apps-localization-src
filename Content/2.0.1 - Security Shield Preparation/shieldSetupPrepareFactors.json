@@ -6,6 +6,7 @@
 	"shieldSetupPrepareFactors_addHardwareFactor_title": "Add a Hardware Device",
 	"shieldSetupPrepareFactors_addHardwareFactor_subtitle": "Choose a hardware device to use as a security factor in your Shield.",
 	"shieldSetupPrepareFactors_addHardwareFactor_button": "Add Hardware Device",
+	"shieldSetupPrepareFactors_addHardwareFactor_noDeviceButton": "I don’t have a hardware device",
 	"shieldSetupPrepareFactors_addAnotherFactor_title": "Add Another Factor",
 	"shieldSetupPrepareFactors_addAnotherFactor_subtitle": "You need to add **1 more factor** to begin building your Shield.",
 	"shieldSetupPrepareFactors_addAnotherFactor_offDeviceMnemonicHint": "Choosing a mnemonic is only recommended for advanced users",
@@ -13,6 +14,5 @@
 	"shieldSetupPrepareFactors_completion_title": "Your Factors are Ready",
 	"shieldSetupPrepareFactors_completion_subtitleTop": "Now let’s build your Shield.",
 	"shieldSetupPrepareFactors_completion_subtitleBottom": "Before it’s finished, you’ll have the chance to review it and make any changes.",
-	"shieldSetupPrepareFactors_completion_button": "Build Shield",
-	"shieldSetupPrepareFactors_skip_button": "Skip and create an empty shield"
+	"shieldSetupPrepareFactors_completion_button": "Build Shield"
 }
