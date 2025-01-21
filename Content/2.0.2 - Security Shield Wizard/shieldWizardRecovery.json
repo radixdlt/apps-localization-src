@@ -21,7 +21,7 @@
   "shieldWizardRecovery_fallback_weeks_period": "%d weeks",
   "shieldWizardRecovery_fallback_week_period": "1 week",
   "shieldWizardRecovery_fallback_years_period": "%d years",
-  "shieldWizardRecovery_fallback_years_period": "1 year",
+  "shieldWizardRecovery_fallback_year_period": "1 year",
   "shieldWizardRecovery_setFallback_title": "Emergency Fallback",
   "shieldWizardRecovery_setFallback_subtitle": "Set a time period to automatically confirm recovery **WITHOUT** presenting any confirmation factors.",
   "shieldWizardRecovery_setFallback_button": "Set"
