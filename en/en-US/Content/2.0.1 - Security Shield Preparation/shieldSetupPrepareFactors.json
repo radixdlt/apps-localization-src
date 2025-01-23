@@ -14,5 +14,5 @@
 	"shieldSetupPrepareFactors_completion_subtitleTop": "Now let’s build your Shield.",
 	"shieldSetupPrepareFactors_completion_subtitleBottom": "Before it’s finished, you’ll have the chance to review it and make any changes.",
 	"shieldSetupPrepareFactors_completion_button": "Build Shield",
-	"shieldSetupPrepareFactors_skip_button": "Skip and create an empty shield"
+	"shieldSetupPrepareFactors_skip_button": "Skip automatic Shield recommendation (advanced)"
 }
