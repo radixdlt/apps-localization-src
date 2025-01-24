@@ -1,0 +1,5 @@
+{
+    "authorization_createAccount_title": "Creating Account",
+    "authorization_createPersona_title": "Creating Persona",
+    "authorization_createEntity_message": "Use your phone’s biometrics or PIN to confirm you want to do this."
+}
