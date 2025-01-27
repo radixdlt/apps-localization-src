@@ -4,9 +4,5 @@
   "shieldSetupStatus_invalidCombination": "You cannot create a Shield with this combination of factors. **Read more**",
   "shieldSetupStatus_unsafeCombination": "This combination of factors may be unsafe. **Read more**",
   "shieldSetupStatus_roles_atLeastOneFactor": "You need to choose a factor to continue",
-  "shieldSetupStatus_factorCannotBeUsedByItself": "Cannot use this factor type by itself",
-  "shieldSetupStatus_notEnoughFactors": "You haven’t chosen enough factors to build a Shield. Learn about **Factors required for Shield**",
-  "shieldSetupStatus_unsafeCombination_message": "The combination of factors you have chosen may make this Shield unsafe or easily lost without special precautions. Only proceed if you are certain you understand how you will use this Shield.",
-  "shieldSetupStatus_unsafeCombination_confirm": "I understand",
-  "shieldSetupStatus_unsafeCombination_cancel": "Go back"
+  "shieldSetupStatus_factorCannotBeUsedByItself": "Cannot use this factor type by itself"
 }
