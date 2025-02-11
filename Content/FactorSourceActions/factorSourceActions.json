@@ -23,6 +23,7 @@
 	"factorSourceActions_offDeviceMnemonic_signMessage": "Enter this **mnemonic** to sign",
 	"factorSourceActions_offDeviceMnemonic_message": "Enter this **mnemonic**",
 	"factorSourceActions_offDeviceMnemonic_incorrect": "Incorrect mnemonic",
+	"factorSourceActions_offDeviceMnemonic_invalid": "Invalid mnemonic",
 	"factorSourceActions_useDifferentFactor": "Use a different factor",
 	"factorSourceActions_ignore": "Ignore"
 }
