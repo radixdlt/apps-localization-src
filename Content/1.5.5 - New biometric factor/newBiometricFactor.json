@@ -6,7 +6,7 @@
   "newBiometricFactor_seedPhrase_enterCustomButton": "Clear and enter custom seed phrase",
   "newBiometricFactor_seedPhrase_wordLabel": "Word %d",
   "newBiometricFactor_confirmSeedPhrase_title": "Confirm Seed Phrase",
-  "newBiometricFactor_confirmSeedPhrase_subtitle": "Enter 3 words from your seed phrase to confirm you’ve recorded it correctly.",
+  "newBiometricFactor_confirmSeedPhrase_subtitle": "Enter %d words from your seed phrase to confirm you’ve recorded it correctly.",
   "newBiometricFactor_confirmSeedPhrase_incorrectWord": "Incorrect. Try again.",
   "newBiometricFactor_name_title": "Name your New Biometrics/PIN Seed Phrase",
   "newBiometricFactor_name_label": "Enter name",
