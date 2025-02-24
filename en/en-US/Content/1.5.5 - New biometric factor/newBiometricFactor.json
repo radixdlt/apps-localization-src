@@ -1,0 +1,15 @@
+{
+  "newBiometricFactor_intro_title": "Add a New Biometrics/PIN Seed Phrase",
+  "newBiometricFactor_intro_subtitle": "This factor is a seed phrase held by your phone and unlocked by your biometrics/PIN.",
+  "newBiometricFactor_seedPhrase_title": "Write Down Seed Phrase",
+  "newBiometricFactor_seedPhrase_subtitle": "Write down this BIP39 seed phrase and store safely for future use. Avoid storing electronically so no one can steal it online.",
+  "newBiometricFactor_seedPhrase_enterCustomButton": "Clear and enter custom seed phrase",
+  "newBiometricFactor_seedPhrase_wordLabel": "Word %d",
+  "newBiometricFactor_confirmSeedPhrase_title": "Confirm Seed Phrase",
+  "newBiometricFactor_confirmSeedPhrase_subtitle": "Enter %d words from your seed phrase to confirm you’ve recorded it correctly.",
+  "newBiometricFactor_confirmSeedPhrase_incorrectWord": "Incorrect. Try again.",
+  "newBiometricFactor_name_title": "Name your New Biometrics/PIN Seed Phrase",
+  "newBiometricFactor_name_label": "Enter name",
+  "newBiometricFactor_name_note": "This can be changed any time",
+  "newBiometricFactor_name_saveButton": "Save"
+}
