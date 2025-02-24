@@ -2,5 +2,5 @@
   "newFactor_error_alreadyInUse": "Factor Already In Use",
   "newFactor_error_notCreated": "Factor not created",
   "newFactor_success_title": "Success",
-  "newFactor_success_subtitle": "Security factor added successfully",
+  "newFactor_success_subtitle": "Security factor added successfully"
 }
