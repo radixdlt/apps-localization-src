@@ -16,10 +16,10 @@
 	"securityShields_changeMain_subtitle": "Choose which Security Shield will be pre-selected when you want to use one for an Account or Persona.",
 	"securityShields_createShieldButton": "Create New Security Shield",
 	"securityShields_applied_accountsAndPersonas": "This Security Shield is applied to these Accounts and Personas",
-	"securityShields_accounts_title": "Accounts",
-	"securityShields_personas_title": "Personas",
-	"securityShields_noAccounts_title": "No Accounts",
-	"securityShields_noPersonas_title": "No Personas",
-	"securityShields_hiddenAccountsOrPersonas_title": "Hidden Accounts or Personas",
-	"securityShields_editFactors_title": "Edit Factors"
+	"securityShields_accounts": "Accounts",
+	"securityShields_personas": "Personas",
+	"securityShields_noAccounts": "No Accounts",
+	"securityShields_noPersonas": "No Personas",
+	"securityShields_hiddenAccountsOrPersonas": "Hidden Accounts or Personas",
+	"securityShields_editFactors": "Edit Factors"
 }
