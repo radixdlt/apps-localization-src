@@ -13,5 +13,10 @@
     "preferences_advancedLockAndroid_subtitle": "Re-authenticate when switching, prevent screen recording",
     "preferences_displayPreferences": "Display",
     "preferences_hiddenAssets_title": "Hidden Assets",
-    "preferences_hiddenAssets_subtitle": "Manage hidden Tokens, NFTs, and other asset types"
+    "preferences_hiddenAssets_subtitle": "Manage hidden Tokens, NFTs, and other asset types",
+    "preferences_themeSelection_title": "Theme Selection",
+    "preferences_themeSelection_subtitle": "Change the app theme",
+    "preferences_themeSelection_light": "Light",
+    "preferences_themeSelection_dark": "Dark",
+    "preferences_themeSelection_system": "System"
 }
