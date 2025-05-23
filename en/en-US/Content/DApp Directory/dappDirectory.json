@@ -1,5 +1,7 @@
 {
-        "dappDirectory_title": "DApp Directory",
+        "dappDirectory_title": "dApp Directory",
         "dappDirectory_search_placeholder": "Search for a dApp...",
-        "dappDirectory_filters_title": "Tags"
+        "dappDirectory_filters_title": "Tags",
+        "dappDirectory_error_heading": "Failed to load dApps.",
+        "dappDirectory_error_message": "Pull to refresh"
 }
