@@ -29,5 +29,6 @@
 	"error_accountLabel_missing": "Account label required",
 	"error_transactionFailure_doesNotAllowThirdPartyDeposits": "One of the receiving accounts does not allow Third-Party deposits",
 	"error_emailSupportButtonTitle": "Email Support",
-	"error_emailSupportMessage": "Please email support to automatically provide debugging info, and get assistance.\nCode: %@"
+	"error_emailSupportMessage": "Please email support to automatically provide debugging info, and get assistance.\nCode: %@",
+	"error_rns_unknownDomain": "This XRD domain does not exist, or is not associated to any account."
 }
