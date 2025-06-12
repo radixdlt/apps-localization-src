@@ -1,10 +1,9 @@
 {
-    "discover_title": "dApp Directory",
     "homePage_tab_discover": "Discover",
     "discover_title": "Discover",
-    "discover_categoryLearn_title": "Learn",
+    "discover_categoryLearn_title": "Learn About",
     "discover_categorySocials_title": "Socials",
-    "discover_categoryAnnouncements_title": "Announcements",
+    "discover_categoryBlogPosts_title": "Blog Posts",
     "discover_seeMore_button": "See More",
     "learn_title": "Learn"
 }
