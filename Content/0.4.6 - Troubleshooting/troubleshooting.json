@@ -5,11 +5,9 @@
     "troubleshooting_accountScan_subtitle": "Recover Accounts with a seed phrase or Ledger device",
     "troubleshooting_legacyImport_title": "Import from a Legacy Wallet",
     "troubleshooting_legacyImport_subtitle": "Import Accounts from an Olympia wallet",
-    "troubleshooting_supportAndCommunity": "Support and Community",
+    "troubleshooting_support": "Support",
     "troubleshooting_contactSupport_title": "Contact Support",
     "troubleshooting_contactSupport_subtitle": "Connect directly with the Radix support team",
-    "troubleshooting_discord_title": "Discord",
-    "troubleshooting_discord_subtitle": "Connect to the official Radix Discord channel to join the community and ask for help.",
 	"troubleshooting_resetAccount": "Reset Account",
 	"troubleshooting_factoryReset_title": "Factory Reset",
 	"troubleshooting_factoryReset_subtitle": "Restore your Radix wallet to its original state"
