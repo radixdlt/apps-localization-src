@@ -1,0 +1,22 @@
+{
+    "homePage_tab_discover": "Discover",
+    "discover_title": "Discover",
+    "discover_view_all_dapps": "All dApps",
+    "discover_view_approved_dapps": "Approved dApps",
+    "discover_categoryLearn_title": "Learn About",
+    "discover_categoryCommunity_title": "Community",
+    "discover_categoryBlogPosts_title": "Blog Posts",
+    "discover_seeMore_button": "See More",
+    "learn_title": "Learn About",
+    "blogPosts_title": "Blog Posts",
+    "discover_blogPosts_failure_title": "Failed to load Blog Posts.",
+    "dsicover_blogPosts_failure_cta": "Pull to refresh",
+    "discover_blogPosts_failure_cta_button": "Tap to refresh",
+    "discover_blogPosts_see_all_blog_posts": "See all Blog Posts",
+    "discover_socialLinks_twitter_title": "Radix X Official",
+    "discover_socialLinks_twitter_subtitle": "Follow the official Radix X for news, updates, and insights.",
+    "discover_socialLinks_telegram_title": "Radix Telegram Official",
+    "discover_socialLinks_telegram_subtitle": "Join the Radix Telegram to chat, ask questions, and get updates.",
+    "discover_socialLinks_discord_title": "Radix Discord Official",
+    "discover_socialLinks_discord_subtitle": "Connect to the official Radix Discord channel to join the community and ask for help."
+}
