@@ -33,6 +33,5 @@
 	"common_noMnemonicAlert_text": "The required seed phrase is missing. Please return to the account and begin the recovery process.",
 	"common_close": "Close",
 	"common_hiddenAccountsOrPersonas": "Hidden Accounts or Personas",
-	"common_all": "All",
-	"common_searchHint": "Search..."
+	"common_all": "All"
 }
