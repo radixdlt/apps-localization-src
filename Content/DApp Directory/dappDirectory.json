@@ -10,5 +10,7 @@
     "dappDirectory_categoryDao_title": "Dao",
     "dappDirectory_categoryNFT_title": "NFT",
     "dappDirectory_categoryMeme_title": "Meme",
-    "dappDirectory_categoryOther_title": "Other"
+    "dappDirectory_categoryOther_title": "Other",
+    "dappDirectory_viewAllDApps": "All dApps",
+    "dappDirectory_viewConnectedDApps": "Connected dApps"
 }

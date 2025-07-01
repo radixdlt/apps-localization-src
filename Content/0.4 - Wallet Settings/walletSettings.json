@@ -5,8 +5,6 @@
     "walletSettings_personas_title": "Personas",
     "walletSettings_personas_subtitle": "Manage Radix dApp login details",
     "walletSettings_personas_hint": "Please write down the seed phrase for your Personas",
-    "walletSettings_dapps_title": "Approved dApps",
-    "walletSettings_dapps_subtitle": "Manage the Radix dApps you're connected to",
     "walletSettings_connectors_title": "Linked Connectors",
     "walletSettings_connectors_subtitle": "Connect to desktop through the Radix Connector browser extension",
     "walletSettings_preferences_title": "Preferences",
