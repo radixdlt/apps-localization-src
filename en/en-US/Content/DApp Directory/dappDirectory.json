@@ -12,5 +12,6 @@
     "dappDirectory_categoryMeme_title": "Meme",
     "dappDirectory_categoryOther_title": "Other",
     "dappDirectory_viewAllDApps": "All dApps",
-    "dappDirectory_viewConnectedDApps": "Connected dApps"
+    "dappDirectory_viewConnectedDApps": "Connected dApps",
+    "dappDirectory_connectedDApps_empty_description": "These are the dApps that you have logged into using the Radix Wallet."
 }
