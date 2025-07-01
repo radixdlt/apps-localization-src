@@ -1,6 +1,4 @@
 {
-	"authorizedDapps_title": "Approved dApps",
-	"authorizedDapps_subtitle": "These are the dApps that you have logged into using the Radix Wallet.",
 	"authorizedDapps_pendingDeposit": "A deposit from this dApp is available. Go to your Accounts to view and claim.",
 	"authorizedDapps_dAppDetails_dAppDefinition": "dApp Definition",
 	"authorizedDapps_dAppDetails_missingDescription": "Missing description",
