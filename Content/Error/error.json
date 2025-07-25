@@ -31,5 +31,6 @@
 	"error_emailSupportButtonTitle": "Email Support",
 	"error_emailSupportMessage": "Please email support to automatically provide debugging info, and get assistance.\nCode: %@",
 	"error_rns_unknownDomain": "This XRD domain does not exist, or is not associated to any account.",
-	"error_rns_unknownDomainButtonTitle": "Visit XRD domains"
+	"error_rns_unknownDomainButtonTitle": "Visit XRD domains",
+	"error_unknownArculusCard": "Unknown Arculus Card"
 }
