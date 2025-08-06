@@ -3,6 +3,7 @@
   "newBiometricFactor_intro_subtitle": "This factor is a seed phrase held by your phone and unlocked by your biometrics/PIN.",
   "newBiometricFactor_seedPhrase_title": "Write Down Seed Phrase",
   "newBiometricFactor_seedPhrase_subtitle": "Write down this BIP39 seed phrase and store safely for future use. Avoid storing electronically so no one can steal it online.",
+  "newBiometricFactor_seedPhraseCustom_subtitle": "Enter your BIP39 seed phrase. Make sure it's backed up securely and accessible only to you.",
   "newBiometricFactor_seedPhrase_enterCustomButton": "Clear and enter custom seed phrase",
   "newBiometricFactor_seedPhrase_wordLabel": "Word %d",
   "newBiometricFactor_confirmSeedPhrase_title": "Confirm Seed Phrase",
