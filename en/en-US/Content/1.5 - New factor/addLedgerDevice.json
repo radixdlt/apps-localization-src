@@ -14,5 +14,5 @@
 	"addFactorSource_ledger_title": "Add a New Ledger Nano",
 	"addFactorSource_ledger_description": "Ledger Nanos are hardware signing devices you can connect to your Radix Wallet with a USB cable and computer.",
 	"addFactorSource_ledger_nameTitle": "Name your New Ledger Nano",
-	"addFactorSource_ledger_identifyingInstructions": "Choose the Ledger Nano to use. Make sure it's connected to a computer with a linked Radix Connector browser extension."
+	"addFactorSource_ledger_identifyingInstructions": "Choose the **Ledger Nano** to use. Make sure it's connected to a computer with a linked Radix Connector browser extension."
 }

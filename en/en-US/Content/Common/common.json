@@ -34,5 +34,7 @@
 	"common_close": "Close",
 	"common_hiddenAccountsOrPersonas": "Hidden Accounts or Personas",
 	"common_all": "All",
-	"common_searchHint": "Search..."
+	"common_searchHint": "Search...",
+	"common_securedWith": "Secured with",
+	"common_processingProfile": "Processing Profile"
 }
