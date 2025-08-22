@@ -15,5 +15,6 @@
   "arculusScan_nfcDisabled_message": "Please enable NFC in system settings to continue.",
   "arculusScan_nfcDisabled_positiveButton": "Open Settings",
   "arculusScan_lostTagError_message": "NFC Session lost the connection with the tag.\nPlease retry.",
-  "arculusScan_unknownTagError_message": "NFC Session detected an unknown tag.\nPlease retry."
+  "arculusScan_unknownTagError_message": "NFC Session detected an unknown tag.\nPlease retry.",
+  "arculusScan_cardBlockedError_message": "Your card is blocked, to set a new PIN got through Forgot PIN recovery flow for your arculus."
 }
