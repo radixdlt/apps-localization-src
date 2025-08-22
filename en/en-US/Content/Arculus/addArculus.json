@@ -1,0 +1,12 @@
+{
+  "addFactorSource_arculus_title": "Add a New Arculus Card",
+  "addFactorSource_arculus_description": "Arculus Cards are hardware signing devices you tap to your phone to sign a transaction.",
+  "addFactorSource_arculus_nameTitle": "Name your New Arculus Card",
+  "addFactorSource_arculus_identifyingInstructions": "Tap and hold the **Arculus Card** you want to use to your phone.",
+  "addArculus_createPin_title": "Create New PIN",
+  "addArculus_createPin_description": "Choose a 6-digit PIN for your Arculus Card. You’ll keep this PIN if you use this card with another wallet.",
+  "addArculus_createPin_pinInputLabel": "Enter PIN",
+  "addArculus_createPin_confirmPinInputLabel": "Confirm PIN",
+  "addArculus_createPin_button": "Create",
+  "addArculus_firmwareVersionError_message": "Minimum Firmware Required (%s)"
+}
