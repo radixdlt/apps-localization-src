@@ -1,0 +1,12 @@
+{
+  "arculusDetails_verifyPin_title": "Change PIN",
+  "arculusDetails_verifyPin_description": "Enter your current Arculus PIN",
+  "arculusDetails_verifyPin_inputLabel": "Enter PIN",
+  "arculusDetails_verifyPin_errorMessage": "Wrong PIN. Number of remaining tries: %d",
+  "arculusDetails_changePin_title": "Change PIN",
+  "arculusDetails_changePin_description": "Enter your new Arculus PIN",
+  "arculusDetails_changePin_newPinInputLabel": "Enter new PIN",
+  "arculusDetails_changePin_confirmPinInputLabel": "Confirm PIN",
+  "arculusDetails_forgotPin_title": "Enter Seed Phrase",
+  "arculusDetails_forgotPin_description": "Enter your Arculus seed phrase"
+}
