@@ -36,5 +36,6 @@
 	"common_all": "All",
 	"common_searchHint": "Search...",
 	"common_securedWith": "Secured with",
-	"common_processingProfile": "Processing Profile"
+	"common_processingProfile": "Processing Profile",
+	"common_success": "Success"
 }
