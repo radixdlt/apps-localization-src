@@ -26,5 +26,7 @@
 	"factorSourceActions_offDeviceMnemonic_invalid": "Invalid mnemonic",
 	"factorSourceActions_useDifferentFactor": "Use a different factor",
 	"factorSourceActions_ignore": "Ignore",
-	"factorSourceActions_arculusEnterPin_heading": "Enter card PIN"
+	"factorSourceActions_arculusEnterPin_heading": "Enter PIN",
+	"factorSourceActions_arculusForgotPin_button": "Forgot PIN",
+	"factorSourceActions_arculusForgotPinInfo_message": "Go to your Arculus card security factor settings to reset the PIN"
 }
