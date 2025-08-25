@@ -25,5 +25,6 @@
 	"factorSourceActions_offDeviceMnemonic_wrong": "Wrong mnemonic",
 	"factorSourceActions_offDeviceMnemonic_invalid": "Invalid mnemonic",
 	"factorSourceActions_useDifferentFactor": "Use a different factor",
-	"factorSourceActions_ignore": "Ignore"
+	"factorSourceActions_ignore": "Ignore",
+	"factorSourceActions_arculusEnterPin_heading": "Enter card PIN"
 }
