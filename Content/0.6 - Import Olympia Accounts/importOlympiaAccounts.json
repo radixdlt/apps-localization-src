@@ -5,7 +5,7 @@
 	"importOlympiaAccounts_accountsToImport_title": "Import Accounts",
 	"importOlympiaAccounts_accountsToImport_subtitle": "The following accounts will be imported into this Radix Wallet.",
 	"importOlympiaAccounts_accountsToImport_legacyAccount": "Legacy Account",
-	"importOlympiaAccounts_accountsToImport_ledgerAccount": "Ledger (Legacy)",
+	"importOlympiaAccounts_accountsToImport_ledgerAccount": "Legacy",
 	"importOlympiaAccounts_accountsToImport_unnamed": "Unnamed",
 	"importOlympiaAccounts_accountsToImport_olympiaAddressLabel": "Olympia Address (Obsolete)",
 	"importOlympiaAccounts_accountsToImport_newAddressLabel": "New Address",
