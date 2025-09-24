@@ -14,6 +14,6 @@
   "shieldWizardApplyShield_chooseEntities_deselectAllButton": "Deselect all",
   "shieldWizardApplyShield_chooseEntities_skipButton": "Skip",
   "shieldWizardApplyShield_applyShield_title": "Apply your Shield",
-  "shieldWizardApplyShield_applyShield_subtitle": "Now let’s apply your Shield on the Radix Network with a transaction.",
+  "shieldWizardApplyShield_applyShield_subtitle": "Now let’s apply your Shield on the Radix Network with a transaction. To prepare the transaction you’ll need to present the factors used to build your Shield",
   "shieldWizardApplyShield_applyShield_saveButton": "Apply"
 }
