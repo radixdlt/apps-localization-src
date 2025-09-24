@@ -1,0 +1,5 @@
+{
+	"addFactorSource_offDeviceMnemonic_title": "Add a New Mnemonic Seed Phrase",
+	"addFactorSource_offDeviceMnemonic_description": "Mnemonics are 12 to 24-word BIP39 seed phrases that you’ll need to enter in full every time you use this factor.",
+	"addFactorSource_offDeviceMnemonic_nameTitle": "Name your New Mnemonic Seed Phrase"
+}
