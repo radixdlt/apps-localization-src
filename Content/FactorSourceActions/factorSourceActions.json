@@ -3,7 +3,7 @@
 	"factorSourceActions_deriveAccounts_title": "Deriving Accounts",
 	"factorSourceActions_proveOwnership_title": "Proving Ownership",
 	"factorSourceActions_encryptMessage_title": "Encrypting Message",
-	"factorSourceActions_updatingFactorConfig_title": "Updating Factor Config",
+	"factorSourceActions_updatingFactorConfig_title": "Deriving Public Keys",
 	"factorSourceActions_createKey_title": "Creating Key",
 	"factorSourceActions_spotCheck_title": "Check Factor",
 	"factorSourceActions_device_deriveAccountsMessage": "Authenticate to your phone to sign.",

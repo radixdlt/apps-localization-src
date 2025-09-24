@@ -6,5 +6,5 @@
 	"shieldSetupOnboarding_buildShieldStep_title": "Add your security factors and build your Shield",
 	"shieldSetupOnboarding_buildShieldStep_subtitle": "Add your security factors to your Radix Wallet and use them to build your Shield.",
 	"shieldSetupOnboarding_applyShieldStep_title": "Apply your Shield to your Accounts and Personas",
-	"shieldSetupOnboarding_applyShieldStep_subtitle": "Sign a transaction to apply your Shield to your Accounts and Personas.\n\nYou can use the same Shield for all of them or create multiple Shields."
+	"shieldSetupOnboarding_applyShieldStep_subtitle": "Sign a transaction to apply your Shield to your Account or Persona.\n\nYou can use the same Shield for your Accounts and Personas or create multiple Shields."
 }

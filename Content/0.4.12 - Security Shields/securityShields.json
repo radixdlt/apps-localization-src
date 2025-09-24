@@ -19,5 +19,6 @@
 	"securityShields_personas": "Personas",
 	"securityShields_noAccounts": "No Accounts",
 	"securityShields_noPersonas": "No Personas",
-	"securityShields_editFactors": "Edit Factors"
+	"securityShields_editFactors": "Edit Factors",
+	"securityShields_apply": "Apply"
 }

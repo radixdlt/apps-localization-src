@@ -31,7 +31,7 @@
     "transactionReview_updateShield_authSigningTitle": "Log In and Prove Ownership",
     "transactionReview_updateShield_authSigningMessage": "Factors required to log into dApps with Personas and prove ownership of Accounts.",
     "transactionReview_updateShield_authSigningThreshold": "Must present this factor",
-    "transactionReview_updateShield_regularAccessMessage": "Factors required to withdraw assets, log in to dApps and prove ownership.",
+    "transactionReview_updateShield_regularAccessMessage": "Factors required to sign transactions.",
     "transactionReview_updateShield_primaryThersholdMessage": "Must present **%s** of these factors",
     "transactionReview_updateShield_primaryOverrideMessage": "Or present **ANY** one of these override factors",
     "transactionReview_updateShield_nonPrimaryOverrideMessage": "Must present **ANY** of these factors",
