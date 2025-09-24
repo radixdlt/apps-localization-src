@@ -1,7 +1,7 @@
 {
   "shieldWizardRegularAccess_step_title": "Step 1 of 2",
   "shieldWizardRegularAccess_title": "Regular Access",
-  "shieldWizardRegularAccess_subtitle": "Factors required to withdraw assets from Accounts.",
+  "shieldWizardRegularAccess_subtitle": "Factors required to sign transactions.",
   "shieldWizardRegularAccess_combination_label": "OR",
   "shieldWizardRegularAccess_thresholdDescription_title": "You'll need to use %s of the following:",
   "shieldWizardRegularAccess_thresholdDescription_selection": "**%s**",
