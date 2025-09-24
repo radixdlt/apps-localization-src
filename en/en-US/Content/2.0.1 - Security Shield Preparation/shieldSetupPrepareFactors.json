@@ -1,6 +1,6 @@
 {
 	"shieldSetupPrepareFactors_intro_title": "Let’s Prepare your Factors",
-	"shieldSetupPrepareFactors_intro_subtitleTop": "You need at least **2 factors** to build a Security Shield. 1 of your factors must be a hardware device.",
+	"shieldSetupPrepareFactors_intro_subtitleTop": "It is recommended to use at least **2 factors** to build a Security Shield, one of which is a hardware device.",
 	"shieldSetupPrepareFactors_intro_subtitleBottom": "A future wallet update will enable Shields without needing a hardware device.",
 	"shieldSetupPrepareFactors_intro_button": "Start",
 	"shieldSetupPrepareFactors_addHardwareFactor_title": "Add a Hardware Device",
