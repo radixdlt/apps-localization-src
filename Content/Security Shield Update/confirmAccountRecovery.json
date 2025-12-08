@@ -1,0 +1,7 @@
+{
+  "confirmAccountRecovery_title": "Cannot Update Shield Yet",
+  "confirmAccountRecovery_subtitle": "You can use your timed emergency fallback to confirm Shield update or you can restart the signing process.",
+  "confirmAccountRecovery_description": "Starts the Shield update process. Requires a confirmation transaction when wait period is over.",
+  "confirmAccountRecovery_confirmInLabel": "You can confirm in",
+  "confirmAccountRecovery_useButton": "Use Emergency Fallback"
+}
