@@ -41,5 +41,7 @@
     "transactionReview_updateShield_confirmationDelayMessage": "Time period to automatically confirm recovery WITHOUT presenting any confirmation factors",
     "transactionReview_updateShield_proveOwnerhipTitle": "Log In and Prove Ownership",
     "transactionReview_updateShield_proveOwnerhipMessage": "Factors required to log into dApps with Personas and prove ownership of Accounts.",
-    "transactionReview_updateShield_proveOwnerhipThreshold": "Must present this factor"
+    "transactionReview_updateShield_proveOwnerhipThreshold": "Must present this factor",
+	"transactionReview_updateShield_stopTimedRecoveryTitle": "Stop Timed Recovery",
+	"transactionReview_updateShield_stopTimedRecoveryDescription": "Stopping timed recovery. Your current security setup will remain unchanged."
 }
