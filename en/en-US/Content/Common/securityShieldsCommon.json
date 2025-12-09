@@ -3,5 +3,7 @@
 	"commonSecurityShields_securityShieldDetails": "View security shield details",
 	"commonSecurityShields_applyShield": "Apply Shield",
 	"commonSecurityShields_shielded": "Shielded",
-	"commonSecurityShields_select_title": "Select Security Shield"
+	"commonSecurityShields_select_title": "Select Security Shield",
+	"commonSecurityShields_recoveryIn": "Recovery in %s",
+	"commonSecurityShields_recoveryReadyToConfirm": "Recovery ready to confirm"
 }
